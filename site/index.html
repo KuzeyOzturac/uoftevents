@@ -22,14 +22,14 @@
   footer{max-width:1100px;margin:auto;padding:0 24px 50px;color:#657286;font-size:13px;line-height:1.5}
   .notice{background:#e8f1fa;border-radius:10px;padding:14px 16px;margin:0 0 28px;color:#263c58}
 </style>
-<header><div class="eyebrow">Toronto campus opportunities</div><h1>Find your next<br>U of T event.</h1><p>Explore the public U of T events index and Hart House calendar. Search by topic, department, and date, then check the organizer's details.</p></header>
+<header><div class="eyebrow">Toronto campus opportunities</div><h1>Find your next<br>U of T event.</h1><p>Explore the public U of T events index. Search by topic, department, and date, then check the organizer's details.</p></header>
 <main>
   <p class="notice">Dates on the U of T index may be ranges or lack a time. Open the official event page before registering or making plans.</p>
   <div class="toolbar"><input class="search" id="search" type="search" placeholder="Search events or departments" aria-label="Search events"><div class="date-filter"><label>From<input id="from" type="date"></label><label>To<input id="to" type="date"></label></div></div>
   <details class="departments"><summary id="department-summary">All departments</summary><div class="department-panel"><button class="clear" id="clear-departments" type="button">Clear selection</button><div class="department-options" id="department-options" role="group" aria-label="Departments"></div></div></details>
   <p class="status" id="status" role="status">Loading events…</p><div class="grid" id="events"></div>
 </main>
-<footer>Sources: <a href="https://www.utoronto.ca/events">University of Toronto events</a> and <a href="https://harthouse.ca/events/month">Hart House events</a>. This independent viewer refreshes daily and does not include every event at St. George. Times, eligibility, and registration are set by organizers.</footer>
+<footer>Source: <a href="https://www.utoronto.ca/events">University of Toronto events</a>. This independent viewer refreshes daily and does not include every event at St. George. Times, eligibility, and registration are set by organizers.</footer>
 <script>
 const feed='./events.json';
 const list=document.querySelector('#events');

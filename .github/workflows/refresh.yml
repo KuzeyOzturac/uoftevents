@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Refresh public event feed
-        run: python scrape.py --university-only
+        run: python scrape.py
       - name: Commit changed feed
         run: |
           if ! git diff --quiet -- site/events.json site/events.ics; then
