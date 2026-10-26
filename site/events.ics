@@ -243,6 +243,14 @@ DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/
 URL:https://cris.utoronto.ca/event/drawing-across-the-disciplines-fieldwork-webinar-nov-4-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.registrar.utoronto.ca%2Fconvocation-events%2Ffall-2026-ceremony-1%2F@uoftevents
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:F1. Faculty of Arts & Science
+DESCRIPTION:Verify time\, location\, and registration: https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-1/
+URL:https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-1/
+END:VEVENT
+BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.registrar.utoronto.ca%2Fconvocation-events%2Ff2-school-of-graduate-studies-arts-science-industrial-relations-and-public-health%2F@uoftevents
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
@@ -251,12 +259,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.registrar.uto
 URL:https://www.registrar.utoronto.ca/convocation-events/f2-school-of-graduate-studies-arts-science-industrial-relations-and-public-health/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.registrar.utoronto.ca%2Fconvocation-events%2Ffall-2026-ceremony-1%2F@uoftevents
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:F1. Faculty of Arts & Science
-DESCRIPTION:Verify time\, location\, and registration: https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-1/
-URL:https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-1/
+UID:https%3A%2F%2Fwww.registrar.utoronto.ca%2Fconvocation-events%2Ffall-2026-ceremony-4%2F@uoftevents
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:F4. School of Graduate Studies: Jackman Law\, Munk School\, and Rotman Management
+DESCRIPTION:Verify time\, location\, and registration: https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-4/
+URL:https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.registrar.utoronto.ca%2Fconvocation-events%2Ffall-2026-ceremony-5%2F@uoftevents
@@ -273,14 +281,6 @@ DTEND;VALUE=DATE:20261028
 SUMMARY:F3. School of Graduate Studies: Architecture\, Landscape\, and Design\; Ontario Institute for Studies in Education\; Music\; and Social Work
 DESCRIPTION:Verify time\, location\, and registration: https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-3/
 URL:https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.registrar.utoronto.ca%2Fconvocation-events%2Ffall-2026-ceremony-4%2F@uoftevents
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:F4. School of Graduate Studies: Jackman Law\, Munk School\, and Rotman Management
-DESCRIPTION:Verify time\, location\, and registration: https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-4/
-URL:https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.dlsph.utoronto.ca%2Fevent%2Fmph-in-black-health-information-sessions-4%2F@uoftevents
@@ -419,20 +419,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.u
 URL:https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-10-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Femerging-leaders-workshop-leadership-101%2F@uoftevents
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Emerging Leaders Workshop – Leadership 101
-DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/emerging-leaders-workshop-leadership-101/
-URL:https://www.engineering.utoronto.ca/event/emerging-leaders-workshop-leadership-101/
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Finfo-session-daad-rise-germany-research-internships-in-science-engineering%2F@uoftevents
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Info Session: DAAD RISE Germany – Research Internships in Science & Engineering
 DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/info-session-daad-rise-germany-research-internships-in-science-engineering/
 URL:https://www.engineering.utoronto.ca/event/info-session-daad-rise-germany-research-internships-in-science-engineering/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Femerging-leaders-workshop-leadership-101%2F@uoftevents
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Emerging Leaders Workshop – Leadership 101
+DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/emerging-leaders-workshop-leadership-101/
+URL:https://www.engineering.utoronto.ca/event/emerging-leaders-workshop-leadership-101/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.artsci.utoronto.ca%2Fevents%2Fpop-cinematheque-devil-and-daniel-mouse-35mm@uoftevents
@@ -483,20 +483,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://kpe.utoronto.ca/w
 URL:https://kpe.utoronto.ca/wed-10282026-0800/moveu-refresh-recharge
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fkpe.utoronto.ca%2Fthu-10292026-1915%2Fmoveu-skate-series@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:MoveU Skate Series
-DESCRIPTION:Verify time\, location\, and registration: https://kpe.utoronto.ca/thu-10292026-1915/moveu-skate-series
-URL:https://kpe.utoronto.ca/thu-10292026-1915/moveu-skate-series
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fkpe.utoronto.ca%2Fthu-10292026-1800%2Fbachelor-kinesiology-virtual-info-session@uoftevents
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Bachelor of Kinesiology Virtual Info Session
 DESCRIPTION:Verify time\, location\, and registration: https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session
 URL:https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fkpe.utoronto.ca%2Fthu-10292026-1915%2Fmoveu-skate-series@uoftevents
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:MoveU Skate Series
+DESCRIPTION:Verify time\, location\, and registration: https://kpe.utoronto.ca/thu-10292026-1915/moveu-skate-series
+URL:https://kpe.utoronto.ca/thu-10292026-1915/moveu-skate-series
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fkpe.utoronto.ca%2Fsat-11142026-0930%2Ffall-campus-day@uoftevents
@@ -539,12 +539,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca
 URL:https://music.utoronto.ca/event/261110-masterclass-barbara-hannigan
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2F261111-masterclass-tracy-dahl@uoftevents
+UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2F261111-hybrid-ensemble@uoftevents
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:John R. Stratton Visitor in Music: Masterclass: Tracy Dahl
-DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/261111-masterclass-tracy-dahl
-URL:https://music.utoronto.ca/event/261111-masterclass-tracy-dahl
+SUMMARY:Hybrid Ensemble
+DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/261111-hybrid-ensemble
+URL:https://music.utoronto.ca/event/261111-hybrid-ensemble
 END:VEVENT
 BEGIN:VEVENT
 UID:http%3A%2F%2Fwww.fields.utoronto.ca%2Factivities%2F26-27%2Foptimization@uoftevents
@@ -883,20 +883,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.u
 URL:https://temertymedicine.utoronto.ca/event/inclusive-research-teams-workshop
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Fblack-womens-healthcare-summit-0@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Black Women's Healthcare Summit
-DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.utoronto.ca/event/black-womens-healthcare-summit-0
-URL:https://temertymedicine.utoronto.ca/event/black-womens-healthcare-summit-0
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Fdns-research-day-and-edna-park-lecture-2026@uoftevents
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:DNS Research Day and Edna Park Lecture 2026
 DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.utoronto.ca/event/dns-research-day-and-edna-park-lecture-2026
 URL:https://temertymedicine.utoronto.ca/event/dns-research-day-and-edna-park-lecture-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Fblack-womens-healthcare-summit-0@uoftevents
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Black Women's Healthcare Summit
+DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.utoronto.ca/event/black-womens-healthcare-summit-0
+URL:https://temertymedicine.utoronto.ca/event/black-womens-healthcare-summit-0
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Ftemerty-ukraine-toronto-education-collaboration-fund-0@uoftevents
@@ -939,20 +939,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.uto
 URL:https://entrepreneurs.utoronto.ca/event/the-future-of-indigenous-entrepreneurship/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fecho-pitch-2026%2F@uoftevents
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:ECHO PITCH 2026
-DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/echo-pitch-2026/
-URL:https://entrepreneurs.utoronto.ca/event/echo-pitch-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fcfe-connects-lunch-launch-spooky-startup-stories%2F@uoftevents
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:CfE Connects Lunch & Launch: Spooky Startup Stories
 DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/cfe-connects-lunch-launch-spooky-startup-stories/
 URL:https://entrepreneurs.utoronto.ca/event/cfe-connects-lunch-launch-spooky-startup-stories/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fecho-pitch-2026%2F@uoftevents
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:ECHO PITCH 2026
+DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/echo-pitch-2026/
+URL:https://entrepreneurs.utoronto.ca/event/echo-pitch-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.utsc.utoronto.ca%2Fhwc%2Fconnectu-connecting-students-creating-community@uoftevents
