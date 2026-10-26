@@ -3,12 +3,14 @@ import json
 import re
 import urllib.request
 import urllib.parse
-from datetime import datetime
+from datetime import datetime, timedelta
 from html.parser import HTMLParser
 from pathlib import Path
 
 SOURCE = "https://www.utoronto.ca/events"
 OUT = Path(__file__).parent / "site" / "events.json"
+ICS = Path(__file__).parent / "site" / "events.ics"
+MONTHS = "January February March April May June July August September October November December".split()
 
 
 class EventTable(HTMLParser):
@@ -67,12 +69,43 @@ def parse(html):
     return events
 
 
+def first_day(label):
+    match = re.search(r"\b(" + "|".join(MONTHS) + r")\s+(\d{1,2})\b.*?\b(20\d{2})\b", label, re.I)
+    if not match:
+        return None
+    try:
+        return datetime.strptime(f"{match[1]} {match[2]} {match[3]}", "%B %d %Y").date()
+    except ValueError:
+        return None
+
+
+def ics_escape(value):
+    return value.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+
+
+def make_ics(events):
+    lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//UofT Event Scout//EN", "X-WR-CALNAME:U of T Events"]
+    for event in events:
+        day = first_day(event["date"])
+        if not day:
+            continue
+        lines += ["BEGIN:VEVENT", f"UID:{urllib.parse.quote(event['url'], safe='')}@uoftevents",
+                  f"DTSTART;VALUE=DATE:{day:%Y%m%d}",
+                  f"DTEND;VALUE=DATE:{day + timedelta(days=1):%Y%m%d}",
+                  f"SUMMARY:{ics_escape(event['title'])}",
+                  f"DESCRIPTION:{ics_escape('Verify time, location, and registration: ' + event['url'])}",
+                  f"URL:{event['url']}", "END:VEVENT"]
+    lines.append("END:VCALENDAR")
+    return "\r\n".join(lines) + "\r\n"
+
+
 def main():
     request = urllib.request.Request(SOURCE, headers={"User-Agent": "UofTEventsCalendar/1.0 (public events index)"})
     with urllib.request.urlopen(request, timeout=30) as response:
         events = parse(response.read().decode("utf-8"))
     if len(events) < 5:
         raise RuntimeError(f"Found only {len(events)} events; refusing to replace the feed")
+    ICS.write_text(make_ics(events))
     if OUT.exists() and json.loads(OUT.read_text()).get("events") == events:
         print(f"No changes in {len(events)} events")
         return
