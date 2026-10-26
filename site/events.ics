@@ -75,12 +75,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://alumni.utoronto.c
 URL:https://alumni.utoronto.ca/events/exhibition-leading-landscape
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Falumni.utoronto.ca%2Fevents%2Fu-t-alumni-virtual-book-club-lion-women-tehran@uoftevents
+UID:https%3A%2F%2Falumni.utoronto.ca%2Fevents%2Fu-t-alumni-virtual-book-club-lion-women-tehran-0@uoftevents
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:U of T Alumni Virtual Book Club — The Lion Women of Tehran
-DESCRIPTION:Verify time\, location\, and registration: https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran
-URL:https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran
+DESCRIPTION:Verify time\, location\, and registration: https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0
+URL:https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fbrn.utoronto.ca%2Fevent%2Fresearch-ethics-in-the-social-sciences-humanities-and-education-cris%2F@uoftevents
@@ -315,20 +315,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.dlsph.utoront
 URL:https://www.dlsph.utoronto.ca/event/global-health-student-practicum-showcase/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fethics-and-political-philosophy-interest-group%2F@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Ethics and Political Philosophy Interest Group Talk
-DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group/
-URL:https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group/
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fethics-and-political-philosophy-interest-group-iwao-hirose-mcgill%2F@uoftevents
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Ethics and Political Philosophy Interest Group Talk (Iwao Hirose\, McGill)
 DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-iwao-hirose-mcgill/
 URL:https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-iwao-hirose-mcgill/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fethics-and-political-philosophy-interest-group%2F@uoftevents
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Ethics and Political Philosophy Interest Group Talk
+DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group/
+URL:https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fapplying-to-grad-school-workshop-and-panel%2F@uoftevents
@@ -339,20 +339,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoron
 URL:https://philosophy.utoronto.ca/event/applying-to-grad-school-workshop-and-panel/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fcontinental-philosophy-research-group-thimo-heisenberg-rice-university%2F@uoftevents
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Continental Philosophy Research Group (Thimo Heisenberg\, Rice University)
-DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/continental-philosophy-research-group-thimo-heisenberg-rice-university/
-URL:https://philosophy.utoronto.ca/event/continental-philosophy-research-group-thimo-heisenberg-rice-university/
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fcontinental-philosophy-research-group-talk%2F@uoftevents
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Continental Philosophy Research Group Talk
 DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/continental-philosophy-research-group-talk/
 URL:https://philosophy.utoronto.ca/event/continental-philosophy-research-group-talk/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fcontinental-philosophy-research-group-thimo-heisenberg-rice-university%2F@uoftevents
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Continental Philosophy Research Group (Thimo Heisenberg\, Rice University)
+DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/continental-philosophy-research-group-thimo-heisenberg-rice-university/
+URL:https://philosophy.utoronto.ca/event/continental-philosophy-research-group-thimo-heisenberg-rice-university/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Feeb.utoronto.ca%2Fevent%2Fpervasive-selective-sweeps-within-and-across-human-gut-microbiomes-nandita-garud-ucla%2F@uoftevents
@@ -483,20 +483,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://kpe.utoronto.ca/w
 URL:https://kpe.utoronto.ca/wed-10282026-0800/moveu-refresh-recharge
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fkpe.utoronto.ca%2Fthu-10292026-1800%2Fbachelor-kinesiology-virtual-info-session@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Bachelor of Kinesiology Virtual Info Session
-DESCRIPTION:Verify time\, location\, and registration: https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session
-URL:https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fkpe.utoronto.ca%2Fthu-10292026-1915%2Fmoveu-skate-series@uoftevents
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:MoveU Skate Series
 DESCRIPTION:Verify time\, location\, and registration: https://kpe.utoronto.ca/thu-10292026-1915/moveu-skate-series
 URL:https://kpe.utoronto.ca/thu-10292026-1915/moveu-skate-series
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fkpe.utoronto.ca%2Fthu-10292026-1800%2Fbachelor-kinesiology-virtual-info-session@uoftevents
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Bachelor of Kinesiology Virtual Info Session
+DESCRIPTION:Verify time\, location\, and registration: https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session
+URL:https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fkpe.utoronto.ca%2Fsat-11142026-0930%2Ffall-campus-day@uoftevents
@@ -659,14 +659,6 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoro
 URL:https://www.daniels.utoronto.ca/events/1794265200/info-session-master-landscape-architecture-mla
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.pharmacy.utoronto.ca%2Fevents%2Fbuilding-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems@uoftevents
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Building Canada's First Pan-Canadian Primary Care Strategy: Opportunities to Integrate Pharmacists into Primary Care Systems
-DESCRIPTION:Verify time\, location\, and registration: https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems
-URL:https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.pharmacy.utoronto.ca%2Fevents%2F2026-explore-health-sciences-grad-professional-programs-fair@uoftevents
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
@@ -681,6 +673,14 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Rolling the Dice for Better Health Policy
 DESCRIPTION:Verify time\, location\, and registration: https://www.pharmacy.utoronto.ca/events/rolling-dice-better-health-policy
 URL:https://www.pharmacy.utoronto.ca/events/rolling-dice-better-health-policy
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.pharmacy.utoronto.ca%2Fevents%2Fbuilding-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems@uoftevents
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Building Canada's First Pan-Canadian Primary Care Strategy: Opportunities to Integrate Pharmacists into Primary Care Systems
+DESCRIPTION:Verify time\, location\, and registration: https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems
+URL:https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.pharmacy.utoronto.ca%2Fevents%2Fvirtual-open-house-pharmd-pharmacists-program@uoftevents
@@ -707,28 +707,28 @@ DESCRIPTION:Verify time\, location\, and registration: https://utoronto.zoom.us/
 URL:https://utoronto.zoom.us/meeting/register/Au5EKE37QQOUKgC8DzfQYg#/registration
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fscan%2Fevents%2F10-27-26-climate-change-education-conference@uoftevents
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Climate Change Education Conference
-DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/scan/events/10-27-26-climate-change-education-conference
-URL:https://www.oise.utoronto.ca/scan/events/10-27-26-climate-change-education-conference
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fconvocation-hub@uoftevents
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:OISE Convocation Alumni Booth & Pin Pick-Up
-DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/convocation-hub
-URL:https://www.oise.utoronto.ca/convocation-hub
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Falumni.utoronto.ca%2Fevents%2Fcopper-woman-afua-cooper-and-her-poetry-film-screening-and-conversation-dr-afua-cooper@uoftevents
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Film Screening and Conversation with Dr. Afua Cooper
 DESCRIPTION:Verify time\, location\, and registration: https://alumni.utoronto.ca/events/copper-woman-afua-cooper-and-her-poetry-film-screening-and-conversation-dr-afua-cooper
 URL:https://alumni.utoronto.ca/events/copper-woman-afua-cooper-and-her-poetry-film-screening-and-conversation-dr-afua-cooper
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.eventbrite.ca%2Fe%2Fbook-event-mentorship-by-frankie-j-weinberg-tickets-2002964640157%3Faff%3Doddtdtcreator@uoftevents
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Book Event: Mentorship by Frankie J. Weinberg
+DESCRIPTION:Verify time\, location\, and registration: https://www.eventbrite.ca/e/book-event-mentorship-by-frankie-j-weinberg-tickets-2002964640157?aff=oddtdtcreator
+URL:https://www.eventbrite.ca/e/book-event-mentorship-by-frankie-j-weinberg-tickets-2002964640157?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fscan%2Fevents%2F10-27-26-climate-change-education-conference-2026@uoftevents
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Climate Change Education Conference 2026
+DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/scan/events/10-27-26-climate-change-education-conference-2026
+URL:https://www.oise.utoronto.ca/scan/events/10-27-26-climate-change-education-conference-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.rotman.utoronto.ca%2Fnews-events-and-ideas%2Fpublic-events%2Fevents-listings%2F2026%2Foctober-2026%2Foct-28---maxime-cohen%2F@uoftevents
@@ -939,20 +939,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.uto
 URL:https://entrepreneurs.utoronto.ca/event/the-future-of-indigenous-entrepreneurship/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fcfe-connects-lunch-launch-spooky-startup-stories%2F@uoftevents
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:CfE Connects Lunch & Launch: Spooky Startup Stories
-DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/cfe-connects-lunch-launch-spooky-startup-stories/
-URL:https://entrepreneurs.utoronto.ca/event/cfe-connects-lunch-launch-spooky-startup-stories/
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fecho-pitch-2026%2F@uoftevents
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:ECHO PITCH 2026
 DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/echo-pitch-2026/
 URL:https://entrepreneurs.utoronto.ca/event/echo-pitch-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fcfe-connects-lunch-launch-spooky-startup-stories%2F@uoftevents
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:CfE Connects Lunch & Launch: Spooky Startup Stories
+DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/cfe-connects-lunch-launch-spooky-startup-stories/
+URL:https://entrepreneurs.utoronto.ca/event/cfe-connects-lunch-launch-spooky-startup-stories/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.utsc.utoronto.ca%2Fhwc%2Fconnectu-connecting-students-creating-community@uoftevents

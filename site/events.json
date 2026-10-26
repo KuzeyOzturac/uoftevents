@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T17:18:50.807566+00:00",
+  "updated_at": "2026-10-26T17:28:18.237111+00:00",
   "source": "https://www.utoronto.ca/events",
   "events": [
     {
@@ -59,7 +59,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
       "unit": ""
     },
     {
@@ -237,15 +237,15 @@
       "unit": ""
     },
     {
-      "title": "Ethics and Political Philosophy Interest Group Talk",
-      "date": "October 29, 2026",
-      "url": "https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group/",
-      "unit": ""
-    },
-    {
       "title": "Ethics and Political Philosophy Interest Group Talk (Iwao Hirose, McGill)",
       "date": "October 29, 2026",
       "url": "https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-iwao-hirose-mcgill/",
+      "unit": ""
+    },
+    {
+      "title": "Ethics and Political Philosophy Interest Group Talk",
+      "date": "October 29, 2026",
+      "url": "https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group/",
       "unit": ""
     },
     {
@@ -255,15 +255,15 @@
       "unit": ""
     },
     {
-      "title": "Continental Philosophy Research Group (Thimo Heisenberg, Rice University)",
-      "date": "November 5, 2026",
-      "url": "https://philosophy.utoronto.ca/event/continental-philosophy-research-group-thimo-heisenberg-rice-university/",
-      "unit": ""
-    },
-    {
       "title": "Continental Philosophy Research Group Talk",
       "date": "November 5, 2026",
       "url": "https://philosophy.utoronto.ca/event/continental-philosophy-research-group-talk/",
+      "unit": ""
+    },
+    {
+      "title": "Continental Philosophy Research Group (Thimo Heisenberg, Rice University)",
+      "date": "November 5, 2026",
+      "url": "https://philosophy.utoronto.ca/event/continental-philosophy-research-group-thimo-heisenberg-rice-university/",
       "unit": ""
     },
     {
@@ -363,15 +363,15 @@
       "unit": ""
     },
     {
-      "title": "Bachelor of Kinesiology Virtual Info Session",
-      "date": "October 29, 2026",
-      "url": "https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session",
-      "unit": ""
-    },
-    {
       "title": "MoveU Skate Series",
       "date": "October 29, 2026",
       "url": "https://kpe.utoronto.ca/thu-10292026-1915/moveu-skate-series",
+      "unit": ""
+    },
+    {
+      "title": "Bachelor of Kinesiology Virtual Info Session",
+      "date": "October 29, 2026",
+      "url": "https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session",
       "unit": ""
     },
     {
@@ -495,12 +495,6 @@
       "unit": ""
     },
     {
-      "title": "Building Canada's First Pan-Canadian Primary Care Strategy: Opportunities to Integrate Pharmacists into Primary Care Systems",
-      "date": "November 5, 2026",
-      "url": "https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems",
-      "unit": ""
-    },
-    {
       "title": "2026 Explore Health Sciences: Grad & Professional Programs Fair",
       "date": "November 5, 2026",
       "url": "https://www.pharmacy.utoronto.ca/events/2026-explore-health-sciences-grad-professional-programs-fair",
@@ -510,6 +504,12 @@
       "title": "Rolling the Dice for Better Health Policy",
       "date": "November 5, 2026",
       "url": "https://www.pharmacy.utoronto.ca/events/rolling-dice-better-health-policy",
+      "unit": ""
+    },
+    {
+      "title": "Building Canada's First Pan-Canadian Primary Care Strategy: Opportunities to Integrate Pharmacists into Primary Care Systems",
+      "date": "November 5, 2026",
+      "url": "https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems",
       "unit": ""
     },
     {
@@ -531,21 +531,21 @@
       "unit": ""
     },
     {
-      "title": "Climate Change Education Conference",
-      "date": "October 27, 2026",
-      "url": "https://www.oise.utoronto.ca/scan/events/10-27-26-climate-change-education-conference",
-      "unit": ""
-    },
-    {
-      "title": "OISE Convocation Alumni Booth & Pin Pick-Up",
-      "date": "October 27, 2026",
-      "url": "https://www.oise.utoronto.ca/convocation-hub",
-      "unit": ""
-    },
-    {
       "title": "Film Screening and Conversation with Dr. Afua Cooper",
       "date": "October 27, 2026",
       "url": "https://alumni.utoronto.ca/events/copper-woman-afua-cooper-and-her-poetry-film-screening-and-conversation-dr-afua-cooper",
+      "unit": ""
+    },
+    {
+      "title": "Book Event: Mentorship by Frankie J. Weinberg",
+      "date": "October 27, 2026",
+      "url": "https://www.eventbrite.ca/e/book-event-mentorship-by-frankie-j-weinberg-tickets-2002964640157?aff=oddtdtcreator",
+      "unit": ""
+    },
+    {
+      "title": "Climate Change Education Conference 2026",
+      "date": "October 27, 2026",
+      "url": "https://www.oise.utoronto.ca/scan/events/10-27-26-climate-change-education-conference-2026",
       "unit": ""
     },
     {
@@ -705,15 +705,15 @@
       "unit": ""
     },
     {
-      "title": "CfE Connects Lunch & Launch: Spooky Startup Stories",
-      "date": "October 28, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/cfe-connects-lunch-launch-spooky-startup-stories/",
-      "unit": ""
-    },
-    {
       "title": "ECHO PITCH 2026",
       "date": "October 28, 2026",
       "url": "https://entrepreneurs.utoronto.ca/event/echo-pitch-2026/",
+      "unit": ""
+    },
+    {
+      "title": "CfE Connects Lunch & Launch: Spooky Startup Stories",
+      "date": "October 28, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/cfe-connects-lunch-launch-spooky-startup-stories/",
       "unit": ""
     },
     {
