@@ -8,32 +8,110 @@
   :root{font-family:Inter,system-ui,-apple-system,sans-serif;color:#172238;background:#f6f3ed}
   *{box-sizing:border-box}body{margin:0}header{background:#14213d;color:white;padding:48px max(24px,calc((100vw - 1100px)/2)) 52px}
   .eyebrow{text-transform:uppercase;letter-spacing:.16em;color:#a9c9ec;font-size:12px;font-weight:700}h1{font-size:clamp(36px,6vw,68px);line-height:1.04;letter-spacing:-.045em;margin:16px 0}header p{max-width:650px;color:#d2deea;line-height:1.6}
-  main{max-width:1100px;margin:auto;padding:32px 24px 80px}.toolbar{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:16px}
-  input,select{font:inherit;padding:13px 15px;border:1px solid #c9cdd2;border-radius:10px;background:white;color:#172238}input{flex:1;min-width:250px}
+  main{max-width:1100px;margin:auto;padding:32px 24px 80px}.toolbar{display:flex;flex-wrap:wrap;gap:12px;align-items:end;margin-bottom:16px}
+  input{font:inherit;padding:13px 15px;border:1px solid #c9cdd2;border-radius:10px;background:white;color:#172238}.search{flex:1;min-width:230px}
+  .date-filter{display:flex;gap:12px;flex-wrap:wrap}.date-filter label{display:grid;gap:5px;color:#526073;font-size:13px;font-weight:700}.date-filter input{min-width:150px}
+  .departments{position:relative;margin-bottom:20px}.departments summary{display:inline-block;cursor:pointer;padding:12px 15px;border:1px solid #c9cdd2;border-radius:10px;background:white;font-weight:700;list-style:none}.departments summary::-webkit-details-marker{display:none}.departments summary::after{content:' ▾';color:#526073}
+  .department-panel{position:absolute;z-index:2;top:48px;left:0;width:min(460px,calc(100vw - 48px));max-height:320px;overflow:auto;padding:14px;background:white;border:1px solid #c9cdd2;border-radius:10px;box-shadow:0 12px 24px #14213d22}
+  .department-options{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:8px 12px}.department-options label{display:flex;align-items:start;gap:8px;line-height:1.35;font-size:14px;cursor:pointer}.department-options input{margin:2px 0;accent-color:#14213d}.clear{margin-bottom:12px;padding:0;background:none;color:#064f9b;border:0;font:inherit;font-weight:700;cursor:pointer}
   .status{color:#526073;font-size:14px;margin:0 0 22px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
   article{background:white;border:1px solid #e3e4e5;border-radius:15px;padding:22px;display:flex;flex-direction:column;min-height:225px;box-shadow:0 3px 14px #14213d0a}
   article h2{font-size:21px;line-height:1.3;margin:8px 0 12px;letter-spacing:-.02em}.date{color:#a3372d;font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:.04em}
   .unit{color:#637083;font-size:13px;margin-top:auto;padding-top:20px}.actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:15px}a{color:#064f9b;font-weight:700;text-decoration:none}a:hover{text-decoration:underline}
-  button{cursor:pointer;border:0;border-radius:8px;background:#14213d;color:white;font:inherit;font-weight:700;padding:10px 13px}button:disabled{opacity:.5;cursor:not-allowed}
   footer{max-width:1100px;margin:auto;padding:0 24px 50px;color:#657286;font-size:13px;line-height:1.5}
   .notice{background:#e8f1fa;border-radius:10px;padding:14px 16px;margin:0 0 28px;color:#263c58}
 </style>
-<header><div class="eyebrow">Toronto campus opportunities</div><h1>Find your next<br>U of T event.</h1><p>A focused view of the public University of Toronto events index. Search, check the organizer's details, and save the ones you want to your calendar.</p></header>
+<header><div class="eyebrow">Toronto campus opportunities</div><h1>Find your next<br>U of T event.</h1><p>A focused view of the public University of Toronto events index. Search by topic, department, and date, then check the organizer's details.</p></header>
 <main>
-  <p class="notice">Dates on the U of T index may be ranges or lack a time. Open the official event page before registering or making plans. Calendar entries use the first listed date as an all-day event.</p>
-  <p><a href="https://raw.githubusercontent.com/KuzeyOzturac/uoftevents/main/site/events.ics">Subscribe to the updating calendar feed ↗</a> <span style="color:#637083">Copy this link into your calendar app’s “subscribe by URL” option.</span></p>
-  <div class="toolbar"><input id="search" type="search" placeholder="Search events or departments" aria-label="Search events"><select id="unit" aria-label="Filter by department"><option value="">All departments</option></select></div>
+  <p class="notice">Dates on the U of T index may be ranges or lack a time. Open the official event page before registering or making plans.</p>
+  <div class="toolbar"><input class="search" id="search" type="search" placeholder="Search events or departments" aria-label="Search events"><div class="date-filter"><label>From<input id="from" type="date"></label><label>To<input id="to" type="date"></label></div></div>
+  <details class="departments"><summary id="department-summary">All departments</summary><div class="department-panel"><button class="clear" id="clear-departments" type="button">Clear selection</button><div class="department-options" id="department-options" role="group" aria-label="Departments"></div></div></details>
   <p class="status" id="status" role="status">Loading events…</p><div class="grid" id="events"></div>
 </main>
 <footer>Source: <a href="https://www.utoronto.ca/events">University of Toronto events</a>. This independent viewer updates from the public index daily and does not include every event at St. George. Times, eligibility, and registration are set by organizers.</footer>
 <script>
 const feed='https://raw.githubusercontent.com/KuzeyOzturac/uoftevents/main/site/events.json';
-const list=document.querySelector('#events'),status=document.querySelector('#status'),search=document.querySelector('#search'),unit=document.querySelector('#unit');
+const list=document.querySelector('#events');
+const status=document.querySelector('#status');
+const search=document.querySelector('#search');
+const from=document.querySelector('#from');
+const to=document.querySelector('#to');
+const options=document.querySelector('#department-options');
+const summary=document.querySelector('#department-summary');
 let events=[];
-function firstDate(s){const m=s.match(/\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2})\b.*?\b(20\d{2})\b/i);if(!m)return null;const d=new Date(`${m[1]} ${m[2]}, ${m[3]} 12:00:00 GMT`);return isNaN(d)?null:d.toISOString().slice(0,10).replaceAll('-','')}
-function escapeICS(s){return s.replaceAll('\\','\\\\').replaceAll(';','\\;').replaceAll(',','\\,').replaceAll('\n','\\n')}
-function calendar(e){const day=firstDate(e.date);if(!day)return;const d=new Date(`${day.slice(0,4)}-${day.slice(4,6)}-${day.slice(6)}T12:00:00Z`);d.setUTCDate(d.getUTCDate()+1);const next=d.toISOString().slice(0,10).replaceAll('-','');const uid=`${btoa(unescape(encodeURIComponent(e.url))).replaceAll(/[^a-zA-Z0-9]/g,'')}@uoftevents`;const lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//UofT Event Scout//EN','BEGIN:VEVENT',`UID:${uid}`,`DTSTAMP:${new Date().toISOString().replaceAll(/[-:]/g,'').replace(/\.\d{3}/,'')}`,`DTSTART;VALUE=DATE:${day}`,`DTEND;VALUE=DATE:${next}`,`SUMMARY:${escapeICS(e.title)}`,`DESCRIPTION:${escapeICS('Verify time, location, and registration on the official event page: '+e.url)}`,`URL:${e.url}`,'BEGIN:VALARM','ACTION:DISPLAY','DESCRIPTION:Check U of T event details','TRIGGER:-P1D','END:VALARM','END:VEVENT','END:VCALENDAR'];const blob=new Blob([lines.join('\r\n')+'\r\n'],{type:'text/calendar'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='uoft-event.ics';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
-function render(){const q=search.value.trim().toLowerCase(),u=unit.value;const shown=events.filter(e=>(!u||e.unit===u)&&(!q||`${e.title} ${e.unit}`.toLowerCase().includes(q)));list.replaceChildren();for(const e of shown){const card=document.createElement('article'),date=document.createElement('div'),title=document.createElement('h2'),dept=document.createElement('div'),actions=document.createElement('div'),link=document.createElement('a'),button=document.createElement('button');date.className='date';date.textContent=e.date;title.textContent=e.title;dept.className='unit';dept.textContent=e.unit||'University of Toronto';actions.className='actions';link.href=e.url;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Official details ↗';button.textContent='Add to calendar';button.disabled=!firstDate(e.date);button.title=button.disabled?'Date needs checking on the official page':'';button.onclick=()=>calendar(e);actions.append(link,button);card.append(date,title,dept,actions);list.append(card)}status.textContent=`${shown.length} event${shown.length===1?'':'s'} shown`}
-fetch(feed+'?t='+Math.floor(Date.now()/3600000)).then(r=>{if(!r.ok)throw Error('Feed unavailable');return r.json()}).then(data=>{events=data.events||[];const units=[...new Set(events.map(e=>e.unit).filter(Boolean))].sort();for(const u of units){const o=document.createElement('option');o.value=u;o.textContent=u;unit.append(o)}render();status.textContent+=` · Updated ${new Date(data.updated_at).toLocaleDateString('en-CA')}`}).catch(()=>status.textContent='The event feed is unavailable right now. Please use the official U of T events link below.');search.oninput=render;unit.onchange=render;
+let updatedAt='';
+
+const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+const datePattern=new RegExp(`\\b(${months.join('|')})\\s+(\\d{1,2})(?:\\s+to\\s+(?:(${months.join('|')})\\s+)?(\\d{1,2}))?,?\\s+(20\\d{2})\\b`,'i');
+function dateSpan(label){
+  const match=label.match(datePattern);
+  if(!match)return null;
+  const year=Number(match[5]);
+  const startMonth=months.findIndex(m=>m.toLowerCase()===match[1].toLowerCase());
+  const endMonth=match[3]?months.findIndex(m=>m.toLowerCase()===match[3].toLowerCase()):startMonth;
+  const start=new Date(Date.UTC(year,startMonth,Number(match[2])));
+  const end=new Date(Date.UTC(year,endMonth,Number(match[4]||match[2])));
+  if(start.getUTCMonth()!==startMonth||end.getUTCMonth()!==endMonth)return null;
+  if(end<start)end.setUTCFullYear(year+1);
+  return {start:start.toISOString().slice(0,10),end:end.toISOString().slice(0,10)};
+}
+function render(){
+  const q=search.value.trim().toLowerCase();
+  const selected=new Set([...options.querySelectorAll('input:checked')].map(input=>input.value));
+  summary.textContent=selected.size?`Departments (${selected.size} selected)`:'All departments';
+  if(from.value&&to.value&&from.value>to.value){
+    list.replaceChildren();
+    status.textContent='Choose an end date on or after the start date.';
+    return;
+  }
+  const shown=events.filter(event=>{
+    if(selected.size&&!selected.has(event.unit))return false;
+    if(q&&!`${event.title} ${event.unit}`.toLowerCase().includes(q))return false;
+    if(from.value||to.value){
+      const span=dateSpan(event.date);
+      if(!span||from.value&&span.end<from.value||to.value&&span.start>to.value)return false;
+    }
+    return true;
+  });
+  list.replaceChildren();
+  for(const event of shown){
+    const card=document.createElement('article');
+    const date=document.createElement('div');
+    const title=document.createElement('h2');
+    const department=document.createElement('div');
+    const actions=document.createElement('div');
+    const link=document.createElement('a');
+    date.className='date';date.textContent=event.date;
+    title.textContent=event.title;
+    department.className='unit';department.textContent=event.unit||'University of Toronto';
+    actions.className='actions';
+    link.href=event.url;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Official details ↗';
+    actions.append(link);card.append(date,title,department,actions);list.append(card);
+  }
+  status.textContent=`${shown.length} event${shown.length===1?'':'s'} shown${updatedAt?' · Updated '+updatedAt:''}`;
+}
+fetch(feed+'?t='+Math.floor(Date.now()/3600000))
+  .then(response=>{if(!response.ok)throw Error('Feed unavailable');return response.json()})
+  .then(data=>{
+    events=data.events||[];
+    updatedAt=new Date(data.updated_at).toLocaleDateString('en-CA');
+    const departments=[...new Set(events.map(event=>event.unit).filter(Boolean))].sort();
+    for(const department of departments){
+      const label=document.createElement('label');
+      const checkbox=document.createElement('input');
+      checkbox.type='checkbox';checkbox.value=department;
+      checkbox.addEventListener('change',render);
+      label.append(checkbox,document.createTextNode(department));options.append(label);
+    }
+    render();
+  })
+  .catch(()=>status.textContent='The event feed is unavailable right now. Please use the official U of T events link below.');
+search.addEventListener('input',render);
+from.addEventListener('change',render);
+to.addEventListener('change',render);
+document.querySelector('#clear-departments').addEventListener('click',()=>{
+  for(const checkbox of options.querySelectorAll('input:checked'))checkbox.checked=false;
+  render();
+});
 </script>
 </html>
