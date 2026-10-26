@@ -21,11 +21,15 @@ class EventTable(HTMLParser):
         self.cell = None
         self.link = None
         self.in_cell = False
+        self.section = ""
+        self.heading = None
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
         if tag == "tr":
             self.row = []
+        elif tag == "h3":
+            self.heading = ""
         elif tag in ("td", "th") and self.row is not None:
             self.cell = {"text": "", "url": ""}
             self.in_cell = True
@@ -33,18 +37,23 @@ class EventTable(HTMLParser):
             self.cell["url"] = attrs.get("href", "")
 
     def handle_data(self, data):
+        if self.heading is not None:
+            self.heading += data
         if self.in_cell and self.cell is not None:
             self.cell["text"] += data
 
     def handle_endtag(self, tag):
-        if tag in ("td", "th") and self.cell is not None:
+        if tag == "h3" and self.heading is not None:
+            self.section = " ".join(self.heading.split())
+            self.heading = None
+        elif tag in ("td", "th") and self.cell is not None:
             self.cell["text"] = " ".join(self.cell["text"].split())
             self.row.append(self.cell)
             self.cell = None
             self.in_cell = False
         elif tag == "tr" and self.row is not None:
             if len(self.row) >= 2:
-                self.rows.append(self.row)
+                self.rows.append((self.row, self.section))
             self.row = None
 
 
@@ -52,8 +61,8 @@ def parse(html):
     parser = EventTable()
     parser.feed(html)
     events = []
-    seen = set()
-    for row in parser.rows:
+    by_url = {}
+    for row, section in parser.rows:
         title, date = row[0]["text"], row[1]["text"]
         url = row[0]["url"]
         if not url or not re.search(r"\b20\d{2}\b", date):
@@ -61,11 +70,22 @@ def parse(html):
         url = urllib.parse.urljoin(SOURCE, url)
         if urllib.parse.urlparse(url).scheme not in ("http", "https"):
             continue
-        if url in seen:
+        department = section if section != "Upcoming U of T events" else ""
+        if url in by_url:
+            existing = by_url[url]
+            if department:
+                if not existing["departments"]:
+                    existing["departments"] = [department]
+                elif department not in existing["departments"]:
+                    existing["departments"].append(department)
             continue
-        seen.add(url)
-        events.append({"title": title, "date": date, "url": url,
-                       "unit": row[2]["text"] if len(row) > 2 else ""})
+        event = {"title": title, "date": date, "url": url,
+                 "departments": [department] if department else []}
+        events.append(event)
+        by_url[url] = event
+    for event in events:
+        if not event["departments"]:
+            event["departments"] = ["U of T"]
     return events
 
 

@@ -40,6 +40,7 @@ const options=document.querySelector('#department-options');
 const summary=document.querySelector('#department-summary');
 let events=[];
 let updatedAt='';
+const departmentsOf=event=>event.departments||[event.unit||'U of T'];
 
 const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
 const datePattern=new RegExp(`\\b(${months.join('|')})\\s+(\\d{1,2})(?:\\s+to\\s+(?:(${months.join('|')})\\s+)?(\\d{1,2}))?,?\\s+(20\\d{2})\\b`,'i');
@@ -65,8 +66,9 @@ function render(){
     return;
   }
   const shown=events.filter(event=>{
-    if(selected.size&&!selected.has(event.unit))return false;
-    if(q&&!`${event.title} ${event.unit}`.toLowerCase().includes(q))return false;
+    const departments=departmentsOf(event);
+    if(selected.size&&!departments.some(department=>selected.has(department)))return false;
+    if(q&&!`${event.title} ${departments.join(' ')}`.toLowerCase().includes(q))return false;
     if(from.value||to.value){
       const span=dateSpan(event.date);
       if(!span||from.value&&span.end<from.value||to.value&&span.start>to.value)return false;
@@ -83,7 +85,7 @@ function render(){
     const link=document.createElement('a');
     date.className='date';date.textContent=event.date;
     title.textContent=event.title;
-    department.className='unit';department.textContent=event.unit||'University of Toronto';
+    department.className='unit';department.textContent=departmentsOf(event).join(' · ');
     actions.className='actions';
     link.href=event.url;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Official details ↗';
     actions.append(link);card.append(date,title,department,actions);list.append(card);
@@ -95,7 +97,7 @@ fetch(feed+'?t='+Math.floor(Date.now()/3600000))
   .then(data=>{
     events=data.events||[];
     updatedAt=new Date(data.updated_at).toLocaleDateString('en-CA');
-    const departments=[...new Set(events.map(event=>event.unit).filter(Boolean))].sort();
+    const departments=[...new Set(events.flatMap(departmentsOf))].sort();
     for(const department of departments){
       const label=document.createElement('label');
       const checkbox=document.createElement('input');
