@@ -1,0 +1,25 @@
+name: Refresh U of T events
+on:
+  schedule:
+    - cron: '17 11 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh public event feed
+        run: python scrape.py
+      - name: Commit changed feed
+        run: |
+          if git diff --quiet -- site/events.json; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/events.json
+          git commit -m 'chore: refresh U of T events feed'
+          git push
