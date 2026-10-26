@@ -1,6 +1,7 @@
 """Refresh the U of T and Hart House public events into one JSON feed."""
 import json
 import re
+import sys
 import urllib.request
 import urllib.parse
 from datetime import datetime, timedelta, date
@@ -8,8 +9,6 @@ from html.parser import HTMLParser
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from bs4 import BeautifulSoup
-from curl_cffi import requests
 
 SOURCE = "https://www.utoronto.ca/events"
 HART_SOURCE = "https://harthouse.ca/events/month"
@@ -108,6 +107,7 @@ def hart_date_label(start, end):
 
 
 def parse_hart_month(html, year, month, today):
+    from bs4 import BeautifulSoup
     soup = BeautifulSoup(html, "html.parser")
     calendar = soup.select_one("#month_calendar_inner")
     if not calendar:
@@ -143,6 +143,7 @@ def parse_hart_month(html, year, month, today):
 
 
 def fetch_hart_events(today):
+    from curl_cffi import requests
     events = []
     seen = set()
     for offset in range(3):
@@ -206,13 +207,22 @@ def make_ics(events):
 
 
 def main():
+    university_only = sys.argv[1:] == ["--university-only"]
+    if sys.argv[1:] and not university_only:
+        raise SystemExit("Usage: python scrape.py [--university-only]")
     request = urllib.request.Request(SOURCE, headers={"User-Agent": "UofTEventsCalendar/1.0 (public events index)"})
     with urllib.request.urlopen(request, timeout=30) as response:
         university = parse(response.read().decode("utf-8"))
     if len(university) < 5:
         raise RuntimeError(f"Found only {len(university)} U of T events; refusing to replace the feed")
-    today = datetime.now(ZoneInfo("America/Toronto")).date()
-    events = combine_events(university, fetch_hart_events(today))
+    if university_only:
+        prior = json.loads(OUT.read_text()).get("events", []) if OUT.exists() else []
+        hart = [dict(event, departments=["Hart House"], sources=["Hart House"])
+                for event in prior if "Hart House" in event.get("sources", [])]
+    else:
+        today = datetime.now(ZoneInfo("America/Toronto")).date()
+        hart = fetch_hart_events(today)
+    events = combine_events(university, hart)
     ICS.write_text(make_ics(events))
     if OUT.exists() and json.loads(OUT.read_text()).get("events") == events:
         print(f"No changes in {len(events)} events")
