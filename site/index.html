@@ -17,18 +17,19 @@
   .status{color:#526073;font-size:14px;margin:0 0 22px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
   article{background:white;border:1px solid #e3e4e5;border-radius:15px;padding:22px;display:flex;flex-direction:column;min-height:225px;box-shadow:0 3px 14px #14213d0a}
   article h2{font-size:21px;line-height:1.3;margin:8px 0 12px;letter-spacing:-.02em}.date{color:#a3372d;font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:.04em}
+  .source{color:#526073;font-size:12px;font-weight:700;margin-top:8px}
   .unit{color:#637083;font-size:13px;margin-top:auto;padding-top:20px}.actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:15px}a{color:#064f9b;font-weight:700;text-decoration:none}a:hover{text-decoration:underline}
   footer{max-width:1100px;margin:auto;padding:0 24px 50px;color:#657286;font-size:13px;line-height:1.5}
   .notice{background:#e8f1fa;border-radius:10px;padding:14px 16px;margin:0 0 28px;color:#263c58}
 </style>
-<header><div class="eyebrow">Toronto campus opportunities</div><h1>Find your next<br>U of T event.</h1><p>A focused view of the public University of Toronto events index. Search by topic, department, and date, then check the organizer's details.</p></header>
+<header><div class="eyebrow">Toronto campus opportunities</div><h1>Find your next<br>U of T event.</h1><p>Explore the public U of T events index and Hart House calendar. Search by topic, department, and date, then check the organizer's details.</p></header>
 <main>
   <p class="notice">Dates on the U of T index may be ranges or lack a time. Open the official event page before registering or making plans.</p>
   <div class="toolbar"><input class="search" id="search" type="search" placeholder="Search events or departments" aria-label="Search events"><div class="date-filter"><label>From<input id="from" type="date"></label><label>To<input id="to" type="date"></label></div></div>
   <details class="departments"><summary id="department-summary">All departments</summary><div class="department-panel"><button class="clear" id="clear-departments" type="button">Clear selection</button><div class="department-options" id="department-options" role="group" aria-label="Departments"></div></div></details>
   <p class="status" id="status" role="status">Loading events…</p><div class="grid" id="events"></div>
 </main>
-<footer>Source: <a href="https://www.utoronto.ca/events">University of Toronto events</a>. This independent viewer updates from the public index daily and does not include every event at St. George. Times, eligibility, and registration are set by organizers.</footer>
+<footer>Sources: <a href="https://www.utoronto.ca/events">University of Toronto events</a> and <a href="https://harthouse.ca/events/month">Hart House events</a>. This independent viewer refreshes daily and does not include every event at St. George. Times, eligibility, and registration are set by organizers.</footer>
 <script>
 const feed='./events.json';
 const list=document.querySelector('#events');
@@ -44,7 +45,9 @@ const departmentsOf=event=>event.departments||[event.unit||'U of T'];
 
 const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
 const datePattern=new RegExp(`\\b(${months.join('|')})\\s+(\\d{1,2})(?:\\s+to\\s+(?:(${months.join('|')})\\s+)?(\\d{1,2}))?,?\\s+(20\\d{2})\\b`,'i');
-function dateSpan(label){
+function dateSpan(event){
+  if(event.start_date&&event.end_date)return {start:event.start_date,end:event.end_date};
+  const label=event.date;
   const match=label.match(datePattern);
   if(!match)return null;
   const year=Number(match[5]);
@@ -68,9 +71,9 @@ function render(){
   const shown=events.filter(event=>{
     const departments=departmentsOf(event);
     if(selected.size&&!departments.some(department=>selected.has(department)))return false;
-    if(q&&!`${event.title} ${departments.join(' ')}`.toLowerCase().includes(q))return false;
+    if(q&&!`${event.title} ${departments.join(' ')} ${(event.sources||[]).join(' ')}`.toLowerCase().includes(q))return false;
     if(from.value||to.value){
-      const span=dateSpan(event.date);
+      const span=dateSpan(event);
       if(!span||from.value&&span.end<from.value||to.value&&span.start>to.value)return false;
     }
     return true;
@@ -80,15 +83,17 @@ function render(){
     const card=document.createElement('article');
     const date=document.createElement('div');
     const title=document.createElement('h2');
+    const source=document.createElement('div');
     const department=document.createElement('div');
     const actions=document.createElement('div');
     const link=document.createElement('a');
     date.className='date';date.textContent=event.date;
+    source.className='source';source.textContent=(event.sources||['U of T']).join(' · ');
     title.textContent=event.title;
     department.className='unit';department.textContent=departmentsOf(event).join(' · ');
     actions.className='actions';
     link.href=event.url;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Official details ↗';
-    actions.append(link);card.append(date,title,department,actions);list.append(card);
+    actions.append(link);card.append(date,source,title,department,actions);list.append(card);
   }
   status.textContent=`${shown.length} event${shown.length===1?'':'s'} shown${updatedAt?' · Updated '+updatedAt:''}`;
 }

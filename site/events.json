@@ -1,6 +1,9 @@
 {
-  "updated_at": "2026-10-26T13:30:09.824325-04:00",
-  "source": "https://www.utoronto.ca/events",
+  "updated_at": "2026-10-26T13:45:22.677789-04:00",
+  "sources": [
+    "https://www.utoronto.ca/events",
+    "https://harthouse.ca/events/month"
+  ],
   "events": [
     {
       "title": "Mindfulness Community of Practice for Educators",
@@ -8,6 +11,9 @@
       "url": "https://www.oise.utoronto.ca/wellness/events/10-06-25-mindfulness-community-practice",
       "departments": [
         "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -16,6 +22,9 @@
       "url": "https://cris.utoronto.ca/event/2026-climate-health-conference-oct-23-2026/",
       "departments": [
         "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -24,6 +33,9 @@
       "url": "https://entrepreneurs.utoronto.ca/event/the-tech-festival-canada/",
       "departments": [
         "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -32,6 +44,9 @@
       "url": "https://entrepreneurs.utoronto.ca/event/ip-data-research-conference-2/",
       "departments": [
         "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -40,6 +55,9 @@
       "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/october-2026/oct-26---the-future-of-indigenous-entrepreneurship/",
       "departments": [
         "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -48,6 +66,9 @@
       "url": "https://alumni.utoronto.ca/events/public-history-lab-hitler-and-stalin-today-professor-timothy-snyder",
       "departments": [
         "Alumni"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -56,14 +77,22 @@
       "url": "https://alumni.utoronto.ca/events/whats-so-vanilla-about-vanilla-find-out-how-it-made-history-more-spice",
       "departments": [
         "Alumni"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
       "title": "Things Fall Apart",
       "date": "September 26 to December 20, 2026",
-      "url": "https://alumni.utoronto.ca/events/things-fall-apart",
+      "url": "https://harthouse.ca/events/things-fall-apart/",
       "departments": [
-        "Alumni"
+        "Alumni",
+        "Hart House"
+      ],
+      "sources": [
+        "U of T",
+        "Hart House"
       ]
     },
     {
@@ -72,14 +101,20 @@
       "url": "https://alumni.utoronto.ca/events/exhibition-leading-landscape",
       "departments": [
         "Alumni"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
       "departments": [
         "Alumni"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -88,6 +123,9 @@
       "url": "https://brn.utoronto.ca/event/research-ethics-in-the-social-sciences-humanities-and-education-cris/",
       "departments": [
         "Black Research Network"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -96,6 +134,9 @@
       "url": "https://brn.utoronto.ca/event/research-ethics-in-the-health-sciences-cris/",
       "departments": [
         "Black Research Network"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -104,6 +145,9 @@
       "url": "https://brn.utoronto.ca/event/brn-academic-practice-lab-strategies-for-success-sshrc-grant-applications/",
       "departments": [
         "Black Research Network"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -112,6 +156,9 @@
       "url": "https://brn.utoronto.ca/event/community-engaged-research-from-principles-to-practice-2-understanding-cultural-population-variation-in-research/",
       "departments": [
         "Black Research Network"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -120,6 +167,9 @@
       "url": "https://brn.utoronto.ca/event/mph-in-black-health-information-sessions-dalla-lana-school-of-public-health/",
       "departments": [
         "Black Research Network"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -128,6 +178,9 @@
       "url": "https://canssiontario.utoronto.ca/event/isss-kevin-lin/",
       "departments": [
         "CANSSI Ontario"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -136,6 +189,9 @@
       "url": "https://canssiontario.utoronto.ca/event/isss-mingyao-li/",
       "departments": [
         "CANSSI Ontario"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -144,6 +200,9 @@
       "url": "https://canssiontario.utoronto.ca/event/isss-laura-arbour/",
       "departments": [
         "CANSSI Ontario"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -152,6 +211,9 @@
       "url": "https://www.cdtps.utoronto.ca/events/bmo-lab-open-studios",
       "departments": [
         "Centre for Drama, Theatre and Performance Studies"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -160,6 +222,9 @@
       "url": "https://www.cdtps.utoronto.ca/events/micronations-screening",
       "departments": [
         "Centre for Drama, Theatre and Performance Studies"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -168,6 +233,9 @@
       "url": "https://www.cdtps.utoronto.ca/events/2026-graduate-program-open-house",
       "departments": [
         "Centre for Drama, Theatre and Performance Studies"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -176,6 +244,9 @@
       "url": "https://www.cdtps.utoronto.ca/events/bmo-lab-fall-2026-lectures-treaandrea-russworm",
       "departments": [
         "Centre for Drama, Theatre and Performance Studies"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -185,6 +256,9 @@
       "departments": [
         "Centre for Entrepreneurship",
         "U of T St. George"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -193,6 +267,9 @@
       "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/money-side-business",
       "departments": [
         "Centre for Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -201,6 +278,9 @@
       "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/resilience-rise-advantage-failing",
       "departments": [
         "Centre for Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -209,6 +289,9 @@
       "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/share-your-spark-dr-geeta-yadav-conversation-bonnie-fuller",
       "departments": [
         "Centre for Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -217,6 +300,9 @@
       "url": "https://cris.utoronto.ca/event/reflecting-on-indigenous-land-acknowledgments-oct-29-2026/",
       "departments": [
         "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -225,6 +311,9 @@
       "url": "https://cris.utoronto.ca/event/fun-data-friday-storytelling-with-data/",
       "departments": [
         "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -233,6 +322,9 @@
       "url": "https://cris.utoronto.ca/event/2026-age-well-annual-conference/",
       "departments": [
         "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -241,6 +333,9 @@
       "url": "https://cris.utoronto.ca/event/drawing-across-the-disciplines-fieldwork-webinar-nov-4-2026/",
       "departments": [
         "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -249,6 +344,9 @@
       "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-1/",
       "departments": [
         "Convocation"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -257,22 +355,9 @@
       "url": "https://www.registrar.utoronto.ca/convocation-events/f2-school-of-graduate-studies-arts-science-industrial-relations-and-public-health/",
       "departments": [
         "Convocation"
-      ]
-    },
-    {
-      "title": "F4. School of Graduate Studies: Jackman Law, Munk School, and Rotman Management",
-      "date": "October 27, 2026",
-      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-4/",
-      "departments": [
-        "Convocation"
-      ]
-    },
-    {
-      "title": "F5. School of Graduate Studies, Medicine/Rehabilitation Science",
-      "date": "October 27, 2026",
-      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-5/",
-      "departments": [
-        "Convocation"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -281,6 +366,31 @@
       "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-3/",
       "departments": [
         "Convocation"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "F4. School of Graduate Studies: Jackman Law, Munk School, and Rotman Management",
+      "date": "October 27, 2026",
+      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-4/",
+      "departments": [
+        "Convocation"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "F5. School of Graduate Studies, Medicine/Rehabilitation Science",
+      "date": "October 27, 2026",
+      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-5/",
+      "departments": [
+        "Convocation"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -289,6 +399,9 @@
       "url": "https://www.dlsph.utoronto.ca/event/mph-in-black-health-information-sessions-4/",
       "departments": [
         "Dalla Lana School of Public Health"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -297,6 +410,9 @@
       "url": "https://www.dlsph.utoronto.ca/event/2026-future-student-information-sessions/",
       "departments": [
         "Dalla Lana School of Public Health"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -305,6 +421,9 @@
       "url": "https://www.dlsph.utoronto.ca/event/dalla-lana-fellowship-in-journalism-and-health-impact-video-open-house-6/",
       "departments": [
         "Dalla Lana School of Public Health"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -313,14 +432,9 @@
       "url": "https://www.dlsph.utoronto.ca/event/global-health-student-practicum-showcase/",
       "departments": [
         "Dalla Lana School of Public Health"
-      ]
-    },
-    {
-      "title": "Ethics and Political Philosophy Interest Group Talk (Iwao Hirose, McGill)",
-      "date": "October 29, 2026",
-      "url": "https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-iwao-hirose-mcgill/",
-      "departments": [
-        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -329,6 +443,20 @@
       "url": "https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group/",
       "departments": [
         "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Ethics and Political Philosophy Interest Group Talk (Iwao Hirose, McGill)",
+      "date": "October 29, 2026",
+      "url": "https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-iwao-hirose-mcgill/",
+      "departments": [
+        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -337,14 +465,9 @@
       "url": "https://philosophy.utoronto.ca/event/applying-to-grad-school-workshop-and-panel/",
       "departments": [
         "Department of Philosophy"
-      ]
-    },
-    {
-      "title": "Continental Philosophy Research Group Talk",
-      "date": "November 5, 2026",
-      "url": "https://philosophy.utoronto.ca/event/continental-philosophy-research-group-talk/",
-      "departments": [
-        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -353,6 +476,20 @@
       "url": "https://philosophy.utoronto.ca/event/continental-philosophy-research-group-thimo-heisenberg-rice-university/",
       "departments": [
         "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Continental Philosophy Research Group Talk",
+      "date": "November 5, 2026",
+      "url": "https://philosophy.utoronto.ca/event/continental-philosophy-research-group-talk/",
+      "departments": [
+        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -361,6 +498,9 @@
       "url": "https://eeb.utoronto.ca/event/pervasive-selective-sweeps-within-and-across-human-gut-microbiomes-nandita-garud-ucla/",
       "departments": [
         "Ecology & Evolutionary Biology"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -369,6 +509,9 @@
       "url": "https://socialwork.utoronto.ca/event/2s-lgbtqia-sexual-reproductive-justice-forum/",
       "departments": [
         "Factor-Inwentash Faculty of Social Work"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -377,6 +520,9 @@
       "url": "https://socialwork.utoronto.ca/event/indigenous-storytelling-through-film/",
       "departments": [
         "Factor-Inwentash Faculty of Social Work"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -385,6 +531,9 @@
       "url": "https://socialwork.utoronto.ca/event/ilca-seminar-what-is-successful-aging-2/",
       "departments": [
         "Factor-Inwentash Faculty of Social Work"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -393,6 +542,9 @@
       "url": "https://socialwork.utoronto.ca/event/ilca-seminar-what-is-successful-aging-2-2/",
       "departments": [
         "Factor-Inwentash Faculty of Social Work"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -401,6 +553,9 @@
       "url": "https://www.engineering.utoronto.ca/event/2026-fall-study-break-no-classes/",
       "departments": [
         "Faculty of Applied Science and Engineering"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -409,6 +564,9 @@
       "url": "https://www.engineering.utoronto.ca/event/online-info-session-masc-and-phd-in-civmin/",
       "departments": [
         "Faculty of Applied Science and Engineering"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -417,6 +575,9 @@
       "url": "https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-10-27/",
       "departments": [
         "Faculty of Applied Science and Engineering"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -425,6 +586,9 @@
       "url": "https://www.engineering.utoronto.ca/event/info-session-daad-rise-germany-research-internships-in-science-engineering/",
       "departments": [
         "Faculty of Applied Science and Engineering"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -433,6 +597,9 @@
       "url": "https://www.engineering.utoronto.ca/event/emerging-leaders-workshop-leadership-101/",
       "departments": [
         "Faculty of Applied Science and Engineering"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -441,6 +608,9 @@
       "url": "https://www.artsci.utoronto.ca/events/pop-cinematheque-devil-and-daniel-mouse-35mm",
       "departments": [
         "Faculty of Arts & Science"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -449,6 +619,9 @@
       "url": "https://www.artsci.utoronto.ca/events/innis-ignites-alumni-insights-15-minutes",
       "departments": [
         "Faculty of Arts & Science"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -457,6 +630,9 @@
       "url": "https://www.artsci.utoronto.ca/events/copper-woman-afua-cooper-and-her-poetry",
       "departments": [
         "Faculty of Arts & Science"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -465,6 +641,9 @@
       "url": "https://www.artsci.utoronto.ca/events/cfe-connects-lunch-launch-spooky-startup-stories",
       "departments": [
         "Faculty of Arts & Science"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -473,6 +652,9 @@
       "url": "https://www.artsci.utoronto.ca/events/salutogenic-placemaking-series-public-talk-tye-farrow-constructing-health-salutogenic",
       "departments": [
         "Faculty of Arts & Science"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -482,6 +664,9 @@
       "departments": [
         "Faculty of Kinesiology & Physical Education",
         "U of T St. George"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -490,6 +675,9 @@
       "url": "https://kpe.utoronto.ca/thu-10292026-1915/moveu-skate-series",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -498,6 +686,9 @@
       "url": "https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -506,6 +697,9 @@
       "url": "https://kpe.utoronto.ca/sat-11142026-0930/fall-campus-day",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -514,6 +708,9 @@
       "url": "https://music.utoronto.ca/event/261103-tuesday-voice-series",
       "departments": [
         "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -522,6 +719,9 @@
       "url": "https://music.utoronto.ca/event/261104-historical-performance",
       "departments": [
         "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -530,6 +730,9 @@
       "url": "https://music.utoronto.ca/event/261109-happy-100th-birthday-mary",
       "departments": [
         "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -538,6 +741,9 @@
       "url": "https://music.utoronto.ca/event/261110-masterclass-barbara-hannigan",
       "departments": [
         "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -546,6 +752,9 @@
       "url": "https://music.utoronto.ca/event/261111-hybrid-ensemble",
       "departments": [
         "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -554,6 +763,9 @@
       "url": "http://www.fields.utoronto.ca/activities/26-27/optimization",
       "departments": [
         "Fields Institute"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -562,6 +774,9 @@
       "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Oct",
       "departments": [
         "Fields Institute"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -570,6 +785,9 @@
       "url": "http://www.fields.utoronto.ca/activities/26-27/topology",
       "departments": [
         "Fields Institute"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -578,6 +796,9 @@
       "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Nov",
       "departments": [
         "Fields Institute"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -586,6 +807,9 @@
       "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Jan",
       "departments": [
         "Fields Institute"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -594,6 +818,9 @@
       "url": "https://www.humanities.utoronto.ca/events/elvira-notari-beyond-silence",
       "departments": [
         "Jackman Humanities Institute"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -602,6 +829,9 @@
       "url": "https://www.humanities.utoronto.ca/events/queer-trans-negativity-working-group-meeting-3",
       "departments": [
         "Jackman Humanities Institute"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -610,6 +840,9 @@
       "url": "https://www.humanities.utoronto.ca/events/dead-book-clubs",
       "departments": [
         "Jackman Humanities Institute"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -618,6 +851,9 @@
       "url": "https://www.humanities.utoronto.ca/events/over-and-over-again-jhi-2026-27-art-exhibition",
       "departments": [
         "Jackman Humanities Institute"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -626,6 +862,9 @@
       "url": "https://www.daniels.utoronto.ca/events/1793748600/every-window-thinks-itself-being-opening-artist-talk-flaka-haliti",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -634,6 +873,9 @@
       "url": "https://www.daniels.utoronto.ca/events/1793822400/info-session-master-visual-studies-mvs",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -642,6 +884,9 @@
       "url": "https://www.daniels.utoronto.ca/events/1793921400/ideas-made-material",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -650,6 +895,9 @@
       "url": "https://www.daniels.utoronto.ca/events/1793916000/info-session-master-forest-conservation-mfc",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -658,6 +906,9 @@
       "url": "https://www.daniels.utoronto.ca/events/1794265200/info-session-master-landscape-architecture-mla",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -666,6 +917,9 @@
       "url": "https://www.pharmacy.utoronto.ca/events/2026-explore-health-sciences-grad-professional-programs-fair",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -674,6 +928,9 @@
       "url": "https://www.pharmacy.utoronto.ca/events/rolling-dice-better-health-policy",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -682,6 +939,9 @@
       "url": "https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -690,6 +950,9 @@
       "url": "https://www.pharmacy.utoronto.ca/events/virtual-open-house-pharmd-pharmacists-program",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -698,6 +961,9 @@
       "url": "https://www.pharmacy.utoronto.ca/events/designing-integration-innovations-new-pharmd-curriculum",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -706,6 +972,31 @@
       "url": "https://utoronto.zoom.us/meeting/register/Au5EKE37QQOUKgC8DzfQYg#/registration",
       "departments": [
         "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Climate Change Education Conference",
+      "date": "October 27, 2026",
+      "url": "https://www.oise.utoronto.ca/scan/events/10-27-26-climate-change-education-conference",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "OISE Convocation Alumni Booth & Pin Pick-Up",
+      "date": "October 27, 2026",
+      "url": "https://www.oise.utoronto.ca/convocation-hub",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -714,22 +1005,9 @@
       "url": "https://alumni.utoronto.ca/events/copper-woman-afua-cooper-and-her-poetry-film-screening-and-conversation-dr-afua-cooper",
       "departments": [
         "Ontario Institute for Studies in Education"
-      ]
-    },
-    {
-      "title": "Book Event: Mentorship by Frankie J. Weinberg",
-      "date": "October 27, 2026",
-      "url": "https://www.eventbrite.ca/e/book-event-mentorship-by-frankie-j-weinberg-tickets-2002964640157?aff=oddtdtcreator",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ]
-    },
-    {
-      "title": "Climate Change Education Conference 2026",
-      "date": "October 27, 2026",
-      "url": "https://www.oise.utoronto.ca/scan/events/10-27-26-climate-change-education-conference-2026",
-      "departments": [
-        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -738,6 +1016,9 @@
       "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/october-2026/oct-28---maxime-cohen/",
       "departments": [
         "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -746,6 +1027,9 @@
       "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/october-2026/oct-29-rotman-doc-insights-love-apptually/",
       "departments": [
         "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -754,6 +1038,9 @@
       "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3---retail-insider--rotman/",
       "departments": [
         "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -762,6 +1049,9 @@
       "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3-malcolm-gladwell/",
       "departments": [
         "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -770,6 +1060,9 @@
       "url": "https://stmikes.utoronto.ca/event/magnifica-humanitas-choosing-humanity-in-the-ai-revolution",
       "departments": [
         "St. Michael’s College"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -778,6 +1071,9 @@
       "url": "https://stmikes.utoronto.ca/event/hope-in-action-building-hope-reimagining-institutions-for-human-flourishing-continuing-education-free-webinar",
       "departments": [
         "St. Michael’s College"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -786,6 +1082,9 @@
       "url": "https://schoolofcities.utoronto.ca/event/memories-of-black-toronto-bringing-the-citys-black-history-to-the-screen/",
       "departments": [
         "School of Cities"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -794,6 +1093,9 @@
       "url": "https://schoolofcities.utoronto.ca/event/knowledge-cafe-using-the-census-new-tools-for-urban-researchers/",
       "departments": [
         "School of Cities"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -802,6 +1104,9 @@
       "url": "https://schoolofcities.utoronto.ca/event/knowledge-cafe-the-paradox-of-prioritization-in-public-sector-algorithms/",
       "departments": [
         "School of Cities"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -810,6 +1115,9 @@
       "url": "https://schoolofcities.utoronto.ca/event/knowledge-cafe-caring-for-others-struggling-for-shelter/",
       "departments": [
         "School of Cities"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -818,6 +1126,9 @@
       "url": "https://www.environment.utoronto.ca/events/democratic-crowdfunding-hotspot-land-protection-lessons-decade-my-earth-time-professor-uri",
       "departments": [
         "School of the Environment"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -826,6 +1137,9 @@
       "url": "https://www.environment.utoronto.ca/events/environment-seminar-series-conservation-answer-climate-change-bob-inglis",
       "departments": [
         "School of the Environment"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -834,6 +1148,9 @@
       "url": "https://srinstitute.utoronto.ca/events-archive/the-human-variable",
       "departments": [
         "Schwartz Reisman Institute for Technology and Society"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -842,6 +1159,9 @@
       "url": "https://srinstitute.utoronto.ca/events-archive/seminar-2026-ristenpart",
       "departments": [
         "Schwartz Reisman Institute for Technology and Society"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -850,6 +1170,9 @@
       "url": "https://srinstitute.utoronto.ca/events-archive/seminar-2026-liu",
       "departments": [
         "Schwartz Reisman Institute for Technology and Society"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -858,6 +1181,9 @@
       "url": "https://www.utsc.utoronto.ca/principal/remembrance-day",
       "departments": [
         "Service of Remembrance"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -866,6 +1192,9 @@
       "url": "https://alumni.utoronto.ca/community/soldiers-tower/service-of-remembrance",
       "departments": [
         "Service of Remembrance"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -874,6 +1203,9 @@
       "url": "https://temertymedicine.utoronto.ca/event/ai-practice-residents-fellows-weekend-mini-course-final-registration-deadline-nov-15",
       "departments": [
         "Temerty Faculty of Medicine"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -882,6 +1214,9 @@
       "url": "https://temertymedicine.utoronto.ca/event/inclusive-research-teams-workshop",
       "departments": [
         "Temerty Faculty of Medicine"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -890,6 +1225,9 @@
       "url": "https://temertymedicine.utoronto.ca/event/dns-research-day-and-edna-park-lecture-2026",
       "departments": [
         "Temerty Faculty of Medicine"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -898,6 +1236,9 @@
       "url": "https://temertymedicine.utoronto.ca/event/black-womens-healthcare-summit-0",
       "departments": [
         "Temerty Faculty of Medicine"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -906,6 +1247,9 @@
       "url": "https://temertymedicine.utoronto.ca/event/temerty-ukraine-toronto-education-collaboration-fund-0",
       "departments": [
         "Temerty Faculty of Medicine"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -914,6 +1258,9 @@
       "url": "https://www.trinity.utoronto.ca/event/sacred-music-in-a-sacred-space-november/",
       "departments": [
         "Trinity College"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -922,6 +1269,9 @@
       "url": "https://www.trinity.utoronto.ca/event/jeremy-begbie-workshop-and-lecture-series-2026/",
       "departments": [
         "Trinity College"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -930,6 +1280,9 @@
       "url": "https://www.uc.utoronto.ca/events/fall-convocation",
       "departments": [
         "University College"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -938,6 +1291,9 @@
       "url": "https://entrepreneurs.utoronto.ca/event/the-future-of-indigenous-entrepreneurship/",
       "departments": [
         "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -946,6 +1302,9 @@
       "url": "https://entrepreneurs.utoronto.ca/event/echo-pitch-2026/",
       "departments": [
         "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -954,6 +1313,9 @@
       "url": "https://entrepreneurs.utoronto.ca/event/cfe-connects-lunch-launch-spooky-startup-stories/",
       "departments": [
         "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -962,6 +1324,9 @@
       "url": "https://www.utsc.utoronto.ca/hwc/connectu-connecting-students-creating-community",
       "departments": [
         "U of T Scarborough"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -970,6 +1335,9 @@
       "url": "https://vicu.utoronto.ca/whats-happening/vwa-2",
       "departments": [
         "Victoria College"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -978,6 +1346,9 @@
       "url": "https://vicu.utoronto.ca/whats-happening/bloor-street-music-project-advent-concert",
       "departments": [
         "Victoria College"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -986,6 +1357,9 @@
       "url": "https://vicu.utoronto.ca/whats-happening/day-with-emmanuel-2026",
       "departments": [
         "Victoria College"
+      ],
+      "sources": [
+        "U of T"
       ]
     },
     {
@@ -994,6 +1368,1413 @@
       "url": "https://vicu.utoronto.ca/whats-happening/vwa-the-art-of-spanish-perfume-and-one-wild-woman",
       "departments": [
         "Victoria College"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Hallo-Week at Hart House",
+      "date": "October 26, 2026",
+      "url": "https://harthouse.ca/events/hallo-week/2026/10/26/",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-26",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hip Hop Masterclass: The Art of Breaking with Styles",
+      "date": "October 26, 2026",
+      "url": "https://harthouse.ca/events/hip-hop-masterclass-the-art-of-breaking/",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-26",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hallo-Week at Hart House",
+      "date": "October 27, 2026",
+      "url": "https://harthouse.ca/events/hallo-week/2026/10/27/",
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Career X: The Arts Through a Global Lens",
+      "date": "October 27, 2026",
+      "url": "https://harthouse.ca/events/career-x-the-arts-through-a-global-lens/2026/10/27/",
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Darkroom Artist-in-Residence Open Hours",
+      "date": "October 27, 2026",
+      "url": "https://harthouse.ca/events/darkroom-artist-in-residence-open-hours/2026/10/27/",
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "The Weekly Social Stop",
+      "date": "October 27, 2026",
+      "url": "https://harthouse.ca/events/weekly-social-stop/2026/10/27/",
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Bridge Club Weekly Duplicate Game",
+      "date": "October 27, 2026",
+      "url": "https://harthouse.ca/events/bridge-club-duplicate-game/2026/10/27/",
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Camera Club Photo Walks",
+      "date": "October 28, 2026",
+      "url": "https://harthouse.ca/events/camera-club-photo-walks/2026/10/28/",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hallo-Week at Hart House",
+      "date": "October 28, 2026",
+      "url": "https://harthouse.ca/events/hallo-week/2026/10/28/",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Career X: The Arts Through a Global Lens",
+      "date": "October 28, 2026",
+      "url": "https://harthouse.ca/events/career-x-the-arts-through-a-global-lens/2026/10/28/",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Photo Walk: Wellness Wednesday",
+      "date": "October 28, 2026",
+      "url": "https://harthouse.ca/events/photo-walk-wellness-wednesday/",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Afrobeat TikTok 101",
+      "date": "October 28, 2026",
+      "url": "https://harthouse.ca/events/afrobeat-tiktok-101/2026/10/28/",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hallo-Week at Hart House",
+      "date": "October 29, 2026",
+      "url": "https://harthouse.ca/events/hallo-week/2026/10/29/",
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Career X: The Arts Through a Global Lens",
+      "date": "October 29, 2026",
+      "url": "https://harthouse.ca/events/career-x-the-arts-through-a-global-lens/2026/10/29/",
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Pumpkin Carving: Hallo-week Edition",
+      "date": "October 29, 2026",
+      "url": "https://harthouse.ca/events/pumpkin-carving-halloweek/",
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Bad Class: The Final Verdict",
+      "date": "October 29, 2026",
+      "url": "https://harthouse.ca/events/bad-class-the-final-verdict/",
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Movie Night in the Arbor Room",
+      "date": "October 29, 2026",
+      "url": "https://harthouse.ca/events/movie-night-in-the-arbor-room/",
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hallo-Week at Hart House",
+      "date": "October 30, 2026",
+      "url": "https://harthouse.ca/events/hallo-week/2026/10/30/",
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Deep Cuts",
+      "date": "October 30, 2026",
+      "url": "https://harthouse.ca/events/deep-cuts/",
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hallo-Week at Hart House",
+      "date": "October 31, 2026",
+      "url": "https://harthouse.ca/events/hallo-week/2026/10/31/",
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Lights Out: Halloween Glow Party",
+      "date": "October 31, 2026",
+      "url": "https://harthouse.ca/events/halloween-glow-party/",
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Barbershop",
+      "date": "November 2, 2026",
+      "url": "https://harthouse.ca/events/barbershop/2026/11/02/",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-02",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "The Sickling",
+      "date": "November 2, 2026",
+      "url": "https://harthouse.ca/events/the-sickling/",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-02",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Mahjong Mondays",
+      "date": "November 2, 2026",
+      "url": "https://harthouse.ca/events/mahjong-mondays/2026/11/02/",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-02",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "The Hart House Sketchbook",
+      "date": "November 3, 2026",
+      "url": "https://harthouse.ca/events/the-hart-house-sketchbook/2026/11/03/",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Darkroom Artist-in-Residence Open Hours",
+      "date": "November 3, 2026",
+      "url": "https://harthouse.ca/events/darkroom-artist-in-residence-open-hours/2026/11/03/",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Free Coffee Social",
+      "date": "November 3, 2026",
+      "url": "https://harthouse.ca/events/free-coffee-social/",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Hubs",
+      "date": "November 3, 2026",
+      "url": "https://harthouse.ca/events/hart-house-hubs/2026/11/03/",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "The Weekly Social Stop",
+      "date": "November 3, 2026",
+      "url": "https://harthouse.ca/events/weekly-social-stop/2026/11/03/",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Bridge Club Weekly Duplicate Game",
+      "date": "November 3, 2026",
+      "url": "https://harthouse.ca/events/bridge-club-duplicate-game/2026/11/03/",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "From Looking to Collecting",
+      "date": "November 4, 2026",
+      "url": "https://harthouse.ca/events/from-looking-to-collecting/2026/11/04/",
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Producers' Circle – Fall 2026",
+      "date": "November 4, 2026",
+      "url": "https://harthouse.ca/events/producers-circle-fall-2026/2026/11/04/",
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Kantele Playing and Kalevala Singing Workshop",
+      "date": "November 4, 2026",
+      "url": "https://harthouse.ca/events/kantele-playing-and-kalevala-singing-workshop/",
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Watercolour Gift Tags",
+      "date": "November 5, 2026",
+      "url": "https://harthouse.ca/events/watercolour-gift-tags/",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Candlelit Yoga and Sound Bath",
+      "date": "November 5, 2026",
+      "url": "https://harthouse.ca/events/candlelit-yoga-and-sound-bath/",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Exhibition Artist Talk: The Anatomy of a Grassroots Revolution",
+      "date": "November 5, 2026",
+      "url": "https://harthouse.ca/events/exhibition-artist-talk-the-anatomy-of-a-grassroots-revolution/",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Remapping the Campus with Akni:ho’gwa:s Artist Collective",
+      "date": "November 6, 2026",
+      "url": "https://harthouse.ca/events/remapping-the-campus-with-aknihogwas-artist-collective/",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Their Native Earth Exhibition Opening Reception",
+      "date": "November 8, 2026",
+      "url": "https://harthouse.ca/events/their-native-earth-exhibition-opening-reception/",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Mahjong Mondays",
+      "date": "November 9, 2026",
+      "url": "https://harthouse.ca/events/mahjong-mondays/2026/11/09/",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-09",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Meeting of the Minds",
+      "date": "November 9, 2026",
+      "url": "https://harthouse.ca/events/meeting-of-the-minds/",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-09",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Global Citizen Program Workshops",
+      "date": "November 10, 2026",
+      "url": "https://harthouse.ca/events/global-citizen-program-workshops/2026/11/10/",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Darkroom Artist-in-Residence Open Hours",
+      "date": "November 10, 2026",
+      "url": "https://harthouse.ca/events/darkroom-artist-in-residence-open-hours/2026/11/10/",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Hubs",
+      "date": "November 10, 2026",
+      "url": "https://harthouse.ca/events/hart-house-hubs/2026/11/10/",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "The Weekly Social Stop",
+      "date": "November 10, 2026",
+      "url": "https://harthouse.ca/events/weekly-social-stop/2026/11/10/",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Bridge Club Weekly Duplicate Game",
+      "date": "November 10, 2026",
+      "url": "https://harthouse.ca/events/bridge-club-duplicate-game/2026/11/10/",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Crocheting Hope",
+      "date": "November 11, 2026",
+      "url": "https://harthouse.ca/events/crocheting-hope/2026/11/11/",
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Afrobeat TikTok 101",
+      "date": "November 11, 2026",
+      "url": "https://harthouse.ca/events/afrobeat-tiktok-101/2026/11/11/",
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Camera Club Critical Salon",
+      "date": "November 11, 2026",
+      "url": "https://harthouse.ca/events/camera-club-critical-salons/2026/11/11/",
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Painted Wooden Bead Keychains",
+      "date": "November 12, 2026",
+      "url": "https://harthouse.ca/events/painted-wooden-bead-keychains/",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-12",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Rest Space Recovery Session",
+      "date": "November 13, 2026",
+      "url": "https://harthouse.ca/events/rest-space-recovery/2026/11/13/",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Graphic Scores and Soundpainting with Olivia Shortt",
+      "date": "November 14, 2026",
+      "url": "https://harthouse.ca/events/graphic-scores-and-soundpainting-with-olivia-shortt/2026/11/14/",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Graphic Scores and Soundpainting with Olivia Shortt",
+      "date": "November 15, 2026",
+      "url": "https://harthouse.ca/events/graphic-scores-and-soundpainting-with-olivia-shortt/2026/11/15/",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hip Hop Masterclass: The Art of Battle Rap with Organik",
+      "date": "November 16, 2026",
+      "url": "https://harthouse.ca/events/hip-hop-masterclass-the-art-of-battle-rap/",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-16",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Mahjong Mondays",
+      "date": "November 16, 2026",
+      "url": "https://harthouse.ca/events/mahjong-mondays/2026/11/16/",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-16",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "5-Buck Lunch",
+      "date": "November 17, 2026",
+      "url": "https://harthouse.ca/events/5-buck-lunch/2026/11/17/",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Darkroom Artist-in-Residence Open Hours",
+      "date": "November 17, 2026",
+      "url": "https://harthouse.ca/events/darkroom-artist-in-residence-open-hours/2026/11/17/",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Hubs",
+      "date": "November 17, 2026",
+      "url": "https://harthouse.ca/events/hart-house-hubs/2026/11/17/",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "The Weekly Social Stop",
+      "date": "November 17, 2026",
+      "url": "https://harthouse.ca/events/weekly-social-stop/2026/11/17/",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Bridge Club Weekly Duplicate Game",
+      "date": "November 17, 2026",
+      "url": "https://harthouse.ca/events/bridge-club-duplicate-game/2026/11/17/",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "From Looking to Collecting",
+      "date": "November 18, 2026",
+      "url": "https://harthouse.ca/events/from-looking-to-collecting/2026/11/18/",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Producers' Circle – Fall 2026",
+      "date": "November 18, 2026",
+      "url": "https://harthouse.ca/events/producers-circle-fall-2026/2026/11/18/",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Orchestra Concerts",
+      "date": "November 19, 2026",
+      "url": "https://harthouse.ca/events/orchestra-concerts/",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "DiY Mini Piñatas",
+      "date": "November 19, 2026",
+      "url": "https://harthouse.ca/events/diy-mini-pinatas/",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "University of Toronto Literary Symposium",
+      "date": "November 20, 2026",
+      "url": "https://harthouse.ca/events/literary-symposium/",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Student Art Committee General Meetings",
+      "date": "November 20, 2026",
+      "url": "https://harthouse.ca/events/hart-house-student-art-committee-general-meetings/2026/11/20/",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "3x3 Basketball Tournament",
+      "date": "November 20, 2026",
+      "url": "https://harthouse.ca/events/3x3-basketball-tournament/",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Singers Concerts",
+      "date": "November 22, 2026",
+      "url": "https://harthouse.ca/events/singers-concerts/",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Chamber Strings Concerts",
+      "date": "November 22, 2026",
+      "url": "https://harthouse.ca/events/chamber-strings-concerts/2026/11/22/",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Mahjong Mondays",
+      "date": "November 23, 2026",
+      "url": "https://harthouse.ca/events/mahjong-mondays/2026/11/23/",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-23",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Real Talk with Dave: Conversations on Navigating Grief and Loss",
+      "date": "November 24, 2026",
+      "url": "https://harthouse.ca/events/conversations-on-navigating-grief-and-loss/",
+      "start_date": "2026-11-24",
+      "end_date": "2026-11-24",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Darkroom Artist-in-Residence Open Hours",
+      "date": "November 24, 2026",
+      "url": "https://harthouse.ca/events/darkroom-artist-in-residence-open-hours/2026/11/24/",
+      "start_date": "2026-11-24",
+      "end_date": "2026-11-24",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Hubs",
+      "date": "November 24, 2026",
+      "url": "https://harthouse.ca/events/hart-house-hubs/2026/11/24/",
+      "start_date": "2026-11-24",
+      "end_date": "2026-11-24",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "The Weekly Social Stop",
+      "date": "November 24, 2026",
+      "url": "https://harthouse.ca/events/weekly-social-stop/2026/11/24/",
+      "start_date": "2026-11-24",
+      "end_date": "2026-11-24",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Bridge Club Weekly Duplicate Game",
+      "date": "November 24, 2026",
+      "url": "https://harthouse.ca/events/bridge-club-duplicate-game/2026/11/24/",
+      "start_date": "2026-11-24",
+      "end_date": "2026-11-24",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Tin Embossing: Ornaments",
+      "date": "November 26, 2026",
+      "url": "https://harthouse.ca/events/tin-embossing-ornaments/",
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-26",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Opening Reception: Hart House Student Art Committee Talking Walls Exhibition",
+      "date": "November 26, 2026",
+      "url": "https://harthouse.ca/events/opening-reception-hhsac-talking-walls-exhibition/2026/11/26/",
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-26",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Camera Club Open Studio",
+      "date": "November 27, 2026",
+      "url": "https://harthouse.ca/events/camera-club-open-studio/2026/11/27/",
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Chorus Concerts",
+      "date": "November 29, 2026",
+      "url": "https://harthouse.ca/events/chorus-concerts/2026/11/29/",
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Symphonic Band Concerts",
+      "date": "November 29, 2026",
+      "url": "https://harthouse.ca/events/symphonic-band-concerts/2026/11/29/",
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Mahjong Mondays",
+      "date": "November 30, 2026",
+      "url": "https://harthouse.ca/events/mahjong-mondays/2026/11/30/",
+      "start_date": "2026-11-30",
+      "end_date": "2026-11-30",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Jazz Ensembles Concert",
+      "date": "November 30, 2026",
+      "url": "https://harthouse.ca/events/hart-house-jazz-ensembles-concerts/2026/11/30/",
+      "start_date": "2026-11-30",
+      "end_date": "2026-11-30",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Darkroom Artist-in-Residence Open Hours",
+      "date": "December 1, 2026",
+      "url": "https://harthouse.ca/events/darkroom-artist-in-residence-open-hours/2026/12/01/",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Hubs",
+      "date": "December 1, 2026",
+      "url": "https://harthouse.ca/events/hart-house-hubs/2026/12/01/",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "The Weekly Social Stop",
+      "date": "December 1, 2026",
+      "url": "https://harthouse.ca/events/weekly-social-stop/2026/12/01/",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Bridge Club Weekly Duplicate Game",
+      "date": "December 1, 2026",
+      "url": "https://harthouse.ca/events/bridge-club-duplicate-game/2026/12/01/",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Arts & Crafts Market",
+      "date": "December 2, 2026",
+      "url": "https://harthouse.ca/events/hart-house-art-craft-market/2026/12/02/",
+      "start_date": "2026-12-02",
+      "end_date": "2026-12-02",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "From Looking to Collecting",
+      "date": "December 2, 2026",
+      "url": "https://harthouse.ca/events/from-looking-to-collecting/2026/12/02/",
+      "start_date": "2026-12-02",
+      "end_date": "2026-12-02",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Design Your Own Tote Bag",
+      "date": "December 3, 2026",
+      "url": "https://harthouse.ca/events/design-your-own-tote-bag/",
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-03",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Rest Space Recovery Session",
+      "date": "December 4, 2026",
+      "url": "https://harthouse.ca/events/rest-space-recovery/2026/12/04/",
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Jazz Choir Concerts",
+      "date": "December 4, 2026",
+      "url": "https://harthouse.ca/events/hart-house-choir-concerts/2026/12/04/",
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Barbershop",
+      "date": "December 7, 2026",
+      "url": "https://harthouse.ca/events/barbershop/2026/12/07/",
+      "start_date": "2026-12-07",
+      "end_date": "2026-12-07",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Mahjong Mondays",
+      "date": "December 7, 2026",
+      "url": "https://harthouse.ca/events/mahjong-mondays/2026/12/07/",
+      "start_date": "2026-12-07",
+      "end_date": "2026-12-07",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Darkroom Artist-in-Residence Open Hours",
+      "date": "December 8, 2026",
+      "url": "https://harthouse.ca/events/darkroom-artist-in-residence-open-hours/2026/12/08/",
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-08",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Hart House Hubs",
+      "date": "December 8, 2026",
+      "url": "https://harthouse.ca/events/hart-house-hubs/2026/12/08/",
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-08",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "The Weekly Social Stop",
+      "date": "December 8, 2026",
+      "url": "https://harthouse.ca/events/weekly-social-stop/2026/12/08/",
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-08",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Bridge Club Weekly Duplicate Game",
+      "date": "December 8, 2026",
+      "url": "https://harthouse.ca/events/bridge-club-duplicate-game/2026/12/08/",
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-08",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Gallery Grill Winter Cheer",
+      "date": "December 10, 2026",
+      "url": "https://harthouse.ca/events/winter-cheer/2026/12/10/",
+      "start_date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Gallery Grill Winter Cheer",
+      "date": "December 11, 2026",
+      "url": "https://harthouse.ca/events/winter-cheer/2026/12/11/",
+      "start_date": "2026-12-11",
+      "end_date": "2026-12-11",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Gallery Grill Winter Cheer",
+      "date": "December 14, 2026",
+      "url": "https://harthouse.ca/events/winter-cheer/2026/12/14/",
+      "start_date": "2026-12-14",
+      "end_date": "2026-12-14",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Gallery Grill Winter Cheer",
+      "date": "December 15, 2026",
+      "url": "https://harthouse.ca/events/winter-cheer/2026/12/15/",
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-15",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Darkroom Artist-in-Residence Open Hours",
+      "date": "December 15, 2026",
+      "url": "https://harthouse.ca/events/darkroom-artist-in-residence-open-hours/2026/12/15/",
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-15",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Bridge Club Weekly Duplicate Game",
+      "date": "December 15, 2026",
+      "url": "https://harthouse.ca/events/bridge-club-duplicate-game/2026/12/15/",
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-15",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Gallery Grill Winter Cheer",
+      "date": "December 16, 2026",
+      "url": "https://harthouse.ca/events/winter-cheer/2026/12/16/",
+      "start_date": "2026-12-16",
+      "end_date": "2026-12-16",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Gallery Grill Winter Cheer",
+      "date": "December 17, 2026",
+      "url": "https://harthouse.ca/events/winter-cheer/2026/12/17/",
+      "start_date": "2026-12-17",
+      "end_date": "2026-12-17",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Gallery Grill Winter Cheer",
+      "date": "December 18, 2026",
+      "url": "https://harthouse.ca/events/winter-cheer/2026/12/18/",
+      "start_date": "2026-12-18",
+      "end_date": "2026-12-18",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Darkroom Artist-in-Residence Open Hours",
+      "date": "December 22, 2026",
+      "url": "https://harthouse.ca/events/darkroom-artist-in-residence-open-hours/2026/12/22/",
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Bridge Club Weekly Duplicate Game",
+      "date": "December 22, 2026",
+      "url": "https://harthouse.ca/events/bridge-club-duplicate-game/2026/12/22/",
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
+      ]
+    },
+    {
+      "title": "Darkroom Artist-in-Residence Open Hours",
+      "date": "December 29, 2026",
+      "url": "https://harthouse.ca/events/darkroom-artist-in-residence-open-hours/2026/12/29/",
+      "start_date": "2026-12-29",
+      "end_date": "2026-12-29",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "Hart House"
       ]
     }
   ]
