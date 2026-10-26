@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T13:08:05.935283-04:00",
+  "updated_at": "2026-10-26T13:10:49.092803-04:00",
   "source": "https://www.utoronto.ca/events",
   "events": [
     {
@@ -183,21 +183,15 @@
       "unit": ""
     },
     {
-      "title": "F1. Faculty of Arts & Science",
-      "date": "October 26, 2026",
-      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-1/",
-      "unit": ""
-    },
-    {
       "title": "F2. School of Graduate Studies: Arts & Science; Industrial Relations; and Public Health",
       "date": "October 26, 2026",
       "url": "https://www.registrar.utoronto.ca/convocation-events/f2-school-of-graduate-studies-arts-science-industrial-relations-and-public-health/",
       "unit": ""
     },
     {
-      "title": "F4. School of Graduate Studies: Jackman Law, Munk School, and Rotman Management",
-      "date": "October 27, 2026",
-      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-4/",
+      "title": "F1. Faculty of Arts & Science",
+      "date": "October 26, 2026",
+      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-1/",
       "unit": ""
     },
     {
@@ -210,6 +204,12 @@
       "title": "F3. School of Graduate Studies: Architecture, Landscape, and Design; Ontario Institute for Studies in Education; Music; and Social Work",
       "date": "October 27, 2026",
       "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-3/",
+      "unit": ""
+    },
+    {
+      "title": "F4. School of Graduate Studies: Jackman Law, Munk School, and Rotman Management",
+      "date": "October 27, 2026",
+      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-4/",
       "unit": ""
     },
     {
@@ -315,15 +315,15 @@
       "unit": ""
     },
     {
-      "title": "Info Session: DAAD RISE Germany – Research Internships in Science & Engineering",
-      "date": "October 28, 2026",
-      "url": "https://www.engineering.utoronto.ca/event/info-session-daad-rise-germany-research-internships-in-science-engineering/",
-      "unit": ""
-    },
-    {
       "title": "Emerging Leaders Workshop – Leadership 101",
       "date": "October 28, 2026",
       "url": "https://www.engineering.utoronto.ca/event/emerging-leaders-workshop-leadership-101/",
+      "unit": ""
+    },
+    {
+      "title": "Info Session: DAAD RISE Germany – Research Internships in Science & Engineering",
+      "date": "October 28, 2026",
+      "url": "https://www.engineering.utoronto.ca/event/info-session-daad-rise-germany-research-internships-in-science-engineering/",
       "unit": ""
     },
     {
@@ -663,15 +663,15 @@
       "unit": ""
     },
     {
-      "title": "DNS Research Day and Edna Park Lecture 2026",
-      "date": "October 29, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/dns-research-day-and-edna-park-lecture-2026",
-      "unit": ""
-    },
-    {
       "title": "Black Women's Healthcare Summit",
       "date": "October 29, 2026",
       "url": "https://temertymedicine.utoronto.ca/event/black-womens-healthcare-summit-0",
+      "unit": ""
+    },
+    {
+      "title": "DNS Research Day and Edna Park Lecture 2026",
+      "date": "October 29, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/dns-research-day-and-edna-park-lecture-2026",
       "unit": ""
     },
     {
