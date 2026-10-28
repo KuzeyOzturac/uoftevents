@@ -1,59 +1,61 @@
 {
-  "updated_at": "2026-10-27T16:43:34.303577+00:00",
+  "updated_at": "2026-10-28T17:11:42.384970+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
     {
-      "title": "ChemE Master of Engineering (MEng) Online Application Support Drop-In",
-      "date": "October 27, 2026",
-      "url": "https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-10-27/",
-      "departments": [
-        "Faculty of Applied Science and Engineering"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Film Screening and Conversation with Dr. Afua Cooper",
-      "date": "October 27, 2026",
-      "url": "https://alumni.utoronto.ca/events/copper-woman-afua-cooper-and-her-poetry-film-screening-and-conversation-dr-afua-cooper",
-      "departments": [
-        "U of T"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Climate Change Education Conference 2026",
-      "date": "October 27, 2026",
-      "url": "https://www.oise.utoronto.ca/scan/events/10-27-26-climate-change-education-conference-2026",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Research Ethics in the Social Sciences, Humanities and Education – CRIS",
-      "date": "October 27, 2026",
-      "url": "https://brn.utoronto.ca/event/research-ethics-in-the-social-sciences-humanities-and-education-cris/",
-      "departments": [
-        "Black Research Network"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Research Ethics in the Social Sciences, Humanities and Education Info Session",
-      "date": "October 27, 2026",
-      "url": "https://www.dlsph.utoronto.ca/event/research-ethics-in-the-social-sciences-humanities-and-education-info-session-3/",
+      "title": "Master of Health Science – Bioethics Info Sessions",
+      "date": "October 28 to December 25, 2026",
+      "url": "https://www.dlsph.utoronto.ca/event/master-of-health-science-bioethics-info-session-2025/",
       "departments": [
         "Dalla Lana School of Public Health"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Optimization Modelling in Business and Government",
+      "date": "October 28 to October 30, 2026",
+      "url": "http://www.fields.utoronto.ca/activities/26-27/optimization",
+      "departments": [
+        "Fields Institute"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "CfE Connects Lunch & Launch: Spooky Startup Stories",
+      "date": "October 28, 2026",
+      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/cfe-connects-lunch-launch-spooky-startup-stories",
+      "departments": [
+        "Centre for Entrepreneurship",
+        "U of T St. George"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "The Human Variable: Psychology for the AI Age",
+      "date": "October 28, 2026",
+      "url": "https://srinstitute.utoronto.ca/events-archive/the-human-variable",
+      "departments": [
+        "Schwartz Reisman Institute for Technology and Society"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "MoveU Refresh & Recharge",
+      "date": "October 28, 2026",
+      "url": "https://kpe.utoronto.ca/wed-10282026-0800/moveu-refresh-recharge",
+      "departments": [
+        "Faculty of Kinesiology & Physical Education",
+        "U of T St. George"
       ],
       "sources": [
         "U of T"
@@ -106,9 +108,20 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
       "departments": [
         "Alumni"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Inlight Global Speaker Series – From Values to Action",
+      "date": "November 2, 2026",
+      "url": "https://brn.utoronto.ca/event/inlight-global-speaker-series-from-values-to-action/",
+      "departments": [
+        "Black Research Network"
       ],
       "sources": [
         "U of T"
@@ -126,9 +139,9 @@
       ]
     },
     {
-      "title": "BRN Academic Practice Lab – Strategies for Success: SSHRC Grant Applications",
-      "date": "November 19, 2026",
-      "url": "https://brn.utoronto.ca/event/brn-academic-practice-lab-strategies-for-success-sshrc-grant-applications/",
+      "title": "TRANSFORM HF 2026 Fall Network Event",
+      "date": "November 5, 2026",
+      "url": "https://brn.utoronto.ca/event/transform-hf-2026-fall-network-event/",
       "departments": [
         "Black Research Network"
       ],
@@ -137,9 +150,9 @@
       ]
     },
     {
-      "title": "Community-Engaged Research from Principles to Practice 2: Understanding Cultural & Population Variation in Research",
-      "date": "December 3, 2026",
-      "url": "https://brn.utoronto.ca/event/community-engaged-research-from-principles-to-practice-2-understanding-cultural-population-variation-in-research/",
+      "title": "Memories of Black Toronto – School of Cities",
+      "date": "November 10, 2026",
+      "url": "https://brn.utoronto.ca/event/memories-of-black-toronto-school-of-cities/",
       "departments": [
         "Black Research Network"
       ],
@@ -148,9 +161,9 @@
       ]
     },
     {
-      "title": "MPH in Black Health Information Sessions – Dalla Lana School of Public Health",
-      "date": "December 11, 2026",
-      "url": "https://brn.utoronto.ca/event/mph-in-black-health-information-sessions-dalla-lana-school-of-public-health/",
+      "title": "School of Cities Knowledge Café | Using the Census: New tools for urban researchers",
+      "date": "November 18, 2026",
+      "url": "https://brn.utoronto.ca/event/school-of-cities-knowledge-cafe-using-the-census-new-tools-for-urban-researchers/",
       "departments": [
         "Black Research Network"
       ],
@@ -230,18 +243,6 @@
       "url": "https://www.cdtps.utoronto.ca/events/bmo-lab-fall-2026-lectures-treaandrea-russworm",
       "departments": [
         "Centre for Drama, Theatre and Performance Studies"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "CfE Connects Lunch & Launch: Spooky Startup Stories",
-      "date": "October 28, 2026",
-      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/cfe-connects-lunch-launch-spooky-startup-stories",
-      "departments": [
-        "Centre for Entrepreneurship",
-        "U of T St. George"
       ],
       "sources": [
         "U of T"
@@ -347,9 +348,9 @@
       ]
     },
     {
-      "title": "F4. School of Graduate Studies: Jackman Law, Munk School, and Rotman Management",
-      "date": "October 27, 2026",
-      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-4/",
+      "title": "F8. University of Toronto Mississauga",
+      "date": "October 28, 2026",
+      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-8/",
       "departments": [
         "Convocation"
       ],
@@ -358,20 +359,9 @@
       ]
     },
     {
-      "title": "F5. School of Graduate Studies, Medicine/Rehabilitation Science",
-      "date": "October 27, 2026",
-      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-5/",
-      "departments": [
-        "Convocation"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "F3. School of Graduate Studies: Architecture, Landscape, and Design; Ontario Institute for Studies in Education; Music; and Social Work",
-      "date": "October 27, 2026",
-      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-3/",
+      "title": "F6. School of Graduate Studies: Arts & Science, U of T Scarborough, and U of T Mississauga",
+      "date": "October 28, 2026",
+      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-6/",
       "departments": [
         "Convocation"
       ],
@@ -391,9 +381,20 @@
       ]
     },
     {
-      "title": "F8. University of Toronto Mississauga",
-      "date": "October 28, 2026",
-      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-8/",
+      "title": "F11. School of Graduate Studies: Nursing, Dentistry, and Pharmacy",
+      "date": "October 29, 2026",
+      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-11/",
+      "departments": [
+        "Convocation"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "F9. School of Graduate Studies: Applied Science & Engineering",
+      "date": "October 29, 2026",
+      "url": "https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-9/",
       "departments": [
         "Convocation"
       ],
@@ -457,6 +458,17 @@
       ]
     },
     {
+      "title": "Aesthetics Reading Group (Alexandra King, Simon Fraser University)",
+      "date": "October 30, 2026",
+      "url": "https://philosophy.utoronto.ca/event/aesthetics-reading-group-alexandra-king-simon-fraser-university/",
+      "departments": [
+        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Applying to Grad School Workshop and Panel",
       "date": "November 4, 2026",
       "url": "https://philosophy.utoronto.ca/event/applying-to-grad-school-workshop-and-panel/",
@@ -471,17 +483,6 @@
       "title": "Continental Philosophy Research Group (Thimo Heisenberg, Rice University)",
       "date": "November 5, 2026",
       "url": "https://philosophy.utoronto.ca/event/continental-philosophy-research-group-thimo-heisenberg-rice-university/",
-      "departments": [
-        "Department of Philosophy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Continental Philosophy Research Group Talk",
-      "date": "November 5, 2026",
-      "url": "https://philosophy.utoronto.ca/event/continental-philosophy-research-group-talk/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -545,17 +546,6 @@
       ]
     },
     {
-      "title": "Emerging Leaders Workshop – Leadership 101",
-      "date": "October 28, 2026",
-      "url": "https://www.engineering.utoronto.ca/event/emerging-leaders-workshop-leadership-101/",
-      "departments": [
-        "Faculty of Applied Science and Engineering"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Info Session: DAAD RISE Germany – Research Internships in Science & Engineering",
       "date": "October 28, 2026",
       "url": "https://www.engineering.utoronto.ca/event/info-session-daad-rise-germany-research-internships-in-science-engineering/",
@@ -567,9 +557,9 @@
       ]
     },
     {
-      "title": "Crash Course for Building & Leading Teams",
-      "date": "October 29, 2026",
-      "url": "https://www.engineering.utoronto.ca/event/crash-course-for-building-leading-teams/",
+      "title": "Emerging Leaders Workshop – Leadership 101",
+      "date": "October 28, 2026",
+      "url": "https://www.engineering.utoronto.ca/event/emerging-leaders-workshop-leadership-101/",
       "departments": [
         "Faculty of Applied Science and Engineering"
       ],
@@ -589,22 +579,22 @@
       ]
     },
     {
-      "title": "Innis Ignites: Alumni insights in 15 minutes",
-      "date": "October 27, 2026",
-      "url": "https://www.artsci.utoronto.ca/events/innis-ignites-alumni-insights-15-minutes",
+      "title": "Crash Course for Building & Leading Teams",
+      "date": "October 29, 2026",
+      "url": "https://www.engineering.utoronto.ca/event/crash-course-for-building-leading-teams/",
       "departments": [
-        "Faculty of Arts & Science"
+        "Faculty of Applied Science and Engineering"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Copper Woman: Afua Cooper and Her Poetry",
-      "date": "October 27, 2026",
-      "url": "https://www.artsci.utoronto.ca/events/copper-woman-afua-cooper-and-her-poetry",
+      "title": "ChemE Master of Engineering (MEng) Online Application Support Drop-In",
+      "date": "November 3, 2026",
+      "url": "https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-03/",
       "departments": [
-        "Faculty of Arts & Science"
+        "Faculty of Applied Science and Engineering"
       ],
       "sources": [
         "U of T"
@@ -644,23 +634,22 @@
       ]
     },
     {
-      "title": "MoveU Refresh & Recharge",
-      "date": "October 28, 2026",
-      "url": "https://kpe.utoronto.ca/wed-10282026-0800/moveu-refresh-recharge",
+      "title": "Mile End Kicks Screening and Q&A",
+      "date": "November 4, 2026",
+      "url": "https://www.artsci.utoronto.ca/events/mile-end-kicks-screening-and-qa",
       "departments": [
-        "Faculty of Kinesiology & Physical Education",
-        "U of T St. George"
+        "Faculty of Arts & Science"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Bachelor of Kinesiology Virtual Info Session",
-      "date": "October 29, 2026",
-      "url": "https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session",
+      "title": "2026 Sefton-Williams Memorial Lecture",
+      "date": "November 5, 2026",
+      "url": "https://www.artsci.utoronto.ca/events/2026-sefton-williams-memorial-lecture",
       "departments": [
-        "Faculty of Kinesiology & Physical Education"
+        "Faculty of Arts & Science"
       ],
       "sources": [
         "U of T"
@@ -678,9 +667,31 @@
       ]
     },
     {
+      "title": "Bachelor of Kinesiology Virtual Info Session",
+      "date": "October 29, 2026",
+      "url": "https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session",
+      "departments": [
+        "Faculty of Kinesiology & Physical Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Fall Campus Day",
       "date": "November 14, 2026",
       "url": "https://kpe.utoronto.ca/sat-11142026-0930/fall-campus-day",
+      "departments": [
+        "Faculty of Kinesiology & Physical Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "High Performance, Hidden Harm: Interdisciplinary Approaches to Understanding and Preventing Abuse within Coaching and Teaching Relationships",
+      "date": "November 16, 2026",
+      "url": "https://kpe.utoronto.ca/mon-11162026-1730/high-performance-hidden-harm-interdisciplinary-approaches-understanding-and",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
       ],
@@ -738,17 +749,6 @@
       "url": "https://music.utoronto.ca/event/261111-hybrid-ensemble",
       "departments": [
         "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Optimization Modelling in Business and Government",
-      "date": "October 28 to October 30, 2026",
-      "url": "http://www.fields.utoronto.ca/activities/26-27/optimization",
-      "departments": [
-        "Fields Institute"
       ],
       "sources": [
         "U of T"
@@ -964,9 +964,9 @@
       ]
     },
     {
-      "title": "Book Event: Mentorship by Frankie J. Weinberg",
-      "date": "October 27, 2026",
-      "url": "https://www.eventbrite.ca/e/book-event-mentorship-by-frankie-j-weinberg-tickets-2002964640157?aff=oddtdtcreator",
+      "title": "Colonized Classrooms Book Launch: OISE alum Dr. Sheila Cote-Meek",
+      "date": "October 28, 2026",
+      "url": "https://experiencebu.brocku.ca/event/335864",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -975,9 +975,9 @@
       ]
     },
     {
-      "title": "Climate Change Education Conference",
-      "date": "October 27, 2026",
-      "url": "https://www.oise.utoronto.ca/scan/events/10-27-26-climate-change-education-conference",
+      "title": "Save the date: Centre for Leadership and Diversity 7th Annual International Conference",
+      "date": "October 29 to October 31, 2026",
+      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSECUjB1FgYEpIqHEvPb_zH4lUQVU5RzE2RklYMzBBN1VMNkNPWE5KR1daVy4u&route=shorturl",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -986,9 +986,20 @@
       ]
     },
     {
-      "title": "OISE Convocation Alumni Booth & Pin Pick-Up",
-      "date": "October 27, 2026",
-      "url": "https://www.oise.utoronto.ca/convocation-hub",
+      "title": "Global Governance or Dynamic Culture? International Influences on US State Al Policy Development in Education",
+      "date": "October 29, 2026",
+      "url": "https://www.oise.utoronto.ca/cidec/about/events/10-29-26-global-governance-or-dynamic-culture-international-influences-us-state",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Centre for Leadership and Diversity 7th Annual International Conference",
+      "date": "October 29 to October 31, 2026",
+      "url": "https://oise.jotform.com/262244595314963",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -1129,6 +1140,17 @@
       ]
     },
     {
+      "title": "Sustainable Fashion Series: DIY Reuseables Workshop",
+      "date": "November 16, 2026",
+      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reuseables-workshop",
+      "departments": [
+        "School of the Environment"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Environment Seminar Series: The Conservation Answer to Climate Change with Bob Inglis",
       "date": "November 18, 2026",
       "url": "https://www.environment.utoronto.ca/events/environment-seminar-series-conservation-answer-climate-change-bob-inglis",
@@ -1140,11 +1162,11 @@
       ]
     },
     {
-      "title": "The Human Variable: Psychology for the AI Age",
-      "date": "October 28, 2026",
-      "url": "https://srinstitute.utoronto.ca/events-archive/the-human-variable",
+      "title": "Environment Seminar Series: The Only Flag Worth Flying: Direct Action and the Enforcement of Internatio...",
+      "date": "March 12, 2027",
+      "url": "https://www.environment.utoronto.ca/events/environment-seminar-series-only-flag-worth-flying-direct-action-and-enforcement-international",
       "departments": [
-        "Schwartz Reisman Institute for Technology and Society"
+        "School of the Environment"
       ],
       "sources": [
         "U of T"
@@ -1187,6 +1209,17 @@
       "title": "U of T | Service of Remembrance at St. George Campus",
       "date": "November 11, 2026",
       "url": "https://alumni.utoronto.ca/community/soldiers-tower/service-of-remembrance",
+      "departments": [
+        "Service of Remembrance"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "U of T | Service of Remembrance at Mississauga Campus",
+      "date": "November 11, 2026",
+      "url": "https://www.utm.utoronto.ca/remembrance-day-ceremonies",
       "departments": [
         "Service of Remembrance"
       ],
@@ -1327,9 +1360,31 @@
       ]
     },
     {
+      "title": "Fall Campus Day at St. George Campus",
+      "date": "November 14, 2026",
+      "url": "https://future.utoronto.ca/fall-campus-day-u-t-st-george",
+      "departments": [
+        "U of T St. George"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "ConnectU: Connecting Students, Creating Community",
       "date": "September 21 to December 7, 2026",
       "url": "https://www.utsc.utoronto.ca/hwc/connectu-connecting-students-creating-community",
+      "departments": [
+        "U of T Scarborough"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Fall Campus Day at Scarborough Campus",
+      "date": "November 7, 2026",
+      "url": "https://www.utsc.utoronto.ca/admissions/tours-events#fallcampusday",
       "departments": [
         "U of T Scarborough"
       ],
