@@ -3,44 +3,44 @@ VERSION:2.0
 PRODID:-//UofT Event Scout//EN
 X-WR-CALNAME:U of T Events
 BEGIN:VEVENT
-UID:https%3A%2F%2Fforms.cloud.microsoft%2Fpages%2Fresponsepage.aspx%3Fid%3DJsKqeAMvTUuQN7RtVsVSECUjB1FgYEpIqHEvPb_zH4lUQVU5RzE2RklYMzBBN1VMNkNPWE5KR1daVy4u%26route%3Dshorturl@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Save the date: Centre for Leadership and Diversity 7th Annual International Conference
-DESCRIPTION:Verify time\, location\, and registration: https://forms.cloud.microsoft/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSECUjB1FgYEpIqHEvPb_zH4lUQVU5RzE2RklYMzBBN1VMNkNPWE5KR1daVy4u&route=shorturl
-URL:https://forms.cloud.microsoft/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSECUjB1FgYEpIqHEvPb_zH4lUQVU5RzE2RklYMzBBN1VMNkNPWE5KR1daVy4u&route=shorturl
+UID:https%3A%2F%2Fwww.dlsph.utoronto.ca%2Fevent%2Fmph-indigenous-health-program-information-sessions%2F@uoftevents
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:MPH Indigenous Health Program Information Sessions
+DESCRIPTION:Verify time\, location\, and registration: https://www.dlsph.utoronto.ca/event/mph-indigenous-health-program-information-sessions/
+URL:https://www.dlsph.utoronto.ca/event/mph-indigenous-health-program-information-sessions/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fmunkschool.utoronto.ca%2Fevent%2Fapsia-online-fair-11-0@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:APSIA Online Fair11
-DESCRIPTION:Verify time\, location\, and registration: https://munkschool.utoronto.ca/event/apsia-online-fair-11-0
-URL:https://munkschool.utoronto.ca/event/apsia-online-fair-11-0
+UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Ffun-data-friday-storytelling-with-data%2F@uoftevents
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Fun Data Friday: Storytelling with Data
+DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/fun-data-friday-storytelling-with-data/
+URL:https://cris.utoronto.ca/event/fun-data-friday-storytelling-with-data/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Foise.jotform.com%2F262244595314963@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Centre for Leadership and Diversity 7th Annual International Conference
-DESCRIPTION:Verify time\, location\, and registration: https://oise.jotform.com/262244595314963
-URL:https://oise.jotform.com/262244595314963
+UID:https%3A%2F%2Fwww.registrar.utoronto.ca%2Fconvocation-events%2Ff12-school-of-graduate-studies-information-kinesiology-physical-education-faculty-of-arts-science%2F@uoftevents
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:F12. School of Graduate Studies: Information\, Kinesiology & Physical Education\; Faculty of Arts & Science
+DESCRIPTION:Verify time\, location\, and registration: https://www.registrar.utoronto.ca/convocation-events/f12-school-of-graduate-studies-information-kinesiology-physical-education-faculty-of-arts-science/
+URL:https://www.registrar.utoronto.ca/convocation-events/f12-school-of-graduate-studies-information-kinesiology-physical-education-faculty-of-arts-science/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fethics-and-political-philosophy-interest-group%2F@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Ethics and Political Philosophy Interest Group Talk
-DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group/
-URL:https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group/
+UID:https%3A%2F%2Fmunkschool.utoronto.ca%2Fevent%2Feducation-transition-shifting-priorities-and-policies-changing-world-order@uoftevents
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Education in Transition: Shifting Priorities and Policies in a Changing World Order
+DESCRIPTION:Verify time\, location\, and registration: https://munkschool.utoronto.ca/event/education-transition-shifting-priorities-and-policies-changing-world-order
+URL:https://munkschool.utoronto.ca/event/education-transition-shifting-priorities-and-policies-changing-world-order
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fforms.cloud.microsoft%2Fpages%2Fresponsepage.aspx%3Fid%3DDQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAAO2G52VUOElSUTA1SFdSNktCR1gwMktUTVVCWDYxVS4u%26route%3Dshorturl@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Democratic learning spaces: Progress\, tensions and hope
-DESCRIPTION:Verify time\, location\, and registration: https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAAO2G52VUOElSUTA1SFdSNktCR1gwMktUTVVCWDYxVS4u&route=shorturl
-URL:https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAAO2G52VUOElSUTA1SFdSNktCR1gwMktUTVVCWDYxVS4u&route=shorturl
+UID:https%3A%2F%2Fstmikes.utoronto.ca%2Fevent%2Fmagnifica-humanitas-choosing-humanity-in-the-ai-revolution@uoftevents
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Magnifica Humanitas: Choosing Humanity in the AI Revolution
+DESCRIPTION:Verify time\, location\, and registration: https://stmikes.utoronto.ca/event/magnifica-humanitas-choosing-humanity-in-the-ai-revolution
+URL:https://stmikes.utoronto.ca/event/magnifica-humanitas-choosing-humanity-in-the-ai-revolution
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Falumni.utoronto.ca%2Fevents%2Fpublic-history-lab-hitler-and-stalin-today-professor-timothy-snyder@uoftevents
@@ -211,22 +211,6 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.entrepreneurs
 URL:https://www.entrepreneurship.artsci.utoronto.ca/events/finding-product-market-fit
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Freflecting-on-indigenous-land-acknowledgments-oct-29-2026%2F@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Reflecting on Indigenous Land Acknowledgments - Oct. 29\, 2026
-DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/reflecting-on-indigenous-land-acknowledgments-oct-29-2026/
-URL:https://cris.utoronto.ca/event/reflecting-on-indigenous-land-acknowledgments-oct-29-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Ffun-data-friday-storytelling-with-data%2F@uoftevents
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Fun Data Friday: Storytelling with Data
-DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/fun-data-friday-storytelling-with-data/
-URL:https://cris.utoronto.ca/event/fun-data-friday-storytelling-with-data/
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2F2026-age-well-annual-conference%2F@uoftevents
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
@@ -251,36 +235,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/
 URL:https://cris.utoronto.ca/event/travelling-safely-protecting-your-research-while-travelling-abroad-nov-5-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.registrar.utoronto.ca%2Fconvocation-events%2Ffall-2026-ceremony-9%2F@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:F9. School of Graduate Studies: Applied Science & Engineering
-DESCRIPTION:Verify time\, location\, and registration: https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-9/
-URL:https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-9/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.registrar.utoronto.ca%2Fconvocation-events%2Ffall-2026-ceremony-10%2F@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:F10. School of Graduate Studies\, Temerty Medicine
-DESCRIPTION:Verify time\, location\, and registration: https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-10/
-URL:https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-10/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.registrar.utoronto.ca%2Fconvocation-events%2Ffall-2026-ceremony-11%2F@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:F11. School of Graduate Studies: Nursing\, Dentistry\, and Pharmacy
-DESCRIPTION:Verify time\, location\, and registration: https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-11/
-URL:https://www.registrar.utoronto.ca/convocation-events/fall-2026-ceremony-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.registrar.utoronto.ca%2Fconvocation-events%2Ff12-school-of-graduate-studies-information-kinesiology-physical-education-faculty-of-arts-science%2F@uoftevents
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:F12. School of Graduate Studies: Information\, Kinesiology & Physical Education\; Faculty of Arts & Science
-DESCRIPTION:Verify time\, location\, and registration: https://www.registrar.utoronto.ca/convocation-events/f12-school-of-graduate-studies-information-kinesiology-physical-education-faculty-of-arts-science/
-URL:https://www.registrar.utoronto.ca/convocation-events/f12-school-of-graduate-studies-information-kinesiology-physical-education-faculty-of-arts-science/
+UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Fcbrcanadas-annual-general-meeting-nov-9-2026%2F@uoftevents
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:CBRCanada's Annual General Meeting - Nov. 9\, 2026
+DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/cbrcanadas-annual-general-meeting-nov-9-2026/
+URL:https://cris.utoronto.ca/event/cbrcanadas-annual-general-meeting-nov-9-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.dlsph.utoronto.ca%2Fevent%2Fmph-in-black-health-information-sessions-4%2F@uoftevents
@@ -315,14 +275,6 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.dlsph.utoront
 URL:https://www.dlsph.utoronto.ca/event/master-of-health-science-bioethics-info-session-2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fethics-and-political-philosophy-interest-group-iwao-hirose-mcgill%2F@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Ethics and Political Philosophy Interest Group Talk (Iwao Hirose\, McGill)
-DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-iwao-hirose-mcgill/
-URL:https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-iwao-hirose-mcgill/
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Faesthetics-reading-group-alexandra-king-simon-fraser-university%2F@uoftevents
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
@@ -347,20 +299,28 @@ DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoron
 URL:https://philosophy.utoronto.ca/event/continental-philosophy-research-group-thimo-heisenberg-rice-university/
 END:VEVENT
 BEGIN:VEVENT
+UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fcontinental-philosophy-research-group-talk%2F@uoftevents
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Continental Philosophy Research Group Talk
+DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/continental-philosophy-research-group-talk/
+URL:https://philosophy.utoronto.ca/event/continental-philosophy-research-group-talk/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Flanguage-epistemology-metaphysics-and-mind-research-interest-group-brian-hedden-mit%2F@uoftevents
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Language\, Epistemology\, Metaphysics\, and Mind Research Interest Group (Brian Hedden\, MIT)
+DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/language-epistemology-metaphysics-and-mind-research-interest-group-brian-hedden-mit/
+URL:https://philosophy.utoronto.ca/event/language-epistemology-metaphysics-and-mind-research-interest-group-brian-hedden-mit/
+END:VEVENT
+BEGIN:VEVENT
 UID:https%3A%2F%2Feeb.utoronto.ca%2Fevent%2Fpervasive-selective-sweeps-within-and-across-human-gut-microbiomes-nandita-garud-ucla%2F@uoftevents
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Pervasive Selective Sweeps within and across Human Gut Microbiomes: Nandita Garud (UCLA)
 DESCRIPTION:Verify time\, location\, and registration: https://eeb.utoronto.ca/event/pervasive-selective-sweeps-within-and-across-human-gut-microbiomes-nandita-garud-ucla/
 URL:https://eeb.utoronto.ca/event/pervasive-selective-sweeps-within-and-across-human-gut-microbiomes-nandita-garud-ucla/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fsocialwork.utoronto.ca%2Fevent%2F2s-lgbtqia-sexual-reproductive-justice-forum%2F@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:2S/LGBTQIA+ Sexual & Reproductive Justice Forum
-DESCRIPTION:Verify time\, location\, and registration: https://socialwork.utoronto.ca/event/2s-lgbtqia-sexual-reproductive-justice-forum/
-URL:https://socialwork.utoronto.ca/event/2s-lgbtqia-sexual-reproductive-justice-forum/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fsocialwork.utoronto.ca%2Fevent%2Fleong-centre-community-engagement-series-community-engagement-series-research-priorities-and-lessons-learned-from-sexual-and-gender-minority-youth-engaged-research%2F@uoftevents
@@ -395,22 +355,6 @@ DESCRIPTION:Verify time\, location\, and registration: https://socialwork.utoron
 URL:https://socialwork.utoronto.ca/event/ilca-seminar-what-is-successful-aging-2-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Fcrash-course-for-building-leading-teams%2F@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Crash Course for Building & Leading Teams
-DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/crash-course-for-building-leading-teams/
-URL:https://www.engineering.utoronto.ca/event/crash-course-for-building-leading-teams/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2F2026-fall-convocation%2F@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:2026 Fall Convocation
-DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/2026-fall-convocation/
-URL:https://www.engineering.utoronto.ca/event/2026-fall-convocation/
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Fcheme-master-of-engineering-meng-online-application-support-drop-in%2F2026-11-03%2F@uoftevents
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
@@ -433,6 +377,22 @@ DTEND;VALUE=DATE:20261112
 SUMMARY:Lunch & Learn — Game on: Leveling up pediatric rehab with gaming technologies
 DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/lunch-learn-game-on-leveling-up-pediatric-rehab-with-gaming-technologies/
 URL:https://www.engineering.utoronto.ca/event/lunch-learn-game-on-leveling-up-pediatric-rehab-with-gaming-technologies/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Fcheme-master-of-engineering-meng-online-application-support-drop-in%2F2026-11-17%2F@uoftevents
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:ChemE Master of Engineering (MEng) Online Application Support Drop-In
+DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-17/
+URL:https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Fu-of-t-alumni-at-gametime-social%2F@uoftevents
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:U of T alumni at GameTime Social
+DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/u-of-t-alumni-at-gametime-social/
+URL:https://www.engineering.utoronto.ca/event/u-of-t-alumni-at-gametime-social/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.artsci.utoronto.ca%2Fevents%2Fsalutogenic-placemaking-series-public-talk-tye-farrow-constructing-health-salutogenic@uoftevents
@@ -459,14 +419,6 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.artsci.utoron
 URL:https://www.artsci.utoronto.ca/events/mile-end-kicks-screening-and-qa
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.artsci.utoronto.ca%2Fevents%2F2026-sefton-williams-memorial-lecture@uoftevents
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:2026 Sefton-Williams Memorial Lecture
-DESCRIPTION:Verify time\, location\, and registration: https://www.artsci.utoronto.ca/events/2026-sefton-williams-memorial-lecture
-URL:https://www.artsci.utoronto.ca/events/2026-sefton-williams-memorial-lecture
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.artsci.utoronto.ca%2Fevents%2Fworkshop-critical-approaches-social-and-environmental-impact-ai@uoftevents
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
@@ -475,20 +427,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.artsci.utoron
 URL:https://www.artsci.utoronto.ca/events/workshop-critical-approaches-social-and-environmental-impact-ai
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fkpe.utoronto.ca%2Fthu-10292026-1915%2Fmoveu-skate-series@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:MoveU Skate Series
-DESCRIPTION:Verify time\, location\, and registration: https://kpe.utoronto.ca/thu-10292026-1915/moveu-skate-series
-URL:https://kpe.utoronto.ca/thu-10292026-1915/moveu-skate-series
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fkpe.utoronto.ca%2Fthu-10292026-1800%2Fbachelor-kinesiology-virtual-info-session@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Bachelor of Kinesiology Virtual Info Session
-DESCRIPTION:Verify time\, location\, and registration: https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session
-URL:https://kpe.utoronto.ca/thu-10292026-1800/bachelor-kinesiology-virtual-info-session
+UID:https%3A%2F%2Fwww.artsci.utoronto.ca%2Fevents%2Fnest-film-screening@uoftevents
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:'The Nest' Film Screening
+DESCRIPTION:Verify time\, location\, and registration: https://www.artsci.utoronto.ca/events/nest-film-screening
+URL:https://www.artsci.utoronto.ca/events/nest-film-screening
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fkpe.utoronto.ca%2Fsat-11142026-0930%2Ffall-campus-day@uoftevents
@@ -659,6 +603,14 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoro
 URL:https://www.daniels.utoronto.ca/events/1794265200/info-session-master-landscape-architecture-mla
 END:VEVENT
 BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.pharmacy.utoronto.ca%2Fevents%2Fbuilding-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems@uoftevents
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Building Canada's First Pan-Canadian Primary Care Strategy: Opportunities to Integrate Pharmacists into Primary Care Systems
+DESCRIPTION:Verify time\, location\, and registration: https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems
+URL:https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems
+END:VEVENT
+BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.pharmacy.utoronto.ca%2Fevents%2F2026-explore-health-sciences-grad-professional-programs-fair@uoftevents
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
@@ -673,14 +625,6 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Rolling the Dice for Better Health Policy
 DESCRIPTION:Verify time\, location\, and registration: https://www.pharmacy.utoronto.ca/events/rolling-dice-better-health-policy
 URL:https://www.pharmacy.utoronto.ca/events/rolling-dice-better-health-policy
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.pharmacy.utoronto.ca%2Fevents%2Fbuilding-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems@uoftevents
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Building Canada's First Pan-Canadian Primary Care Strategy: Opportunities to Integrate Pharmacists into Primary Care Systems
-DESCRIPTION:Verify time\, location\, and registration: https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems
-URL:https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.pharmacy.utoronto.ca%2Fevents%2Fvirtual-open-house-pharmd-pharmacists-program@uoftevents
@@ -699,12 +643,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.pharmacy.utor
 URL:https://www.pharmacy.utoronto.ca/events/designing-integration-innovations-new-pharmd-curriculum
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fcidec%2Fabout%2Fevents%2F10-29-26-global-governance-or-dynamic-culture-international-influences-us-state@uoftevents
+UID:https%3A%2F%2Foise.jotform.com%2F262244595314963@uoftevents
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:Global Governance or Dynamic Culture? International Influences on US State Al Policy Development in Education
-DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/cidec/about/events/10-29-26-global-governance-or-dynamic-culture-international-influences-us-state
-URL:https://www.oise.utoronto.ca/cidec/about/events/10-29-26-global-governance-or-dynamic-culture-international-influences-us-state
+SUMMARY:Centre for Leadership and Diversity 7th Annual International Conference
+DESCRIPTION:Verify time\, location\, and registration: https://oise.jotform.com/262244595314963
+URL:https://oise.jotform.com/262244595314963
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fforms.cloud.microsoft%2Fpages%2Fresponsepage.aspx%3Fid%3DJsKqeAMvTUuQN7RtVsVSECUjB1FgYEpIqHEvPb_zH4lUQVU5RzE2RklYMzBBN1VMNkNPWE5KR1daVy4u%26route%3Dshorturl@uoftevents
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Save the date: Centre for Leadership and Diversity 7th Annual International Conference
+DESCRIPTION:Verify time\, location\, and registration: https://forms.cloud.microsoft/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSECUjB1FgYEpIqHEvPb_zH4lUQVU5RzE2RklYMzBBN1VMNkNPWE5KR1daVy4u&route=shorturl
+URL:https://forms.cloud.microsoft/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSECUjB1FgYEpIqHEvPb_zH4lUQVU5RzE2RklYMzBBN1VMNkNPWE5KR1daVy4u&route=shorturl
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fctl%2Fabout%2Fevents%2F11-01-26-career-closet-drive@uoftevents
@@ -715,20 +667,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto
 URL:https://www.oise.utoronto.ca/ctl/about/events/11-01-26-career-closet-drive
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.rotman.utoronto.ca%2Fnews-events-and-ideas%2Fpublic-events%2Fevents-listings%2F2026%2Foctober-2026%2Foct-29-rotman-doc-insights-love-apptually%2F@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Rotman Documentary Insights presents: "Love Apptually"
-DESCRIPTION:Verify time\, location\, and registration: https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/october-2026/oct-29-rotman-doc-insights-love-apptually/
-URL:https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/october-2026/oct-29-rotman-doc-insights-love-apptually/
+UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fscan%2Fevents%2F11-02-26-learning-about-climate-through-comedy-higher-education@uoftevents
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Learning about Climate through Comedy in Higher Education
+DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/scan/events/11-02-26-learning-about-climate-through-comedy-higher-education
+URL:https://www.oise.utoronto.ca/scan/events/11-02-26-learning-about-climate-through-comedy-higher-education
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.rotman.utoronto.ca%2Fnews-events-and-ideas%2Fpublic-events%2Fevents-listings%2F2026%2Fnovember-2026%2Fnov-3---retail-insider--rotman%2F@uoftevents
+UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fcidec%2Fabout%2Fevents%2F11-03-26-we-demand-free-universities-postsocialist-framing-educational-justice@uoftevents
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:Retail Insider @ Rotman
-DESCRIPTION:Verify time\, location\, and registration: https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3---retail-insider--rotman/
-URL:https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3---retail-insider--rotman/
+SUMMARY:“We demand free universities!” A postsocialist framing of educational justice: Dr. Miglena Todorova
+DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/cidec/about/events/11-03-26-we-demand-free-universities-postsocialist-framing-educational-justice
+URL:https://www.oise.utoronto.ca/cidec/about/events/11-03-26-we-demand-free-universities-postsocialist-framing-educational-justice
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.rotman.utoronto.ca%2Fnews-events-and-ideas%2Fpublic-events%2Fevents-listings%2F2026%2Fnovember-2026%2Fnov-3-malcolm-gladwell%2F@uoftevents
@@ -737,6 +689,14 @@ DTEND;VALUE=DATE:20261104
 SUMMARY:Malcolm Gladwell on "The American Way of Killing: The Invention of an Epidemic"
 DESCRIPTION:Verify time\, location\, and registration: https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3-malcolm-gladwell/
 URL:https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3-malcolm-gladwell/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.rotman.utoronto.ca%2Fnews-events-and-ideas%2Fpublic-events%2Fevents-listings%2F2026%2Fnovember-2026%2Fnov-3---retail-insider--rotman%2F@uoftevents
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Retail Insider @ Rotman
+DESCRIPTION:Verify time\, location\, and registration: https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3---retail-insider--rotman/
+URL:https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3---retail-insider--rotman/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.rotman.utoronto.ca%2Fnews-events-and-ideas%2Fpublic-events%2Fevents-listings%2F2026%2Fnovember-2026%2Fnov-5---inside-the-c-suite%2F@uoftevents
@@ -755,12 +715,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.rotman.utoron
 URL:https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-11---ranjay-gulati--/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fstmikes.utoronto.ca%2Fevent%2Fmagnifica-humanitas-choosing-humanity-in-the-ai-revolution@uoftevents
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Magnifica Humanitas: Choosing Humanity in the AI Revolution
-DESCRIPTION:Verify time\, location\, and registration: https://stmikes.utoronto.ca/event/magnifica-humanitas-choosing-humanity-in-the-ai-revolution
-URL:https://stmikes.utoronto.ca/event/magnifica-humanitas-choosing-humanity-in-the-ai-revolution
+UID:https%3A%2F%2Fwww.rotman.utoronto.ca%2Fnews-events-and-ideas%2Fpublic-events%2Fevents-listings%2F2026%2Fnovember-2026%2Fnov-16-chad-bown%2F@uoftevents
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Chad Bown on "How to Win a Trade War"
+DESCRIPTION:Verify time\, location\, and registration: https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-16-chad-bown/
+URL:https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-16-chad-bown/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fstmikes.utoronto.ca%2Fevent%2Fhope-in-action-building-hope-reimagining-institutions-for-human-flourishing-continuing-education-free-webinar@uoftevents
@@ -883,22 +843,6 @@ DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.u
 URL:https://temertymedicine.utoronto.ca/event/ai-practice-residents-fellows-weekend-mini-course-final-registration-deadline-nov-15
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Fblack-womens-healthcare-summit-0@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Black Women's Healthcare Summit
-DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.utoronto.ca/event/black-womens-healthcare-summit-0
-URL:https://temertymedicine.utoronto.ca/event/black-womens-healthcare-summit-0
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Fdns-research-day-and-edna-park-lecture-2026@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:DNS Research Day and Edna Park Lecture 2026
-DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.utoronto.ca/event/dns-research-day-and-edna-park-lecture-2026
-URL:https://temertymedicine.utoronto.ca/event/dns-research-day-and-edna-park-lecture-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Ftemerty-ukraine-toronto-education-collaboration-fund-0@uoftevents
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
@@ -907,12 +851,28 @@ DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.u
 URL:https://temertymedicine.utoronto.ca/event/temerty-ukraine-toronto-education-collaboration-fund-0
 END:VEVENT
 BEGIN:VEVENT
+UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Fculture-medicine-treaties-recognition-week@uoftevents
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Culture as Medicine: Treaties Recognition Week
+DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.utoronto.ca/event/culture-medicine-treaties-recognition-week
+URL:https://temertymedicine.utoronto.ca/event/culture-medicine-treaties-recognition-week
+END:VEVENT
+BEGIN:VEVENT
 UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Fget-talking-emergency-response-mental-health-what-are-we-doing@uoftevents
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Get Talking! Emergency response to mental health: what are we doing?
 DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.utoronto.ca/event/get-talking-emergency-response-mental-health-what-are-we-doing
 URL:https://temertymedicine.utoronto.ca/event/get-talking-emergency-response-mental-health-what-are-we-doing
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Fdrawing-across-disciplines-fieldwork@uoftevents
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Drawing across the Disciplines: Fieldwork
+DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.utoronto.ca/event/drawing-across-disciplines-fieldwork
+URL:https://temertymedicine.utoronto.ca/event/drawing-across-disciplines-fieldwork
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.trinity.utoronto.ca%2Fevent%2Fsacred-music-in-a-sacred-space-november%2F@uoftevents
@@ -931,12 +891,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.trinity.utoro
 URL:https://www.trinity.utoronto.ca/event/jeremy-begbie-workshop-and-lecture-series-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fresources-for-patent-research-4%2F@uoftevents
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Resources for Patent Research
-DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/resources-for-patent-research-4/
-URL:https://entrepreneurs.utoronto.ca/event/resources-for-patent-research-4/
+UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Ftogether-toronto-ecosystem-showcase%2F@uoftevents
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Together Toronto & Ecosystem Showcase
+DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/together-toronto-ecosystem-showcase/
+URL:https://entrepreneurs.utoronto.ca/event/together-toronto-ecosystem-showcase/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fdiversifying-trade-through-the-ckfta%2F@uoftevents
@@ -945,14 +905,6 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Diversifying Trade through the CKFTA
 DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/diversifying-trade-through-the-ckfta/
 URL:https://entrepreneurs.utoronto.ca/event/diversifying-trade-through-the-ckfta/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Ftogether-toronto-ecosystem-showcase%2F@uoftevents
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Together Toronto & Ecosystem Showcase
-DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/together-toronto-ecosystem-showcase/
-URL:https://entrepreneurs.utoronto.ca/event/together-toronto-ecosystem-showcase/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fthe-money-side-of-business%2F@uoftevents
@@ -969,6 +921,14 @@ DTEND;VALUE=DATE:20261105
 SUMMARY:SOSV Deep Tech Summit
 DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/sosv-deep-tech-summit/
 URL:https://entrepreneurs.utoronto.ca/event/sosv-deep-tech-summit/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fresilience-to-rise-the-advantage-of-failing-up%2F@uoftevents
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Resilience to Rise: The Advantage of Failing Up
+DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/resilience-to-rise-the-advantage-of-failing-up/
+URL:https://entrepreneurs.utoronto.ca/event/resilience-to-rise-the-advantage-of-failing-up/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Ffuture.utoronto.ca%2Ffall-campus-day-u-t-st-george@uoftevents
