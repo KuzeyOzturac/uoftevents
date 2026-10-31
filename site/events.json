@@ -1,13 +1,24 @@
 {
-  "updated_at": "2026-10-30T17:03:10.978272+00:00",
+  "updated_at": "2026-10-31T16:09:33.390149+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
     {
-      "title": "MPH Indigenous Health Program Information Sessions",
-      "date": "October 30 to December 25, 2026",
-      "url": "https://www.dlsph.utoronto.ca/event/mph-indigenous-health-program-information-sessions/",
+      "title": "MathEd Forum: October 2026",
+      "date": "October 31, 2026",
+      "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Oct",
+      "departments": [
+        "Fields Institute"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Lights Out: Halloween Glow Party",
+      "date": "October 31, 2026",
+      "url": "https://alumni.utoronto.ca/events/lights-out-halloween-glow-party",
       "departments": [
         "U of T"
       ],
@@ -16,44 +27,33 @@
       ]
     },
     {
-      "title": "Fun Data Friday: Storytelling with Data",
-      "date": "October 30, 2026",
-      "url": "https://cris.utoronto.ca/event/fun-data-friday-storytelling-with-data/",
+      "title": "Career Closet Drive",
+      "date": "November 1, 2026",
+      "url": "https://www.oise.utoronto.ca/ctl/about/events/11-01-26-career-closet-drive",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Fall Engineering Outreach Programs",
+      "date": "November 1 to December 6, 2026",
+      "url": "https://alumni.utoronto.ca/events/fall-engineering-outreach-programs",
+      "departments": [
+        "U of T"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "2026 AGE-WELL Annual Conference",
+      "date": "November 2, 2026",
+      "url": "https://cris.utoronto.ca/event/2026-age-well-annual-conference/",
       "departments": [
         "Centre for Research & Innovation Support"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "F12. School of Graduate Studies: Information, Kinesiology & Physical Education; Faculty of Arts & Science",
-      "date": "October 30, 2026",
-      "url": "https://www.registrar.utoronto.ca/convocation-events/f12-school-of-graduate-studies-information-kinesiology-physical-education-faculty-of-arts-science/",
-      "departments": [
-        "Convocation"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Education in Transition: Shifting Priorities and Policies in a Changing World Order",
-      "date": "October 30, 2026",
-      "url": "https://munkschool.utoronto.ca/event/education-transition-shifting-priorities-and-policies-changing-world-order",
-      "departments": [
-        "U of T"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Magnifica Humanitas: Choosing Humanity in the AI Revolution",
-      "date": "October 30, 2026",
-      "url": "https://stmikes.utoronto.ca/event/magnifica-humanitas-choosing-humanity-in-the-ai-revolution",
-      "departments": [
-        "St. Michael’s College"
       ],
       "sources": [
         "U of T"
@@ -291,17 +291,6 @@
       ]
     },
     {
-      "title": "2026 AGE-WELL Annual Conference",
-      "date": "November 2, 2026",
-      "url": "https://cris.utoronto.ca/event/2026-age-well-annual-conference/",
-      "departments": [
-        "Centre for Research & Innovation Support"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Drawing across the Disciplines: Fieldwork Webinar - Nov. 4, 2026",
       "date": "November 4, 2026",
       "url": "https://cris.utoronto.ca/event/drawing-across-the-disciplines-fieldwork-webinar-nov-4-2026/",
@@ -327,6 +316,17 @@
       "title": "CBRCanada's Annual General Meeting - Nov. 9, 2026",
       "date": "November 9, 2026",
       "url": "https://cris.utoronto.ca/event/cbrcanadas-annual-general-meeting-nov-9-2026/",
+      "departments": [
+        "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Hands-on Workshop: Applying GenAI Tools to Scholarly Writing – Nov. 12, 2026",
+      "date": "November 12, 2026",
+      "url": "https://cris.utoronto.ca/event/hands-on-workshop-applying-genai-tools-to-scholarly-writing-nov-12-2026/",
       "departments": [
         "Centre for Research & Innovation Support"
       ],
@@ -379,17 +379,6 @@
       ]
     },
     {
-      "title": "Aesthetics Reading Group (Alexandra King, Simon Fraser University)",
-      "date": "October 30, 2026",
-      "url": "https://philosophy.utoronto.ca/event/aesthetics-reading-group-alexandra-king-simon-fraser-university/",
-      "departments": [
-        "Department of Philosophy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Applying to Grad School Workshop and Panel",
       "date": "November 4, 2026",
       "url": "https://philosophy.utoronto.ca/event/applying-to-grad-school-workshop-and-panel/",
@@ -426,6 +415,17 @@
       "title": "Language, Epistemology, Metaphysics, and Mind Research Interest Group (Brian Hedden, MIT)",
       "date": "November 6, 2026",
       "url": "https://philosophy.utoronto.ca/event/language-epistemology-metaphysics-and-mind-research-interest-group-brian-hedden-mit/",
+      "departments": [
+        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Early Modern Philosophy Research Interest Group (Aman Sahkardande, U of T)",
+      "date": "November 6, 2026",
+      "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-aman-sahkardande-u-of-t/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -577,9 +577,9 @@
       ]
     },
     {
-      "title": "Workshop: Critical Approaches on the Social and Environmental Impact of AI",
+      "title": "'The Nest' Film Screening",
       "date": "November 5, 2026",
-      "url": "https://www.artsci.utoronto.ca/events/workshop-critical-approaches-social-and-environmental-impact-ai",
+      "url": "https://www.artsci.utoronto.ca/events/nest-film-screening",
       "departments": [
         "Faculty of Arts & Science"
       ],
@@ -588,9 +588,9 @@
       ]
     },
     {
-      "title": "'The Nest' Film Screening",
+      "title": "2026 Sefton-Williams Memorial Lecture",
       "date": "November 5, 2026",
-      "url": "https://www.artsci.utoronto.ca/events/nest-film-screening",
+      "url": "https://www.artsci.utoronto.ca/events/2026-sefton-williams-memorial-lecture",
       "departments": [
         "Faculty of Arts & Science"
       ],
@@ -676,28 +676,6 @@
       ]
     },
     {
-      "title": "Optimization Modelling in Business and Government",
-      "date": "October 28 to October 30, 2026",
-      "url": "http://www.fields.utoronto.ca/activities/26-27/optimization",
-      "departments": [
-        "Fields Institute"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "MathEd Forum: October 2026",
-      "date": "October 31, 2026",
-      "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Oct",
-      "departments": [
-        "Fields Institute"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Ontario Topology Seminar",
       "date": "November 6 to November 8, 2026",
       "url": "http://www.fields.utoronto.ca/activities/26-27/topology",
@@ -723,6 +701,17 @@
       "title": "MathEd Forum: January 2027 - Research Day",
       "date": "January 30, 2027",
       "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Jan",
+      "departments": [
+        "Fields Institute"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "MathEd Forum: February 2027",
+      "date": "February 27, 2027",
+      "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Feb",
       "departments": [
         "Fields Institute"
       ],
@@ -830,17 +819,6 @@
       ]
     },
     {
-      "title": "Building Canada's First Pan-Canadian Primary Care Strategy: Opportunities to Integrate Pharmacists into Primary Care Systems",
-      "date": "November 5, 2026",
-      "url": "https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems",
-      "departments": [
-        "Leslie Dan Faculty of Pharmacy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "2026 Explore Health Sciences: Grad & Professional Programs Fair",
       "date": "November 5, 2026",
       "url": "https://www.pharmacy.utoronto.ca/events/2026-explore-health-sciences-grad-professional-programs-fair",
@@ -855,6 +833,17 @@
       "title": "Rolling the Dice for Better Health Policy",
       "date": "November 5, 2026",
       "url": "https://www.pharmacy.utoronto.ca/events/rolling-dice-better-health-policy",
+      "departments": [
+        "Leslie Dan Faculty of Pharmacy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Building Canada's First Pan-Canadian Primary Care Strategy: Opportunities to Integrate Pharmacists into Primary Care Systems",
+      "date": "November 5, 2026",
+      "url": "https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
       ],
@@ -885,17 +874,6 @@
       ]
     },
     {
-      "title": "Centre for Leadership and Diversity 7th Annual International Conference",
-      "date": "October 29 to October 31, 2026",
-      "url": "https://oise.jotform.com/262244595314963",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Save the date: Centre for Leadership and Diversity 7th Annual International Conference",
       "date": "October 29 to October 31, 2026",
       "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSECUjB1FgYEpIqHEvPb_zH4lUQVU5RzE2RklYMzBBN1VMNkNPWE5KR1daVy4u&route=shorturl",
@@ -907,9 +885,9 @@
       ]
     },
     {
-      "title": "Career Closet Drive",
-      "date": "November 1, 2026",
-      "url": "https://www.oise.utoronto.ca/ctl/about/events/11-01-26-career-closet-drive",
+      "title": "Centre for Leadership and Diversity 7th Annual International Conference",
+      "date": "October 29 to October 31, 2026",
+      "url": "https://oise.jotform.com/262244595314963",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -940,9 +918,9 @@
       ]
     },
     {
-      "title": "Malcolm Gladwell on \"The American Way of Killing: The Invention of an Epidemic\"",
+      "title": "Retail Insider @ Rotman",
       "date": "November 3, 2026",
-      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3-malcolm-gladwell/",
+      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3---retail-insider--rotman/",
       "departments": [
         "Rotman School of Management"
       ],
@@ -951,9 +929,9 @@
       ]
     },
     {
-      "title": "Retail Insider @ Rotman",
+      "title": "Malcolm Gladwell on \"The American Way of Killing: The Invention of an Epidemic\"",
       "date": "November 3, 2026",
-      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3---retail-insider--rotman/",
+      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3-malcolm-gladwell/",
       "departments": [
         "Rotman School of Management"
       ],
@@ -989,6 +967,17 @@
       "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-16-chad-bown/",
       "departments": [
         "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "A Reading from Homer’s Odyssey with Michael O’Connor",
+      "date": "November 5, 2026",
+      "url": "https://stmikes.utoronto.ca/event/a-reading-from-homers-odyssey",
+      "departments": [
+        "St. Michael’s College"
       ],
       "sources": [
         "U of T"
@@ -1116,6 +1105,17 @@
       ]
     },
     {
+      "title": "U of T | Service of Remembrance at Scarborough Campus",
+      "date": "November 11, 2026",
+      "url": "https://www.utsc.utoronto.ca/principal/remembrance-day",
+      "departments": [
+        "Service of Remembrance"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "U of T | Service of Remembrance at St. George Campus",
       "date": "November 11, 2026",
       "url": "https://alumni.utoronto.ca/community/soldiers-tower/service-of-remembrance",
@@ -1138,31 +1138,9 @@
       ]
     },
     {
-      "title": "U of T | Service of Remembrance at Scarborough Campus",
-      "date": "November 11, 2026",
-      "url": "https://www.utsc.utoronto.ca/principal/remembrance-day",
-      "departments": [
-        "Service of Remembrance"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "AI in Practice for Residents & Fellows Weekend Mini-Course (Final Registration Deadline: Nov.",
       "date": "October 9 to November 15, 2026",
       "url": "https://temertymedicine.utoronto.ca/event/ai-practice-residents-fellows-weekend-mini-course-final-registration-deadline-nov-15",
-      "departments": [
-        "Temerty Faculty of Medicine"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Temerty Ukraine-Toronto Education & Collaboration Fund",
-      "date": "October 30, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/temerty-ukraine-toronto-education-collaboration-fund-0",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
