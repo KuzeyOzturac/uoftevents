@@ -1,31 +1,9 @@
 {
-  "updated_at": "2026-10-31T16:09:33.390149+00:00",
+  "updated_at": "2026-11-01T17:10:18.854719+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
-    {
-      "title": "MathEd Forum: October 2026",
-      "date": "October 31, 2026",
-      "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Oct",
-      "departments": [
-        "Fields Institute"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Lights Out: Halloween Glow Party",
-      "date": "October 31, 2026",
-      "url": "https://alumni.utoronto.ca/events/lights-out-halloween-glow-party",
-      "departments": [
-        "U of T"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
     {
       "title": "Career Closet Drive",
       "date": "November 1, 2026",
@@ -60,20 +38,31 @@
       ]
     },
     {
-      "title": "Public History Lab: Hitler and Stalin Today by Professor Timothy Snyder",
-      "date": "July 20 to December 18, 2026",
-      "url": "https://alumni.utoronto.ca/events/public-history-lab-hitler-and-stalin-today-professor-timothy-snyder",
+      "title": "Breaking Point? Faculty Speaker Series: Which way to America? Inequality in the United States",
+      "date": "November 2, 2026",
+      "url": "https://munkschool.utoronto.ca/event/breaking-point-faculty-speaker-series-which-way-america-inequality-united-states",
       "departments": [
-        "Alumni"
+        "U of T"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "What's so vanilla about vanilla? Find out how it made history as more than a spice.",
-      "date": "September 16 to October 31, 2026",
-      "url": "https://alumni.utoronto.ca/events/whats-so-vanilla-about-vanilla-find-out-how-it-made-history-more-spice",
+      "title": "Diversifying Trade through the CKFTA",
+      "date": "November 2, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/diversifying-trade-through-the-ckfta/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Public History Lab: Hitler and Stalin Today by Professor Timothy Snyder",
+      "date": "July 20 to December 18, 2026",
+      "url": "https://alumni.utoronto.ca/events/public-history-lab-hitler-and-stalin-today-professor-timothy-snyder",
       "departments": [
         "Alumni"
       ],
@@ -96,6 +85,17 @@
       "title": "Exhibition: Leading with Landscape",
       "date": "October 1 to November 10, 2026",
       "url": "https://alumni.utoronto.ca/events/exhibition-leading-landscape",
+      "departments": [
+        "Alumni"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
+      "date": "October 9 to December 11, 2026",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
       "departments": [
         "Alumni"
       ],
@@ -412,9 +412,9 @@
       ]
     },
     {
-      "title": "Language, Epistemology, Metaphysics, and Mind Research Interest Group (Brian Hedden, MIT)",
+      "title": "Early Modern Philosophy Research Interest Group (Aman Sahkardande, U of T)",
       "date": "November 6, 2026",
-      "url": "https://philosophy.utoronto.ca/event/language-epistemology-metaphysics-and-mind-research-interest-group-brian-hedden-mit/",
+      "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-aman-sahkardande-u-of-t/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -423,9 +423,9 @@
       ]
     },
     {
-      "title": "Early Modern Philosophy Research Interest Group (Aman Sahkardande, U of T)",
+      "title": "Language, Epistemology, Metaphysics, and Mind Research Interest Group (Brian Hedden, MIT)",
       "date": "November 6, 2026",
-      "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-aman-sahkardande-u-of-t/",
+      "url": "https://philosophy.utoronto.ca/event/language-epistemology-metaphysics-and-mind-research-interest-group-brian-hedden-mit/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -577,9 +577,9 @@
       ]
     },
     {
-      "title": "'The Nest' Film Screening",
+      "title": "2026 Sefton-Williams Memorial Lecture",
       "date": "November 5, 2026",
-      "url": "https://www.artsci.utoronto.ca/events/nest-film-screening",
+      "url": "https://www.artsci.utoronto.ca/events/2026-sefton-williams-memorial-lecture",
       "departments": [
         "Faculty of Arts & Science"
       ],
@@ -588,9 +588,9 @@
       ]
     },
     {
-      "title": "2026 Sefton-Williams Memorial Lecture",
+      "title": "Workshop: Critical Approaches on the Social and Environmental Impact of AI",
       "date": "November 5, 2026",
-      "url": "https://www.artsci.utoronto.ca/events/2026-sefton-williams-memorial-lecture",
+      "url": "https://www.artsci.utoronto.ca/events/workshop-critical-approaches-social-and-environmental-impact-ai",
       "departments": [
         "Faculty of Arts & Science"
       ],
@@ -665,9 +665,9 @@
       ]
     },
     {
-      "title": "John R. Stratton Visitor in Music: Masterclass: Tracy Dahl",
+      "title": "Hybrid Ensemble",
       "date": "November 11, 2026",
-      "url": "https://music.utoronto.ca/event/261111-masterclass-tracy-dahl",
+      "url": "https://music.utoronto.ca/event/261111-hybrid-ensemble",
       "departments": [
         "Faculty of Music"
       ],
@@ -712,6 +712,17 @@
       "title": "MathEd Forum: February 2027",
       "date": "February 27, 2027",
       "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Feb",
+      "departments": [
+        "Fields Institute"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "MathEd Forum: March 2027",
+      "date": "March 27, 2027",
+      "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Mar",
       "departments": [
         "Fields Institute"
       ],
@@ -786,9 +797,9 @@
       ]
     },
     {
-      "title": "Ideas Made Material",
+      "title": "Info session: Master of Forest Conservation (MFC)",
       "date": "November 5, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1793921400/ideas-made-material",
+      "url": "https://www.daniels.utoronto.ca/events/1793916000/info-session-master-forest-conservation-mfc",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -797,9 +808,9 @@
       ]
     },
     {
-      "title": "Info session: Master of Forest Conservation (MFC)",
+      "title": "Ideas Made Material",
       "date": "November 5, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1793916000/info-session-master-forest-conservation-mfc",
+      "url": "https://www.daniels.utoronto.ca/events/1793921400/ideas-made-material",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -874,28 +885,6 @@
       ]
     },
     {
-      "title": "Save the date: Centre for Leadership and Diversity 7th Annual International Conference",
-      "date": "October 29 to October 31, 2026",
-      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSECUjB1FgYEpIqHEvPb_zH4lUQVU5RzE2RklYMzBBN1VMNkNPWE5KR1daVy4u&route=shorturl",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Centre for Leadership and Diversity 7th Annual International Conference",
-      "date": "October 29 to October 31, 2026",
-      "url": "https://oise.jotform.com/262244595314963",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Learning about Climate through Comedy in Higher Education",
       "date": "November 2, 2026",
       "url": "https://www.oise.utoronto.ca/scan/events/11-02-26-learning-about-climate-through-comedy-higher-education",
@@ -910,6 +899,28 @@
       "title": "“We demand free universities!” A postsocialist framing of educational justice: Dr. Miglena Todorova",
       "date": "November 3, 2026",
       "url": "https://www.oise.utoronto.ca/cidec/about/events/11-03-26-we-demand-free-universities-postsocialist-framing-educational-justice",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "CIDEC Seminar: In Conversation with School Leaders from Chile",
+      "date": "November 5, 2026",
+      "url": "https://www.oise.utoronto.ca/cidec/about/events/11-05-26-cidec-seminar-conversation-school-leaders-chile",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "The Great Canadian Debate: Should national interest take precedence over global responsibility?",
+      "date": "November 5, 2026",
+      "url": "https://victoria.alumni.utoronto.ca/event/Greatcanadiandebate2026/home",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -1039,6 +1050,17 @@
       ]
     },
     {
+      "title": "Environment Seminar Series: Unconventional Pathways in Sustainability: Grassroots Organizing, Faith-Dri...",
+      "date": "November 4, 2026",
+      "url": "https://www.environment.utoronto.ca/events/environment-seminar-series-unconventional-pathways-sustainability-grassroots-organizing-faith",
+      "departments": [
+        "School of the Environment"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Democratic Crowdfunding for Hotspot Land Protection: Lessons from a Decade of This is My Earth (TiME) w...",
       "date": "November 5, 2026",
       "url": "https://www.environment.utoronto.ca/events/democratic-crowdfunding-hotspot-land-protection-lessons-decade-my-earth-time-professor-uri",
@@ -1061,9 +1083,9 @@
       ]
     },
     {
-      "title": "Environment Seminar Series: The Conservation Answer to Climate Change with Bob Inglis",
-      "date": "November 18, 2026",
-      "url": "https://www.environment.utoronto.ca/events/environment-seminar-series-conservation-answer-climate-change-bob-inglis",
+      "title": "Sustainable Fashion Series: DIY Reusables Workshop",
+      "date": "November 16, 2026",
+      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reusables-workshop",
       "departments": [
         "School of the Environment"
       ],
@@ -1072,9 +1094,9 @@
       ]
     },
     {
-      "title": "Environment Seminar Series: The Only Flag Worth Flying: Direct Action and the Enforcement of Internatio...",
-      "date": "March 12, 2027",
-      "url": "https://www.environment.utoronto.ca/events/environment-seminar-series-only-flag-worth-flying-direct-action-and-enforcement-international",
+      "title": "Environment Seminar Series: The Conservation Answer to Climate Change with Bob Inglis",
+      "date": "November 18, 2026",
+      "url": "https://www.environment.utoronto.ca/events/environment-seminar-series-conservation-answer-climate-change-bob-inglis",
       "departments": [
         "School of the Environment"
       ],
@@ -1105,11 +1127,22 @@
       ]
     },
     {
-      "title": "U of T | Service of Remembrance at Scarborough Campus",
-      "date": "November 11, 2026",
-      "url": "https://www.utsc.utoronto.ca/principal/remembrance-day",
+      "title": "Platform Extractivism: Data Work and the People Powering Artificial Intelligence",
+      "date": "December 2, 2026",
+      "url": "https://srinstitute.utoronto.ca/events-archive/platform-extractivism-posada",
       "departments": [
-        "Service of Remembrance"
+        "Schwartz Reisman Institute for Technology and Society"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "2026 SRI Graduate Symposium",
+      "date": "December 4, 2026",
+      "url": "https://srinstitute.utoronto.ca/events-archive/sri-graduate-symposium-2026",
+      "departments": [
+        "Schwartz Reisman Institute for Technology and Society"
       ],
       "sources": [
         "U of T"
@@ -1138,20 +1171,20 @@
       ]
     },
     {
-      "title": "AI in Practice for Residents & Fellows Weekend Mini-Course (Final Registration Deadline: Nov.",
-      "date": "October 9 to November 15, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/ai-practice-residents-fellows-weekend-mini-course-final-registration-deadline-nov-15",
+      "title": "U of T | Service of Remembrance at Scarborough Campus",
+      "date": "November 11, 2026",
+      "url": "https://www.utsc.utoronto.ca/principal/remembrance-day",
       "departments": [
-        "Temerty Faculty of Medicine"
+        "Service of Remembrance"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Culture as Medicine: Treaties Recognition Week",
-      "date": "November 3, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/culture-medicine-treaties-recognition-week",
+      "title": "AI in Practice for Residents & Fellows Weekend Mini-Course (Final Registration Deadline: Nov.",
+      "date": "October 9 to November 15, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/ai-practice-residents-fellows-weekend-mini-course-final-registration-deadline-nov-15",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1171,9 +1204,31 @@
       ]
     },
     {
+      "title": "Culture as Medicine: Treaties Recognition Week",
+      "date": "November 3, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/culture-medicine-treaties-recognition-week",
+      "departments": [
+        "Temerty Faculty of Medicine"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Drawing across the Disciplines: Fieldwork",
       "date": "November 4, 2026",
       "url": "https://temertymedicine.utoronto.ca/event/drawing-across-disciplines-fieldwork",
+      "departments": [
+        "Temerty Faculty of Medicine"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "AI in Practice for Residents & Fellows Weekend Mini-Course (Final Registration Deadline: Nov. Temerty Ukraine-Toronto Education & Collaboration Research Ethics in the Health Sciences Info Research Ethics in the Health Sciences Info Culture as Med...",
+      "date": "November 5, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/sickkids-23rd-annual-paediatric-emergency-medicine-conference",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1207,17 +1262,6 @@
       "title": "Together Toronto & Ecosystem Showcase",
       "date": "November 2, 2026",
       "url": "https://entrepreneurs.utoronto.ca/event/together-toronto-ecosystem-showcase/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Diversifying Trade through the CKFTA",
-      "date": "November 2, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/diversifying-trade-through-the-ckfta/",
       "departments": [
         "U of T Entrepreneurship"
       ],
