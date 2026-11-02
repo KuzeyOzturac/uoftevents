@@ -1,31 +1,9 @@
 {
-  "updated_at": "2026-11-01T17:10:18.854719+00:00",
+  "updated_at": "2026-11-02T20:49:17.982395+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
-    {
-      "title": "Career Closet Drive",
-      "date": "November 1, 2026",
-      "url": "https://www.oise.utoronto.ca/ctl/about/events/11-01-26-career-closet-drive",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Fall Engineering Outreach Programs",
-      "date": "November 1 to December 6, 2026",
-      "url": "https://alumni.utoronto.ca/events/fall-engineering-outreach-programs",
-      "departments": [
-        "U of T"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
     {
       "title": "2026 AGE-WELL Annual Conference",
       "date": "November 2, 2026",
@@ -54,6 +32,28 @@
       "url": "https://entrepreneurs.utoronto.ca/event/diversifying-trade-through-the-ckfta/",
       "departments": [
         "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Together Toronto & Ecosystem Showcase",
+      "date": "November 2, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/together-toronto-ecosystem-showcase/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Learning about Climate through Comedy in Higher Education",
+      "date": "November 2, 2026",
+      "url": "https://www.oise.utoronto.ca/scan/events/11-02-26-learning-about-climate-through-comedy-higher-education",
+      "departments": [
+        "Ontario Institute for Studies in Education"
       ],
       "sources": [
         "U of T"
@@ -95,7 +95,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
       "departments": [
         "Alumni"
       ],
@@ -106,7 +106,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
       "departments": [
         "Alumni"
       ],
@@ -830,6 +830,17 @@
       ]
     },
     {
+      "title": "Building Canada's First Pan-Canadian Primary Care Strategy: Opportunities to Integrate Pharmacists into Primary Care Systems",
+      "date": "November 5, 2026",
+      "url": "https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems",
+      "departments": [
+        "Leslie Dan Faculty of Pharmacy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "2026 Explore Health Sciences: Grad & Professional Programs Fair",
       "date": "November 5, 2026",
       "url": "https://www.pharmacy.utoronto.ca/events/2026-explore-health-sciences-grad-professional-programs-fair",
@@ -844,17 +855,6 @@
       "title": "Rolling the Dice for Better Health Policy",
       "date": "November 5, 2026",
       "url": "https://www.pharmacy.utoronto.ca/events/rolling-dice-better-health-policy",
-      "departments": [
-        "Leslie Dan Faculty of Pharmacy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Building Canada's First Pan-Canadian Primary Care Strategy: Opportunities to Integrate Pharmacists into Primary Care Systems",
-      "date": "November 5, 2026",
-      "url": "https://www.pharmacy.utoronto.ca/events/building-canadas-first-pan-canadian-primary-care-strategy-opportunities-integrate-pharmacists-primary-care-systems",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
       ],
@@ -885,9 +885,9 @@
       ]
     },
     {
-      "title": "Learning about Climate through Comedy in Higher Education",
-      "date": "November 2, 2026",
-      "url": "https://www.oise.utoronto.ca/scan/events/11-02-26-learning-about-climate-through-comedy-higher-education",
+      "title": "“We demand free universities!” A postsocialist framing of educational justice: Dr. Miglena Todorova",
+      "date": "November 3, 2026",
+      "url": "https://www.oise.utoronto.ca/cidec/about/events/11-03-26-we-demand-free-universities-postsocialist-framing-educational-justice",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -896,9 +896,9 @@
       ]
     },
     {
-      "title": "“We demand free universities!” A postsocialist framing of educational justice: Dr. Miglena Todorova",
-      "date": "November 3, 2026",
-      "url": "https://www.oise.utoronto.ca/cidec/about/events/11-03-26-we-demand-free-universities-postsocialist-framing-educational-justice",
+      "title": "Graduate Student Job Search and Career Exploration",
+      "date": "November 5, 2026",
+      "url": "https://folio.utoronto.ca/students/events/detail/7602423",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -1072,9 +1072,9 @@
       ]
     },
     {
-      "title": "Sustainable Fashion Series: DIY Reuseables Workshop",
+      "title": "Sustainable Fashion Series: DIY Reusables Workshop",
       "date": "November 16, 2026",
-      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reuseables-workshop",
+      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reusables-workshop",
       "departments": [
         "School of the Environment"
       ],
@@ -1083,9 +1083,9 @@
       ]
     },
     {
-      "title": "Sustainable Fashion Series: DIY Reusables Workshop",
+      "title": "Sustainable Fashion Series: DIY Reuseables Workshop",
       "date": "November 16, 2026",
-      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reusables-workshop",
+      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reuseables-workshop",
       "departments": [
         "School of the Environment"
       ],
@@ -1149,17 +1149,6 @@
       ]
     },
     {
-      "title": "U of T | Service of Remembrance at St. George Campus",
-      "date": "November 11, 2026",
-      "url": "https://alumni.utoronto.ca/community/soldiers-tower/service-of-remembrance",
-      "departments": [
-        "Service of Remembrance"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "U of T | Service of Remembrance at Mississauga Campus",
       "date": "November 11, 2026",
       "url": "https://www.utm.utoronto.ca/remembrance-day-ceremonies",
@@ -1182,6 +1171,17 @@
       ]
     },
     {
+      "title": "U of T | Service of Remembrance at St. George Campus",
+      "date": "November 11, 2026",
+      "url": "https://alumni.utoronto.ca/community/soldiers-tower/service-of-remembrance",
+      "departments": [
+        "Service of Remembrance"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "AI in Practice for Residents & Fellows Weekend Mini-Course (Final Registration Deadline: Nov.",
       "date": "October 9 to November 15, 2026",
       "url": "https://temertymedicine.utoronto.ca/event/ai-practice-residents-fellows-weekend-mini-course-final-registration-deadline-nov-15",
@@ -1193,9 +1193,9 @@
       ]
     },
     {
-      "title": "Get Talking! Emergency response to mental health: what are we doing?",
+      "title": "Culture as Medicine: Treaties Recognition Week",
       "date": "November 3, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/get-talking-emergency-response-mental-health-what-are-we-doing",
+      "url": "https://temertymedicine.utoronto.ca/event/culture-medicine-treaties-recognition-week",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1204,9 +1204,9 @@
       ]
     },
     {
-      "title": "Culture as Medicine: Treaties Recognition Week",
+      "title": "Get Talking! Emergency response to mental health: what are we doing?",
       "date": "November 3, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/culture-medicine-treaties-recognition-week",
+      "url": "https://temertymedicine.utoronto.ca/event/get-talking-emergency-response-mental-health-what-are-we-doing",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1253,17 +1253,6 @@
       "url": "https://www.trinity.utoronto.ca/event/jeremy-begbie-workshop-and-lecture-series-2026/",
       "departments": [
         "Trinity College"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Together Toronto & Ecosystem Showcase",
-      "date": "November 2, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/together-toronto-ecosystem-showcase/",
-      "departments": [
-        "U of T Entrepreneurship"
       ],
       "sources": [
         "U of T"
