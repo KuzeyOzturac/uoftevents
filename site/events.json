@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-11-02T20:49:17.982395+00:00",
+  "updated_at": "2026-11-03T18:28:45.905381+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
     {
-      "title": "2026 AGE-WELL Annual Conference",
-      "date": "November 2, 2026",
-      "url": "https://cris.utoronto.ca/event/2026-age-well-annual-conference/",
+      "title": "ChemE Master of Engineering (MEng) Online Application Support Drop-In",
+      "date": "November 3, 2026",
+      "url": "https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-03/",
       "departments": [
-        "Centre for Research & Innovation Support"
+        "Faculty of Applied Science and Engineering"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Breaking Point? Faculty Speaker Series: Which way to America? Inequality in the United States",
-      "date": "November 2, 2026",
-      "url": "https://munkschool.utoronto.ca/event/breaking-point-faculty-speaker-series-which-way-america-inequality-united-states",
+      "title": "Research Ethics in the Health Sciences – CRIS",
+      "date": "November 3, 2026",
+      "url": "https://brn.utoronto.ca/event/research-ethics-in-the-health-sciences-cris/",
       "departments": [
-        "U of T"
+        "Black Research Network"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Diversifying Trade through the CKFTA",
-      "date": "November 2, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/diversifying-trade-through-the-ckfta/",
+      "title": "Malcolm Gladwell on \"The American Way of Killing: The Invention of an Epidemic\"",
+      "date": "November 3, 2026",
+      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3-malcolm-gladwell/",
+      "departments": [
+        "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "The Money Side of Business",
+      "date": "November 3, 2026",
+      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/money-side-business",
+      "departments": [
+        "Centre for Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "The Money Side of Business",
+      "date": "November 3, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/the-money-side-of-business/",
       "departments": [
         "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Together Toronto & Ecosystem Showcase",
-      "date": "November 2, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/together-toronto-ecosystem-showcase/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Learning about Climate through Comedy in Higher Education",
-      "date": "November 2, 2026",
-      "url": "https://www.oise.utoronto.ca/scan/events/11-02-26-learning-about-climate-through-comedy-higher-education",
-      "departments": [
-        "Ontario Institute for Studies in Education"
       ],
       "sources": [
         "U of T"
@@ -115,28 +115,6 @@
       ]
     },
     {
-      "title": "Inlight Global Speaker Series – From Values to Action",
-      "date": "November 2, 2026",
-      "url": "https://brn.utoronto.ca/event/inlight-global-speaker-series-from-values-to-action/",
-      "departments": [
-        "Black Research Network"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Research Ethics in the Health Sciences – CRIS",
-      "date": "November 3, 2026",
-      "url": "https://brn.utoronto.ca/event/research-ethics-in-the-health-sciences-cris/",
-      "departments": [
-        "Black Research Network"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "TRANSFORM HF 2026 Fall Network Event",
       "date": "November 5, 2026",
       "url": "https://brn.utoronto.ca/event/transform-hf-2026-fall-network-event/",
@@ -162,6 +140,17 @@
       "title": "School of Cities Knowledge Café | Using the Census: New tools for urban researchers",
       "date": "November 18, 2026",
       "url": "https://brn.utoronto.ca/event/school-of-cities-knowledge-cafe-using-the-census-new-tools-for-urban-researchers/",
+      "departments": [
+        "Black Research Network"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "BRN Academic Practice Lab – Strategies for Success: SSHRC Grant Applications",
+      "date": "November 19, 2026",
+      "url": "https://brn.utoronto.ca/event/brn-academic-practice-lab-strategies-for-success-sshrc-grant-applications/",
       "departments": [
         "Black Research Network"
       ],
@@ -247,9 +236,9 @@
       ]
     },
     {
-      "title": "The Money Side of Business",
-      "date": "November 3, 2026",
-      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/money-side-business",
+      "title": "Resilience to Rise: The Advantage of Failing Up",
+      "date": "November 5, 2026",
+      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/resilience-rise-advantage-failing",
       "departments": [
         "Centre for Entrepreneurship"
       ],
@@ -258,9 +247,9 @@
       ]
     },
     {
-      "title": "Resilience to Rise: The Advantage of Failing Up",
+      "title": "Info Session Lau Commercialization Catalyst Prize for Computing and Engineering Innovation",
       "date": "November 5, 2026",
-      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/resilience-rise-advantage-failing",
+      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/info-session-lau-commercialization-catalyst-prize-computing-and-engineering-innovation",
       "departments": [
         "Centre for Entrepreneurship"
       ],
@@ -280,9 +269,9 @@
       ]
     },
     {
-      "title": "Finding Product-Market Fit",
-      "date": "November 24, 2026",
-      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/finding-product-market-fit",
+      "title": "Info Session EF Hult Prize 2027 Qualifiers Competition at the University of Toronto",
+      "date": "November 19, 2026",
+      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/info-session-ef-hult-prize-2027-qualifiers-competition-university-toronto",
       "departments": [
         "Centre for Entrepreneurship"
       ],
@@ -327,6 +316,17 @@
       "title": "Hands-on Workshop: Applying GenAI Tools to Scholarly Writing – Nov. 12, 2026",
       "date": "November 12, 2026",
       "url": "https://cris.utoronto.ca/event/hands-on-workshop-applying-genai-tools-to-scholarly-writing-nov-12-2026/",
+      "departments": [
+        "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "CBRCanada - Elene Lam: Recipient of the Emerging Community-Based Researcher Award - Nov. 12, 2026",
+      "date": "November 12, 2026",
+      "url": "https://cris.utoronto.ca/event/november-e-learning-centering-community-in-community-based-research-nov-12-2026/",
       "departments": [
         "Centre for Research & Innovation Support"
       ],
@@ -412,9 +412,9 @@
       ]
     },
     {
-      "title": "Early Modern Philosophy Research Interest Group (Aman Sahkardande, U of T)",
+      "title": "Language, Epistemology, Metaphysics, and Mind Research Interest Group (Brian Hedden, MIT)",
       "date": "November 6, 2026",
-      "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-aman-sahkardande-u-of-t/",
+      "url": "https://philosophy.utoronto.ca/event/language-epistemology-metaphysics-and-mind-research-interest-group-brian-hedden-mit/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -423,9 +423,9 @@
       ]
     },
     {
-      "title": "Language, Epistemology, Metaphysics, and Mind Research Interest Group (Brian Hedden, MIT)",
+      "title": "Early Modern Philosophy Research Interest Group (Aman Sahkardande, U of T)",
       "date": "November 6, 2026",
-      "url": "https://philosophy.utoronto.ca/event/language-epistemology-metaphysics-and-mind-research-interest-group-brian-hedden-mit/",
+      "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-aman-sahkardande-u-of-t/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -490,17 +490,6 @@
     },
     {
       "title": "ChemE Master of Engineering (MEng) Online Application Support Drop-In",
-      "date": "November 3, 2026",
-      "url": "https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-03/",
-      "departments": [
-        "Faculty of Applied Science and Engineering"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "ChemE Master of Engineering (MEng) Online Application Support Drop-In",
       "date": "November 10, 2026",
       "url": "https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-10/",
       "departments": [
@@ -538,17 +527,6 @@
       "url": "https://www.engineering.utoronto.ca/event/u-of-t-alumni-at-gametime-social/",
       "departments": [
         "Faculty of Applied Science and Engineering"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Salutogenic Placemaking Series: A Public Talk with Tye Farrow: Constructing Health: Salutogenic Placema...",
-      "date": "November 2, 2026",
-      "url": "https://www.artsci.utoronto.ca/events/salutogenic-placemaking-series-public-talk-tye-farrow-constructing-health-salutogenic",
-      "departments": [
-        "Faculty of Arts & Science"
       ],
       "sources": [
         "U of T"
@@ -599,6 +577,28 @@
       ]
     },
     {
+      "title": "'The Nest' Film Screening",
+      "date": "November 5, 2026",
+      "url": "https://www.artsci.utoronto.ca/events/nest-film-screening",
+      "departments": [
+        "Faculty of Arts & Science"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Group Advising Session: Planning for U of T Medical School Requirements",
+      "date": "November 10, 2026",
+      "url": "https://kpe.utoronto.ca/tue-11102026-1130/group-advising-session-planning-u-t-medical-school-requirements",
+      "departments": [
+        "Faculty of Kinesiology & Physical Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Fall Campus Day",
       "date": "November 14, 2026",
       "url": "https://kpe.utoronto.ca/sat-11142026-0930/fall-campus-day",
@@ -613,6 +613,28 @@
       "title": "High Performance, Hidden Harm: Interdisciplinary Approaches to Understanding and Preventing Abuse within Coaching and Teaching Relationships",
       "date": "November 16, 2026",
       "url": "https://kpe.utoronto.ca/mon-11162026-1730/high-performance-hidden-harm-interdisciplinary-approaches-understanding-and",
+      "departments": [
+        "Faculty of Kinesiology & Physical Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "KPE 401 Info Session: International Development Through Sport",
+      "date": "November 20, 2026",
+      "url": "https://kpe.utoronto.ca/fri-11202026-2300/kpe-401-info-session-international-development-through-sport",
+      "departments": [
+        "Faculty of Kinesiology & Physical Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "How to Use Networking to Learn About Careers in Kinesiology",
+      "date": "November 27, 2026",
+      "url": "https://kpe.utoronto.ca/fri-11272026-1300/how-use-networking-learn-about-careers-kinesiology",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
       ],
@@ -797,17 +819,6 @@
       ]
     },
     {
-      "title": "Info session: Master of Forest Conservation (MFC)",
-      "date": "November 5, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1793916000/info-session-master-forest-conservation-mfc",
-      "departments": [
-        "John H. Daniels Faculty of Architecture, Landscape, and Design"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Ideas Made Material",
       "date": "November 5, 2026",
       "url": "https://www.daniels.utoronto.ca/events/1793921400/ideas-made-material",
@@ -819,9 +830,20 @@
       ]
     },
     {
-      "title": "Info session: Master of Landscape Architecture (MLA)",
-      "date": "November 9, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1794265200/info-session-master-landscape-architecture-mla",
+      "title": "Info session: Master of Forest Conservation (MFC)",
+      "date": "November 5, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1793916000/info-session-master-forest-conservation-mfc",
+      "departments": [
+        "John H. Daniels Faculty of Architecture, Landscape, and Design"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Special ADFF x Daniels Film Screening: The Tingbjerg Experiment",
+      "date": "November 6, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1793993400/special-adff-x-daniels-film-screening-tingbjerg-experiment",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -907,17 +929,6 @@
       ]
     },
     {
-      "title": "CIDEC Seminar: In Conversation with School Leaders from Chile",
-      "date": "November 5, 2026",
-      "url": "https://www.oise.utoronto.ca/cidec/about/events/11-05-26-cidec-seminar-conversation-school-leaders-chile",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "The Great Canadian Debate: Should national interest take precedence over global responsibility?",
       "date": "November 5, 2026",
       "url": "https://victoria.alumni.utoronto.ca/event/Greatcanadiandebate2026/home",
@@ -929,20 +940,31 @@
       ]
     },
     {
-      "title": "Retail Insider @ Rotman",
-      "date": "November 3, 2026",
-      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3---retail-insider--rotman/",
+      "title": "From Evidence to Action: The ECE Workforce Knowledge Hub",
+      "date": "November 5, 2026",
+      "url": "https://omssa.com/events/speakers-series/",
       "departments": [
-        "Rotman School of Management"
+        "Ontario Institute for Studies in Education"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Malcolm Gladwell on \"The American Way of Killing: The Invention of an Epidemic\"",
+      "title": "CIDEC Seminar: In Conversation with School Leaders from Chile",
+      "date": "November 5, 2026",
+      "url": "https://www.oise.utoronto.ca/cidec/about/events/11-05-26-cidec-seminar-conversation-school-leaders-chile",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Retail Insider @ Rotman",
       "date": "November 3, 2026",
-      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3-malcolm-gladwell/",
+      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-3---retail-insider--rotman/",
       "departments": [
         "Rotman School of Management"
       ],
@@ -1072,9 +1094,9 @@
       ]
     },
     {
-      "title": "Sustainable Fashion Series: DIY Reusables Workshop",
+      "title": "Sustainable Fashion Series: DIY Reuseables Workshop",
       "date": "November 16, 2026",
-      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reusables-workshop",
+      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reuseables-workshop",
       "departments": [
         "School of the Environment"
       ],
@@ -1083,9 +1105,9 @@
       ]
     },
     {
-      "title": "Sustainable Fashion Series: DIY Reuseables Workshop",
+      "title": "Sustainable Fashion Series: DIY Reusables Workshop",
       "date": "November 16, 2026",
-      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reuseables-workshop",
+      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reusables-workshop",
       "departments": [
         "School of the Environment"
       ],
@@ -1149,6 +1171,17 @@
       ]
     },
     {
+      "title": "U of T | Service of Remembrance at St. George Campus",
+      "date": "November 11, 2026",
+      "url": "https://alumni.utoronto.ca/community/soldiers-tower/service-of-remembrance",
+      "departments": [
+        "Service of Remembrance"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "U of T | Service of Remembrance at Mississauga Campus",
       "date": "November 11, 2026",
       "url": "https://www.utm.utoronto.ca/remembrance-day-ceremonies",
@@ -1171,31 +1204,9 @@
       ]
     },
     {
-      "title": "U of T | Service of Remembrance at St. George Campus",
-      "date": "November 11, 2026",
-      "url": "https://alumni.utoronto.ca/community/soldiers-tower/service-of-remembrance",
-      "departments": [
-        "Service of Remembrance"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "AI in Practice for Residents & Fellows Weekend Mini-Course (Final Registration Deadline: Nov.",
       "date": "October 9 to November 15, 2026",
       "url": "https://temertymedicine.utoronto.ca/event/ai-practice-residents-fellows-weekend-mini-course-final-registration-deadline-nov-15",
-      "departments": [
-        "Temerty Faculty of Medicine"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Culture as Medicine: Treaties Recognition Week",
-      "date": "November 3, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/culture-medicine-treaties-recognition-week",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1215,6 +1226,17 @@
       ]
     },
     {
+      "title": "Culture as Medicine: Treaties Recognition Week",
+      "date": "November 3, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/culture-medicine-treaties-recognition-week",
+      "departments": [
+        "Temerty Faculty of Medicine"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Drawing across the Disciplines: Fieldwork",
       "date": "November 4, 2026",
       "url": "https://temertymedicine.utoronto.ca/event/drawing-across-disciplines-fieldwork",
@@ -1226,9 +1248,9 @@
       ]
     },
     {
-      "title": "AI in Practice for Residents & Fellows Weekend Mini-Course (Final Registration Deadline: Nov. Temerty Ukraine-Toronto Education & Collaboration Research Ethics in the Health Sciences Info Research Ethics in the Health Sciences Info Culture as Med...",
-      "date": "November 5, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/sickkids-23rd-annual-paediatric-emergency-medicine-conference",
+      "title": "IDEAS Foundations of QI: November Online Program",
+      "date": "November 5 to November 19, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/ideas-foundations-qi-november-online-program",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1259,17 +1281,6 @@
       ]
     },
     {
-      "title": "The Money Side of Business",
-      "date": "November 3, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/the-money-side-of-business/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "SOSV Deep Tech Summit",
       "date": "November 4, 2026",
       "url": "https://entrepreneurs.utoronto.ca/event/sosv-deep-tech-summit/",
@@ -1281,9 +1292,31 @@
       ]
     },
     {
+      "title": "Personal Branding and Positioning",
+      "date": "November 5, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/personal-branding-and-positioning/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Resilience to Rise: The Advantage of Failing Up",
       "date": "November 5, 2026",
       "url": "https://entrepreneurs.utoronto.ca/event/resilience-to-rise-the-advantage-of-failing-up/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "The Hinton Lectures 2026",
+      "date": "November 9, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/building-your-first-product-strategy/",
       "departments": [
         "U of T Entrepreneurship"
       ],
