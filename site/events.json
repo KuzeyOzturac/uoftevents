@@ -1,35 +1,13 @@
 {
-  "updated_at": "2026-11-06T18:04:27.472676+00:00",
+  "updated_at": "2026-11-07T16:53:02.426676+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
     {
-      "title": "Ontario Topology Seminar",
-      "date": "November 6 to November 8, 2026",
-      "url": "http://www.fields.utoronto.ca/activities/26-27/topology",
-      "departments": [
-        "Fields Institute"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "STAGE ISSS: Kevin Lin",
-      "date": "November 6, 2026",
-      "url": "https://canssiontario.utoronto.ca/event/isss-kevin-lin/",
-      "departments": [
-        "CANSSI Ontario"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Language, Epistemology, Metaphysics, and Mind Research Interest Group (Brian Hedden, MIT)",
-      "date": "November 6, 2026",
-      "url": "https://philosophy.utoronto.ca/event/language-epistemology-metaphysics-and-mind-research-interest-group-brian-hedden-mit/",
+      "title": "Toronto Workshop on Moral Psychology and Moral Theory",
+      "date": "November 7 to November 8, 2026",
+      "url": "https://philosophy.utoronto.ca/event/toronto-workshop-on-moral-psychology-and-moral-theory/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -38,22 +16,44 @@
       ]
     },
     {
-      "title": "Pervasive Selective Sweeps within and across Human Gut Microbiomes: Nandita Garud (UCLA)",
-      "date": "November 6, 2026",
-      "url": "https://eeb.utoronto.ca/event/pervasive-selective-sweeps-within-and-across-human-gut-microbiomes-nandita-garud-ucla/",
+      "title": "Bloor Street Music Project | Advent Concert",
+      "date": "November 7, 2026",
+      "url": "https://vicu.utoronto.ca/whats-happening/bloor-street-music-project-advent-concert",
       "departments": [
-        "Ecology & Evolutionary Biology"
+        "Victoria College"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Sacred Music in a Sacred Space: November",
-      "date": "November 6, 2026",
-      "url": "https://www.trinity.utoronto.ca/event/sacred-music-in-a-sacred-space-november/",
+      "title": "Fall Campus Day at Scarborough Campus",
+      "date": "November 7, 2026",
+      "url": "https://www.utsc.utoronto.ca/admissions/tours-events#fallcampusday",
       "departments": [
-        "Trinity College"
+        "U of T Scarborough"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Rotman Open House",
+      "date": "November 7, 2026",
+      "url": "https://www.artsci.utoronto.ca/events/rotman-open-house",
+      "departments": [
+        "Faculty of Arts & Science"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Celebrating Daisy Ho: 2026 Rose Wolfe Distinguished Alumni Award Recipient",
+      "date": "November 8, 2026",
+      "url": "https://alumni.utoronto.ca/events/celebrating-daisy-ho-2026-rose-wolfe-distinguished-alumni-award-recipient",
+      "departments": [
+        "U of T"
       ],
       "sources": [
         "U of T"
@@ -95,7 +95,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
       "departments": [
         "Alumni"
       ],
@@ -106,7 +106,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
       "departments": [
         "Alumni"
       ],
@@ -390,28 +390,6 @@
       ]
     },
     {
-      "title": "Early Modern Philosophy Research Interest Group (Aman Sahkardande, U of T)",
-      "date": "November 6, 2026",
-      "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-aman-sahkardande-u-of-t/",
-      "departments": [
-        "Department of Philosophy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Toronto Workshop on Moral Psychology and Moral Theory",
-      "date": "November 7 to November 8, 2026",
-      "url": "https://philosophy.utoronto.ca/event/toronto-workshop-on-moral-psychology-and-moral-theory/",
-      "departments": [
-        "Department of Philosophy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Continental Philosophy Research Group (Dimitris Vardoulakis, Western Sydney University)",
       "date": "November 13, 2026",
       "url": "https://philosophy.utoronto.ca/event/continental-philosophy-research-group-dimitris-vardoulakis-western-sydney-university/",
@@ -426,6 +404,28 @@
       "title": "The Toronto-London Philosophy of Perception Workshop",
       "date": "November 13 to November 14, 2026",
       "url": "https://philosophy.utoronto.ca/event/the-toronto-london-philosophy-of-perception-workshop/",
+      "departments": [
+        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Ethics and Political Philosophy Interest Group Talk (Selim Berker, Harvard University)",
+      "date": "November 13, 2026",
+      "url": "https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-talk-selim-berker-harvard-university/",
+      "departments": [
+        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "UNESCO World Philosophy Day",
+      "date": "November 19, 2026",
+      "url": "https://philosophy.utoronto.ca/event/unesco-world-philosophy-day/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -533,17 +533,6 @@
       ]
     },
     {
-      "title": "Rotman Open House",
-      "date": "November 7, 2026",
-      "url": "https://www.artsci.utoronto.ca/events/rotman-open-house",
-      "departments": [
-        "Faculty of Arts & Science"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Kings, Queens, and Emperors Descend on Campus: \"Micronations\" Film Screening",
       "date": "November 9, 2026",
       "url": "https://www.artsci.utoronto.ca/events/kings-queens-and-emperors-descend-campus-micronations-film-screening",
@@ -588,9 +577,9 @@
       ]
     },
     {
-      "title": "KPE 401 Info Session: International Development Through Sport",
-      "date": "November 20, 2026",
-      "url": "https://kpe.utoronto.ca/fri-11202026-2300/kpe-401-info-session-international-development-through-sport",
+      "title": "MoveU Skate Series",
+      "date": "November 19, 2026",
+      "url": "https://kpe.utoronto.ca/thu-11192026-1915/moveu-skate-series",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
       ],
@@ -599,9 +588,9 @@
       ]
     },
     {
-      "title": "How to Use Networking to Learn About Careers in Kinesiology",
-      "date": "November 27, 2026",
-      "url": "https://kpe.utoronto.ca/fri-11272026-1300/how-use-networking-learn-about-careers-kinesiology",
+      "title": "KPE 401 Info Session: International Development Through Sport",
+      "date": "November 20, 2026",
+      "url": "https://kpe.utoronto.ca/fri-11202026-2300/kpe-401-info-session-international-development-through-sport",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
       ],
@@ -632,17 +621,6 @@
       ]
     },
     {
-      "title": "John R. Stratton Visitor in Music: Masterclass: Tracy Dahl",
-      "date": "November 11, 2026",
-      "url": "https://music.utoronto.ca/event/261111-masterclass-tracy-dahl",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Hybrid Ensemble",
       "date": "November 11, 2026",
       "url": "https://music.utoronto.ca/event/261111-hybrid-ensemble",
@@ -654,11 +632,33 @@
       ]
     },
     {
-      "title": "Info Session: University of Toronto - Music Technology & Digital Media Master's Program",
-      "date": "November 12, 2026",
-      "url": "https://music.utoronto.ca/event/info-session-university-toronto-music-technology-digital-media-masters-program",
+      "title": "John R. Stratton Visitor in Music: Masterclass: Tracy Dahl",
+      "date": "November 11, 2026",
+      "url": "https://music.utoronto.ca/event/261111-masterclass-tracy-dahl",
       "departments": [
         "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Thursdays at Noon | John R. Stratton Visitor in Music: A Legacy in Song",
+      "date": "November 12, 2026",
+      "url": "https://music.utoronto.ca/event/2611112-thursdays-noon",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Ontario Topology Seminar",
+      "date": "November 6 to November 8, 2026",
+      "url": "http://www.fields.utoronto.ca/activities/26-27/topology",
+      "departments": [
+        "Fields Institute"
       ],
       "sources": [
         "U of T"
@@ -753,17 +753,6 @@
       ]
     },
     {
-      "title": "Special ADFF x Daniels Film Screening: The Tingbjerg Experiment",
-      "date": "November 6, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1793993400/special-adff-x-daniels-film-screening-tingbjerg-experiment",
-      "departments": [
-        "John H. Daniels Faculty of Architecture, Landscape, and Design"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Info session: Master of Landscape Architecture (MLA)",
       "date": "November 9, 2026",
       "url": "https://www.daniels.utoronto.ca/events/1794265200/info-session-master-landscape-architecture-mla",
@@ -789,6 +778,17 @@
       "title": "Info session: Master of Landscape Architecture (MLA)",
       "date": "November 12, 2026",
       "url": "https://www.daniels.utoronto.ca/events/1794492000/info-session-master-landscape-architecture-mla",
+      "departments": [
+        "John H. Daniels Faculty of Architecture, Landscape, and Design"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "EYEBALL 2026: an exhibition of Daniels undergraduate students in Visual Studies",
+      "date": "November 14, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1794632400/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -907,9 +907,9 @@
       ]
     },
     {
-      "title": "Black Authors & Researchers Speaker Series",
+      "title": "Arab Voices in Academia: Scholarship, Identity & Representation",
       "date": "November 16, 2026",
-      "url": "https://utoronto.zoom.us/meeting/register/InAlMorSTZ6i2Up2yLdvpg",
+      "url": "https://www.oise.utoronto.ca/cidec/about/events/11-16-26-arab-voices-academia-scholarship-identity-representation",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -1072,9 +1072,20 @@
       ]
     },
     {
-      "title": "Environment Seminar Series: The Only Flag Worth Flying: Direct Action and the Enforcement of Internatio...",
-      "date": "March 12, 2027",
-      "url": "https://www.environment.utoronto.ca/events/environment-seminar-series-only-flag-worth-flying-direct-action-and-enforcement-international",
+      "title": "Environment and Health Seminar Series: Exposure to air pollution and brain health: A study of adults li...",
+      "date": "February 4, 2027",
+      "url": "https://www.environment.utoronto.ca/events/environment-and-health-seminar-series-exposure-air-pollution-and-brain-health-study-adults",
+      "departments": [
+        "School of the Environment"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Environment Seminar Series: Holistic Nutrition in Times of Suffering: Nurturing Dis-ease Towards Wellbe...",
+      "date": "February 5, 2027",
+      "url": "https://www.environment.utoronto.ca/events/environment-seminar-series-holistic-nutrition-times-suffering-nurturing-dis-ease-towards",
       "departments": [
         "School of the Environment"
       ],
@@ -1116,17 +1127,6 @@
       ]
     },
     {
-      "title": "U of T | Service of Remembrance at Scarborough Campus",
-      "date": "November 11, 2026",
-      "url": "https://www.utsc.utoronto.ca/principal/remembrance-day",
-      "departments": [
-        "Service of Remembrance"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "U of T | Service of Remembrance at St. George Campus",
       "date": "November 11, 2026",
       "url": "https://alumni.utoronto.ca/community/soldiers-tower/service-of-remembrance",
@@ -1141,6 +1141,17 @@
       "title": "U of T | Service of Remembrance at Mississauga Campus",
       "date": "November 11, 2026",
       "url": "https://www.utm.utoronto.ca/remembrance-day-ceremonies",
+      "departments": [
+        "Service of Remembrance"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "U of T | Service of Remembrance at Scarborough Campus",
+      "date": "November 11, 2026",
+      "url": "https://www.utsc.utoronto.ca/principal/remembrance-day",
       "departments": [
         "Service of Remembrance"
       ],
@@ -1248,9 +1259,9 @@
       ]
     },
     {
-      "title": "Energy-Industrial Huddle",
+      "title": "Easylens Workshop & Speed Challenge",
       "date": "November 12, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/energy-industrial-huddle/",
+      "url": "https://entrepreneurs.utoronto.ca/event/easylens-workshop-speed-challenge/",
       "departments": [
         "U of T Entrepreneurship"
       ],
@@ -1259,9 +1270,9 @@
       ]
     },
     {
-      "title": "Easylens Workshop & Speed Challenge",
+      "title": "Energy-Industrial Huddle",
       "date": "November 12, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/easylens-workshop-speed-challenge/",
+      "url": "https://entrepreneurs.utoronto.ca/event/energy-industrial-huddle/",
       "departments": [
         "U of T Entrepreneurship"
       ],
@@ -1292,28 +1303,6 @@
       ]
     },
     {
-      "title": "Fall Campus Day at Scarborough Campus",
-      "date": "November 7, 2026",
-      "url": "https://www.utsc.utoronto.ca/admissions/tours-events#fallcampusday",
-      "departments": [
-        "U of T Scarborough"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Bloor Street Music Project | Advent Concert",
-      "date": "November 7, 2026",
-      "url": "https://vicu.utoronto.ca/whats-happening/bloor-street-music-project-advent-concert",
-      "departments": [
-        "Victoria College"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Day with Emmanuel 2026",
       "date": "November 14, 2026",
       "url": "https://vicu.utoronto.ca/whats-happening/day-with-emmanuel-2026",
@@ -1328,6 +1317,17 @@
       "title": "VWA | The Art of Spanish Perfume (and One “Wild” Woman)",
       "date": "November 25, 2026",
       "url": "https://vicu.utoronto.ca/whats-happening/vwa-the-art-of-spanish-perfume-and-one-wild-woman",
+      "departments": [
+        "Victoria College"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Festival of Homiletics",
+      "date": "December 9, 2026",
+      "url": "https://vicu.utoronto.ca/whats-happening/festival-of-homiletics",
       "departments": [
         "Victoria College"
       ],
