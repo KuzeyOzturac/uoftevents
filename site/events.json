@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-11-07T16:53:02.426676+00:00",
+  "updated_at": "2026-11-09T21:28:24.855434+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
     {
-      "title": "Toronto Workshop on Moral Psychology and Moral Theory",
-      "date": "November 7 to November 8, 2026",
-      "url": "https://philosophy.utoronto.ca/event/toronto-workshop-on-moral-psychology-and-moral-theory/",
+      "title": "Info session: Master of Landscape Architecture (MLA)",
+      "date": "November 9, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1794265200/info-session-master-landscape-architecture-mla",
       "departments": [
-        "Department of Philosophy"
+        "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Bloor Street Music Project | Advent Concert",
-      "date": "November 7, 2026",
-      "url": "https://vicu.utoronto.ca/whats-happening/bloor-street-music-project-advent-concert",
+      "title": "Signs of Struggle: Ana Mendieta, Feminism, and the Uses of Ambiguity",
+      "date": "November 9, 2026",
+      "url": "https://munkschool.utoronto.ca/event/signs-struggle-ana-mendieta-feminism-and-uses-ambiguity",
       "departments": [
-        "Victoria College"
+        "U of T"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Fall Campus Day at Scarborough Campus",
-      "date": "November 7, 2026",
-      "url": "https://www.utsc.utoronto.ca/admissions/tours-events#fallcampusday",
+      "title": "Kings, Queens, and Self-Declared Emperors Descend on Toronto for Micronations Screening",
+      "date": "November 9, 2026",
+      "url": "https://www.cdtps.utoronto.ca/events/micronations-screening",
       "departments": [
-        "U of T Scarborough"
+        "Centre for Drama, Theatre and Performance Studies"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Rotman Open House",
-      "date": "November 7, 2026",
-      "url": "https://www.artsci.utoronto.ca/events/rotman-open-house",
+      "title": "CBRCanada's Annual General Meeting - Nov. 9, 2026",
+      "date": "November 9, 2026",
+      "url": "https://cris.utoronto.ca/event/cbrcanadas-annual-general-meeting-nov-9-2026/",
       "departments": [
-        "Faculty of Arts & Science"
+        "Centre for Research & Innovation Support"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Celebrating Daisy Ho: 2026 Rose Wolfe Distinguished Alumni Award Recipient",
-      "date": "November 8, 2026",
-      "url": "https://alumni.utoronto.ca/events/celebrating-daisy-ho-2026-rose-wolfe-distinguished-alumni-award-recipient",
+      "title": "Indigenous Storytelling Through Film",
+      "date": "November 9, 2026",
+      "url": "https://socialwork.utoronto.ca/event/indigenous-storytelling-through-film/",
       "departments": [
-        "U of T"
+        "Factor-Inwentash Faculty of Social Work"
       ],
       "sources": [
         "U of T"
@@ -95,7 +95,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
       "departments": [
         "Alumni"
       ],
@@ -106,7 +106,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
       "departments": [
         "Alumni"
       ],
@@ -203,17 +203,6 @@
       ]
     },
     {
-      "title": "Kings, Queens, and Self-Declared Emperors Descend on Toronto for Micronations Screening",
-      "date": "November 9, 2026",
-      "url": "https://www.cdtps.utoronto.ca/events/micronations-screening",
-      "departments": [
-        "Centre for Drama, Theatre and Performance Studies"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "2026 CDTPS Graduate Program Open House",
       "date": "November 10, 2026",
       "url": "https://www.cdtps.utoronto.ca/events/2026-graduate-program-open-house",
@@ -291,9 +280,9 @@
       ]
     },
     {
-      "title": "CBRCanada's Annual General Meeting - Nov. 9, 2026",
-      "date": "November 9, 2026",
-      "url": "https://cris.utoronto.ca/event/cbrcanadas-annual-general-meeting-nov-9-2026/",
+      "title": "Hands-on Workshop: Applying GenAI Tools to Scholarly Writing – Nov. 12, 2026",
+      "date": "November 12, 2026",
+      "url": "https://cris.utoronto.ca/event/hands-on-workshop-applying-genai-tools-to-scholarly-writing-nov-12-2026/",
       "departments": [
         "Centre for Research & Innovation Support"
       ],
@@ -305,17 +294,6 @@
       "title": "CBRCanada - Elene Lam: Recipient of the Emerging Community-Based Researcher Award - Nov. 12, 2026",
       "date": "November 12, 2026",
       "url": "https://cris.utoronto.ca/event/november-e-learning-centering-community-in-community-based-research-nov-12-2026/",
-      "departments": [
-        "Centre for Research & Innovation Support"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Hands-on Workshop: Applying GenAI Tools to Scholarly Writing – Nov. 12, 2026",
-      "date": "November 12, 2026",
-      "url": "https://cris.utoronto.ca/event/hands-on-workshop-applying-genai-tools-to-scholarly-writing-nov-12-2026/",
       "departments": [
         "Centre for Research & Innovation Support"
       ],
@@ -434,11 +412,11 @@
       ]
     },
     {
-      "title": "Indigenous Storytelling Through Film",
-      "date": "November 9, 2026",
-      "url": "https://socialwork.utoronto.ca/event/indigenous-storytelling-through-film/",
+      "title": "UNESCO World Philosophy Day (L. A. Paul, Yale University)",
+      "date": "November 19, 2026",
+      "url": "https://philosophy.utoronto.ca/event/unesco-world-philosophy-day-l-a-paul-yale-university/",
       "departments": [
-        "Factor-Inwentash Faculty of Social Work"
+        "Department of Philosophy"
       ],
       "sources": [
         "U of T"
@@ -654,17 +632,6 @@
       ]
     },
     {
-      "title": "Ontario Topology Seminar",
-      "date": "November 6 to November 8, 2026",
-      "url": "http://www.fields.utoronto.ca/activities/26-27/topology",
-      "departments": [
-        "Fields Institute"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "MathEd Forum: November 2026",
       "date": "November 28, 2026",
       "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Nov",
@@ -701,6 +668,17 @@
       "title": "MathEd Forum: March 2027",
       "date": "March 27, 2027",
       "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Mar",
+      "departments": [
+        "Fields Institute"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Noncommutative Geometry at Crossroads",
+      "date": "March 29 to March 2, 2027",
+      "url": "http://www.fields.utoronto.ca/activities/26-27/crossroads",
       "departments": [
         "Fields Institute"
       ],
@@ -753,17 +731,6 @@
       ]
     },
     {
-      "title": "Info session: Master of Landscape Architecture (MLA)",
-      "date": "November 9, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1794265200/info-session-master-landscape-architecture-mla",
-      "departments": [
-        "John H. Daniels Faculty of Architecture, Landscape, and Design"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Info session: PhD and Master of Science in Forestry (MScF)",
       "date": "November 10, 2026",
       "url": "https://www.daniels.utoronto.ca/events/1794340800/info-session-phd-and-master-science-forestry-mscf",
@@ -786,9 +753,9 @@
       ]
     },
     {
-      "title": "EYEBALL 2026: an exhibition of Daniels undergraduate students in Visual Studies",
+      "title": "Fall Campus Day at the St. George Campus",
       "date": "November 14, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1794632400/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies",
+      "url": "https://www.daniels.utoronto.ca/events/1794666600/fall-campus-day-st-george-campus",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -797,9 +764,9 @@
       ]
     },
     {
-      "title": "Fall Campus Day at the St. George Campus",
+      "title": "EYEBALL 2026: an exhibition of Daniels undergraduate students in Visual Studies",
       "date": "November 14, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1794666600/fall-campus-day-st-george-campus",
+      "url": "https://www.daniels.utoronto.ca/events/1794632400/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -1204,9 +1171,9 @@
       ]
     },
     {
-      "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom",
+      "title": "Introduction to 3D Design: Fusion360",
       "date": "November 17, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/art-menteeship-book-talk-and-conversation-dr-maria-lamonaca-wisdom-0",
+      "url": "https://temertymedicine.utoronto.ca/event/introduction-3d-design-fusion360",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
