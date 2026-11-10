@@ -3,44 +3,44 @@ VERSION:2.0
 PRODID:-//UofT Event Scout//EN
 X-WR-CALNAME:U of T Events
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.daniels.utoronto.ca%2Fevents%2F1794265200%2Finfo-session-master-landscape-architecture-mla@uoftevents
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Info session: Master of Landscape Architecture (MLA)
-DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoronto.ca/events/1794265200/info-session-master-landscape-architecture-mla
-URL:https://www.daniels.utoronto.ca/events/1794265200/info-session-master-landscape-architecture-mla
+UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Fcheme-master-of-engineering-meng-online-application-support-drop-in%2F2026-11-10%2F@uoftevents
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:ChemE Master of Engineering (MEng) Online Application Support Drop-In
+DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-10/
+URL:https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-10/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fmunkschool.utoronto.ca%2Fevent%2Fsigns-struggle-ana-mendieta-feminism-and-uses-ambiguity@uoftevents
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Signs of Struggle: Ana Mendieta\, Feminism\, and the Uses of Ambiguity
-DESCRIPTION:Verify time\, location\, and registration: https://munkschool.utoronto.ca/event/signs-struggle-ana-mendieta-feminism-and-uses-ambiguity
-URL:https://munkschool.utoronto.ca/event/signs-struggle-ana-mendieta-feminism-and-uses-ambiguity
+UID:https%3A%2F%2Fwww.cdtps.utoronto.ca%2Fevents%2F2026-graduate-program-open-house@uoftevents
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:2026 CDTPS Graduate Program Open House
+DESCRIPTION:Verify time\, location\, and registration: https://www.cdtps.utoronto.ca/events/2026-graduate-program-open-house
+URL:https://www.cdtps.utoronto.ca/events/2026-graduate-program-open-house
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.cdtps.utoronto.ca%2Fevents%2Fmicronations-screening@uoftevents
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Kings\, Queens\, and Self-Declared Emperors Descend on Toronto for Micronations Screening
-DESCRIPTION:Verify time\, location\, and registration: https://www.cdtps.utoronto.ca/events/micronations-screening
-URL:https://www.cdtps.utoronto.ca/events/micronations-screening
+UID:https%3A%2F%2Fwww.daniels.utoronto.ca%2Fevents%2F1794340800%2Finfo-session-phd-and-master-science-forestry-mscf@uoftevents
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Info session: PhD and Master of Science in Forestry (MScF)
+DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoronto.ca/events/1794340800/info-session-phd-and-master-science-forestry-mscf
+URL:https://www.daniels.utoronto.ca/events/1794340800/info-session-phd-and-master-science-forestry-mscf
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Fcbrcanadas-annual-general-meeting-nov-9-2026%2F@uoftevents
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:CBRCanada's Annual General Meeting - Nov. 9\, 2026
-DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/cbrcanadas-annual-general-meeting-nov-9-2026/
-URL:https://cris.utoronto.ca/event/cbrcanadas-annual-general-meeting-nov-9-2026/
+UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fexpert-x-founder-strategy-sessions-fundraising%2F@uoftevents
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Expert x Founder Strategy Sessions: Fundraising
+DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/expert-x-founder-strategy-sessions-fundraising/
+URL:https://entrepreneurs.utoronto.ca/event/expert-x-founder-strategy-sessions-fundraising/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fsocialwork.utoronto.ca%2Fevent%2Findigenous-storytelling-through-film%2F@uoftevents
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Indigenous Storytelling Through Film
-DESCRIPTION:Verify time\, location\, and registration: https://socialwork.utoronto.ca/event/indigenous-storytelling-through-film/
-URL:https://socialwork.utoronto.ca/event/indigenous-storytelling-through-film/
+UID:https%3A%2F%2Fschoolofcities.utoronto.ca%2Fevent%2Fmemories-of-black-toronto-bringing-the-citys-black-history-to-the-screen%2F@uoftevents
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Memories of Black Toronto – Bringing the city’s Black history to the screen
+DESCRIPTION:Verify time\, location\, and registration: https://schoolofcities.utoronto.ca/event/memories-of-black-toronto-bringing-the-citys-black-history-to-the-screen/
+URL:https://schoolofcities.utoronto.ca/event/memories-of-black-toronto-bringing-the-citys-black-history-to-the-screen/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Falumni.utoronto.ca%2Fevents%2Fpublic-history-lab-hitler-and-stalin-today-professor-timothy-snyder@uoftevents
@@ -67,20 +67,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://alumni.utoronto.c
 URL:https://alumni.utoronto.ca/events/exhibition-leading-landscape
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Falumni.utoronto.ca%2Fevents%2Fu-t-alumni-virtual-book-club-lion-women-tehran-0@uoftevents
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:U of T Alumni Virtual Book Club — The Lion Women of Tehran
-DESCRIPTION:Verify time\, location\, and registration: https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0
-URL:https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Falumni.utoronto.ca%2Fevents%2Fu-t-alumni-virtual-book-club-lion-women-tehran@uoftevents
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:U of T Alumni Virtual Book Club — The Lion Women of Tehran
 DESCRIPTION:Verify time\, location\, and registration: https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran
 URL:https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Falumni.utoronto.ca%2Fevents%2Fu-t-alumni-virtual-book-club-lion-women-tehran-0@uoftevents
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:U of T Alumni Virtual Book Club — The Lion Women of Tehran
+DESCRIPTION:Verify time\, location\, and registration: https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0
+URL:https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fbrn.utoronto.ca%2Fevent%2Fmemories-of-black-toronto-school-of-cities%2F@uoftevents
@@ -147,20 +147,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.cdtps.utoront
 URL:https://www.cdtps.utoronto.ca/events/bmo-lab-open-studios
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.cdtps.utoronto.ca%2Fevents%2F2026-graduate-program-open-house@uoftevents
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:2026 CDTPS Graduate Program Open House
-DESCRIPTION:Verify time\, location\, and registration: https://www.cdtps.utoronto.ca/events/2026-graduate-program-open-house
-URL:https://www.cdtps.utoronto.ca/events/2026-graduate-program-open-house
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.cdtps.utoronto.ca%2Fevents%2Fbmo-lab-fall-2026-lectures-treaandrea-russworm@uoftevents
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:BMO Lab Fall 2026 Lectures: TreaAndrea Russworm
 DESCRIPTION:Verify time\, location\, and registration: https://www.cdtps.utoronto.ca/events/bmo-lab-fall-2026-lectures-treaandrea-russworm
 URL:https://www.cdtps.utoronto.ca/events/bmo-lab-fall-2026-lectures-treaandrea-russworm
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.cdtps.utoronto.ca%2Fevents%2F2026DirectorsShowcase@uoftevents
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Directors' Showcase 2026
+DESCRIPTION:Verify time\, location\, and registration: https://www.cdtps.utoronto.ca/events/2026DirectorsShowcase
+URL:https://www.cdtps.utoronto.ca/events/2026DirectorsShowcase
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.entrepreneurship.artsci.utoronto.ca%2Fevents%2Fshare-your-spark-dr-geeta-yadav-conversation-bonnie-fuller@uoftevents
@@ -203,20 +203,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.entrepreneurs
 URL:https://www.entrepreneurship.artsci.utoronto.ca/events/info-session-lau-commercialization-catalyst-prize-computing-and-engineering-innovation-0
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Fhands-on-workshop-applying-genai-tools-to-scholarly-writing-nov-12-2026%2F@uoftevents
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Hands-on Workshop: Applying GenAI Tools to Scholarly Writing – Nov. 12\, 2026
-DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/hands-on-workshop-applying-genai-tools-to-scholarly-writing-nov-12-2026/
-URL:https://cris.utoronto.ca/event/hands-on-workshop-applying-genai-tools-to-scholarly-writing-nov-12-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Fnovember-e-learning-centering-community-in-community-based-research-nov-12-2026%2F@uoftevents
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:CBRCanada - Elene Lam: Recipient of the Emerging Community-Based Researcher Award - Nov. 12\, 2026
 DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/november-e-learning-centering-community-in-community-based-research-nov-12-2026/
 URL:https://cris.utoronto.ca/event/november-e-learning-centering-community-in-community-based-research-nov-12-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Fhands-on-workshop-applying-genai-tools-to-scholarly-writing-nov-12-2026%2F@uoftevents
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Hands-on Workshop: Applying GenAI Tools to Scholarly Writing – Nov. 12\, 2026
+DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/hands-on-workshop-applying-genai-tools-to-scholarly-writing-nov-12-2026/
+URL:https://cris.utoronto.ca/event/hands-on-workshop-applying-genai-tools-to-scholarly-writing-nov-12-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Fnovember-community-of-practice-cop-nov-13-2026%2F@uoftevents
@@ -233,6 +233,14 @@ DTEND;VALUE=DATE:20261118
 SUMMARY:The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom - Nov. 17\, 2026
 DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/the-art-of-menteeship-a-book-talk-and-conversation-with-dr-maria-lamonaca-wisdom-nov-17-2026/
 URL:https://cris.utoronto.ca/event/the-art-of-menteeship-a-book-talk-and-conversation-with-dr-maria-lamonaca-wisdom-nov-17-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Ffacilitation-for-researchers-how-to-design-conversations-that-move-collaborations-forward-nov-25-2026%2F@uoftevents
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Facilitation for Researchers: How to design conversations that move collaborations forward - Nov. 25\, 2026
+DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/facilitation-for-researchers-how-to-design-conversations-that-move-collaborations-forward-nov-25-2026/
+URL:https://cris.utoronto.ca/event/facilitation-for-researchers-how-to-design-conversations-that-move-collaborations-forward-nov-25-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.dlsph.utoronto.ca%2Fevent%2Fmph-in-black-health-information-sessions-4%2F@uoftevents
@@ -267,14 +275,6 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.dlsph.utoront
 URL:https://www.dlsph.utoronto.ca/event/master-of-health-science-bioethics-info-session-2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fcontinental-philosophy-research-group-dimitris-vardoulakis-western-sydney-university%2F@uoftevents
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Continental Philosophy Research Group (Dimitris Vardoulakis\, Western Sydney University)
-DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/continental-philosophy-research-group-dimitris-vardoulakis-western-sydney-university/
-URL:https://philosophy.utoronto.ca/event/continental-philosophy-research-group-dimitris-vardoulakis-western-sydney-university/
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fthe-toronto-london-philosophy-of-perception-workshop%2F@uoftevents
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
@@ -289,6 +289,14 @@ DTEND;VALUE=DATE:20261114
 SUMMARY:Ethics and Political Philosophy Interest Group Talk (Selim Berker\, Harvard University)
 DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-talk-selim-berker-harvard-university/
 URL:https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-talk-selim-berker-harvard-university/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Fcontinental-philosophy-research-group-dimitris-vardoulakis-western-sydney-university%2F@uoftevents
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Continental Philosophy Research Group (Dimitris Vardoulakis\, Western Sydney University)
+DESCRIPTION:Verify time\, location\, and registration: https://philosophy.utoronto.ca/event/continental-philosophy-research-group-dimitris-vardoulakis-western-sydney-university/
+URL:https://philosophy.utoronto.ca/event/continental-philosophy-research-group-dimitris-vardoulakis-western-sydney-university/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fphilosophy.utoronto.ca%2Fevent%2Funesco-world-philosophy-day%2F@uoftevents
@@ -315,6 +323,14 @@ DESCRIPTION:Verify time\, location\, and registration: https://socialwork.utoron
 URL:https://socialwork.utoronto.ca/event/ilca-seminar-what-is-successful-aging-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:https%3A%2F%2Fsocialwork.utoronto.ca%2Fevent%2Fpostdoc-talk-invisible-survivors-addressing-sexual-violence-among-older-refugees-with-dr-prossy-kiddu-namyalo%2F@uoftevents
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:FIFSW Postdoc Talks — Invisible Survivors: Addressing Sexual Violence Among Older Refugees\, with Dr. Prossy Kiddu Namyalo
+DESCRIPTION:Verify time\, location\, and registration: https://socialwork.utoronto.ca/event/postdoc-talk-invisible-survivors-addressing-sexual-violence-among-older-refugees-with-dr-prossy-kiddu-namyalo/
+URL:https://socialwork.utoronto.ca/event/postdoc-talk-invisible-survivors-addressing-sexual-violence-among-older-refugees-with-dr-prossy-kiddu-namyalo/
+END:VEVENT
+BEGIN:VEVENT
 UID:https%3A%2F%2Fsocialwork.utoronto.ca%2Fevent%2Fthe-trauma-pain-connection-exploring-chronic-pain-through-a-trauma-informed-lens%2F@uoftevents
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
@@ -329,14 +345,6 @@ DTEND;VALUE=DATE:20261204
 SUMMARY:ILCA Seminar: Caregiving and Decreased Longevity among Aging Parents of Individuals with Childhood-Onset Disabilities
 DESCRIPTION:Verify time\, location\, and registration: https://socialwork.utoronto.ca/event/ilca-seminar-what-is-successful-aging-2-2/
 URL:https://socialwork.utoronto.ca/event/ilca-seminar-what-is-successful-aging-2-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Fcheme-master-of-engineering-meng-online-application-support-drop-in%2F2026-11-10%2F@uoftevents
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:ChemE Master of Engineering (MEng) Online Application Support Drop-In
-DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-10/
-URL:https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-10/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Flunch-learn-game-on-leveling-up-pediatric-rehab-with-gaming-technologies%2F@uoftevents
@@ -369,14 +377,6 @@ DTEND;VALUE=DATE:20261125
 SUMMARY:ChemE Master of Engineering (MEng) Online Application Support Drop-In
 DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-24/
 URL:https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-24/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.artsci.utoronto.ca%2Fevents%2Fkings-queens-and-emperors-descend-campus-micronations-film-screening@uoftevents
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Kings\, Queens\, and Emperors Descend on Campus: "Micronations" Film Screening
-DESCRIPTION:Verify time\, location\, and registration: https://www.artsci.utoronto.ca/events/kings-queens-and-emperors-descend-campus-micronations-film-screening
-URL:https://www.artsci.utoronto.ca/events/kings-queens-and-emperors-descend-campus-micronations-film-screening
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fkpe.utoronto.ca%2Ftue-11102026-1130%2Fgroup-advising-session-planning-u-t-medical-school-requirements@uoftevents
@@ -419,14 +419,6 @@ DESCRIPTION:Verify time\, location\, and registration: https://kpe.utoronto.ca/f
 URL:https://kpe.utoronto.ca/fri-11202026-2300/kpe-401-info-session-international-development-through-sport
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2F261109-happy-100th-birthday-mary@uoftevents
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:John R. Stratton Visitor in Music: Happy 100th Birthday\, Mary!
-DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/261109-happy-100th-birthday-mary
-URL:https://music.utoronto.ca/event/261109-happy-100th-birthday-mary
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2F261110-masterclass-barbara-hannigan@uoftevents
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
@@ -457,6 +449,14 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:Thursdays at Noon | John R. Stratton Visitor in Music: A Legacy in Song
 DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/2611112-thursdays-noon
 URL:https://music.utoronto.ca/event/2611112-thursdays-noon
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2Finfo-session-university-toronto-music-technology-digital-media-masters-program@uoftevents
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Info Session: University of Toronto - Music Technology & Digital Media Master's Program
+DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/info-session-university-toronto-music-technology-digital-media-masters-program
+URL:https://music.utoronto.ca/event/info-session-university-toronto-music-technology-digital-media-masters-program
 END:VEVENT
 BEGIN:VEVENT
 UID:http%3A%2F%2Fwww.fields.utoronto.ca%2Factivities%2F26-27%2Fmeforum-Nov@uoftevents
@@ -531,20 +531,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.humanities.ut
 URL:https://www.humanities.utoronto.ca/events/over-and-over-again-jhi-2026-27-art-exhibition
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.daniels.utoronto.ca%2Fevents%2F1794340800%2Finfo-session-phd-and-master-science-forestry-mscf@uoftevents
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Info session: PhD and Master of Science in Forestry (MScF)
-DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoronto.ca/events/1794340800/info-session-phd-and-master-science-forestry-mscf
-URL:https://www.daniels.utoronto.ca/events/1794340800/info-session-phd-and-master-science-forestry-mscf
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.daniels.utoronto.ca%2Fevents%2F1794492000%2Finfo-session-master-landscape-architecture-mla@uoftevents
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Info session: Master of Landscape Architecture (MLA)
 DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoronto.ca/events/1794492000/info-session-master-landscape-architecture-mla
 URL:https://www.daniels.utoronto.ca/events/1794492000/info-session-master-landscape-architecture-mla
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.daniels.utoronto.ca%2Fevents%2F1794632400%2Feyeball-2026-exhibition-daniels-undergraduate-students-visual-studies@uoftevents
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:EYEBALL 2026: an exhibition of Daniels undergraduate students in Visual Studies
+DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoronto.ca/events/1794632400/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies
+URL:https://www.daniels.utoronto.ca/events/1794632400/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.daniels.utoronto.ca%2Fevents%2F1794666600%2Ffall-campus-day-st-george-campus@uoftevents
@@ -555,12 +555,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoro
 URL:https://www.daniels.utoronto.ca/events/1794666600/fall-campus-day-st-george-campus
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.daniels.utoronto.ca%2Fevents%2F1794632400%2Feyeball-2026-exhibition-daniels-undergraduate-students-visual-studies@uoftevents
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+UID:https%3A%2F%2Fwww.daniels.utoronto.ca%2Fevents%2F1794805200%2Feyeball-2026-exhibition-daniels-undergraduate-students-visual-studies@uoftevents
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
 SUMMARY:EYEBALL 2026: an exhibition of Daniels undergraduate students in Visual Studies
-DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoronto.ca/events/1794632400/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies
-URL:https://www.daniels.utoronto.ca/events/1794632400/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies
+DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoronto.ca/events/1794805200/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies
+URL:https://www.daniels.utoronto.ca/events/1794805200/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.pharmacy.utoronto.ca%2Fevents%2Fvirtual-information-session-graduate-department-pharmaceutical-sciences-1@uoftevents
@@ -603,12 +603,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.pharmacy.utor
 URL:https://www.pharmacy.utoronto.ca/events/advancing-molecular-imaging-and-radiopharmaceuticals-insights-prostate-cancer
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fcidec%2Fabout%2Fevents%2F11-09-26-truth-telling-pedagogies-building-praxis-across-context@uoftevents
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Truth-Telling Pedagogies: Building Praxis across Context
-DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/cidec/about/events/11-09-26-truth-telling-pedagogies-building-praxis-across-context
-URL:https://www.oise.utoronto.ca/cidec/about/events/11-09-26-truth-telling-pedagogies-building-praxis-across-context
+UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fregistrar-students%2Fevents%2Fmed-openhouse%3Ffbclid%3DIwY2xjawVVqTFleHRuA2FlbQIxMABwZG9mAWJyaWQRMTMyblV5RnRhMXFCbFFvUnFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfFyCc4pCHQZ7sOZCwFQZXwRDS5tE--QBbGrL7KYKzglZD8BgtlOZ9mDJV3QQ_aem_7GSOrySu3@uoftevents
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Mastering Education: An OISE MEd Showcase
+DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/registrar-students/events/med-openhouse?fbclid=IwY2xjawVVqTFleHRuA2FlbQIxMABwZG9mAWJyaWQRMTMyblV5RnRhMXFCbFFvUnFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfFyCc4pCHQZ7sOZCwFQZXwRDS5tE--QBbGrL7KYKzglZD8BgtlOZ9mDJV3QQ_aem_7GSOrySu3
+URL:https://www.oise.utoronto.ca/registrar-students/events/med-openhouse?fbclid=IwY2xjawVVqTFleHRuA2FlbQIxMABwZG9mAWJyaWQRMTMyblV5RnRhMXFCbFFvUnFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfFyCc4pCHQZ7sOZCwFQZXwRDS5tE--QBbGrL7KYKzglZD8BgtlOZ9mDJV3QQ_aem_7GSOrySu3
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fabout%2Fevents%2F11-11-26-mastering-education-oise-med-information-fair@uoftevents
@@ -619,12 +619,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto
 URL:https://www.oise.utoronto.ca/about/events/11-11-26-mastering-education-oise-med-information-fair
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fregistrar-students%2Fevents%2Fmed-openhouse%3Ffbclid%3DIwY2xjawVVqTFleHRuA2FlbQIxMABwZG9mAWJyaWQRMTMyblV5RnRhMXFCbFFvUnFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfFyCc4pCHQZ7sOZCwFQZXwRDS5tE--QBbGrL7KYKzglZD8BgtlOZ9mDJV3QQ_aem_7GSOrySu3@uoftevents
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Mastering Education: An OISE MEd Showcase
-DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/registrar-students/events/med-openhouse?fbclid=IwY2xjawVVqTFleHRuA2FlbQIxMABwZG9mAWJyaWQRMTMyblV5RnRhMXFCbFFvUnFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfFyCc4pCHQZ7sOZCwFQZXwRDS5tE--QBbGrL7KYKzglZD8BgtlOZ9mDJV3QQ_aem_7GSOrySu3
-URL:https://www.oise.utoronto.ca/registrar-students/events/med-openhouse?fbclid=IwY2xjawVVqTFleHRuA2FlbQIxMABwZG9mAWJyaWQRMTMyblV5RnRhMXFCbFFvUnFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfFyCc4pCHQZ7sOZCwFQZXwRDS5tE--QBbGrL7KYKzglZD8BgtlOZ9mDJV3QQ_aem_7GSOrySu3
+UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fctl%2Fabout%2Fevents%2F11-12-26-med-language-teaching-tesl-ontario-pathway-launch-event@uoftevents
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:MEd in Language Teaching – TESL Ontario Pathway Launch Event
+DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/ctl/about/events/11-12-26-med-language-teaching-tesl-ontario-pathway-launch-event
+URL:https://www.oise.utoronto.ca/ctl/about/events/11-12-26-med-language-teaching-tesl-ontario-pathway-launch-event
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fctl%2Fabout%2Fevents%2F11-12-26-lle-med-field-language-teaching-tesl-ontario-pathway-launch@uoftevents
@@ -635,12 +635,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto
 URL:https://www.oise.utoronto.ca/ctl/about/events/11-12-26-lle-med-field-language-teaching-tesl-ontario-pathway-launch
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fcidec%2Fabout%2Fevents%2F11-16-26-arab-voices-academia-scholarship-identity-representation@uoftevents
+UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fcbse%2Fevents%2F11-16-26-working-and-walking-solidarities@uoftevents
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:Arab Voices in Academia: Scholarship\, Identity & Representation
-DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/cidec/about/events/11-16-26-arab-voices-academia-scholarship-identity-representation
-URL:https://www.oise.utoronto.ca/cidec/about/events/11-16-26-arab-voices-academia-scholarship-identity-representation
+SUMMARY:Working and Walking in Solidarities
+DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/cbse/events/11-16-26-working-and-walking-solidarities
+URL:https://www.oise.utoronto.ca/cbse/events/11-16-26-working-and-walking-solidarities
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.rotman.utoronto.ca%2Fnews-events-and-ideas%2Fpublic-events%2Fevents-listings%2F2026%2Fnovember-2026%2Fnov-11---ranjay-gulati--%2F@uoftevents
@@ -697,14 +697,6 @@ DTEND;VALUE=DATE:20261119
 SUMMARY:Hope in Action: Building Hope: Reimagining Institutions for Human Flourishing (Continuing Education Free Webinar)
 DESCRIPTION:Verify time\, location\, and registration: https://stmikes.utoronto.ca/event/hope-in-action-building-hope-reimagining-institutions-for-human-flourishing-continuing-education-free-webinar
 URL:https://stmikes.utoronto.ca/event/hope-in-action-building-hope-reimagining-institutions-for-human-flourishing-continuing-education-free-webinar
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fschoolofcities.utoronto.ca%2Fevent%2Fmemories-of-black-toronto-bringing-the-citys-black-history-to-the-screen%2F@uoftevents
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Memories of Black Toronto – Bringing the city’s Black history to the screen
-DESCRIPTION:Verify time\, location\, and registration: https://schoolofcities.utoronto.ca/event/memories-of-black-toronto-bringing-the-citys-black-history-to-the-screen/
-URL:https://schoolofcities.utoronto.ca/event/memories-of-black-toronto-bringing-the-citys-black-history-to-the-screen/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fschoolofcities.utoronto.ca%2Fevent%2Fknowledge-cafe-using-the-census-new-tools-for-urban-researchers%2F@uoftevents
@@ -795,6 +787,14 @@ DESCRIPTION:Verify time\, location\, and registration: https://srinstitute.utoro
 URL:https://srinstitute.utoronto.ca/events-archive/sri-graduate-symposium-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.utsc.utoronto.ca%2Fprincipal%2Fremembrance-day@uoftevents
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:U of T | Service of Remembrance at Scarborough Campus
+DESCRIPTION:Verify time\, location\, and registration: https://www.utsc.utoronto.ca/principal/remembrance-day
+URL:https://www.utsc.utoronto.ca/principal/remembrance-day
+END:VEVENT
+BEGIN:VEVENT
 UID:https%3A%2F%2Falumni.utoronto.ca%2Fcommunity%2Fsoldiers-tower%2Fservice-of-remembrance@uoftevents
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
@@ -809,14 +809,6 @@ DTEND;VALUE=DATE:20261112
 SUMMARY:U of T | Service of Remembrance at Mississauga Campus
 DESCRIPTION:Verify time\, location\, and registration: https://www.utm.utoronto.ca/remembrance-day-ceremonies
 URL:https://www.utm.utoronto.ca/remembrance-day-ceremonies
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.utsc.utoronto.ca%2Fprincipal%2Fremembrance-day@uoftevents
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:U of T | Service of Remembrance at Scarborough Campus
-DESCRIPTION:Verify time\, location\, and registration: https://www.utsc.utoronto.ca/principal/remembrance-day
-URL:https://www.utsc.utoronto.ca/principal/remembrance-day
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Fai-practice-residents-fellows-weekend-mini-course-final-registration-deadline-nov-15@uoftevents
@@ -867,28 +859,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.trinity.utoro
 URL:https://www.trinity.utoronto.ca/event/jeremy-begbie-workshop-and-lecture-series-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fbuilding-your-first-product-strategy%2F@uoftevents
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:The Hinton Lectures 2026
-DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/building-your-first-product-strategy/
-URL:https://entrepreneurs.utoronto.ca/event/building-your-first-product-strategy/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fexpert-x-founder-strategy-sessions-fundraising%2F@uoftevents
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Expert x Founder Strategy Sessions: Fundraising
-DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/expert-x-founder-strategy-sessions-fundraising/
-URL:https://entrepreneurs.utoronto.ca/event/expert-x-founder-strategy-sessions-fundraising/
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Faria%2F@uoftevents
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:ARIA
 DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/aria/
 URL:https://entrepreneurs.utoronto.ca/event/aria/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fenergy-industrial-huddle%2F@uoftevents
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Energy-Industrial Huddle
+DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/energy-industrial-huddle/
+URL:https://entrepreneurs.utoronto.ca/event/energy-industrial-huddle/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Feasylens-workshop-speed-challenge%2F@uoftevents
@@ -899,12 +883,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.uto
 URL:https://entrepreneurs.utoronto.ca/event/easylens-workshop-speed-challenge/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fenergy-industrial-huddle%2F@uoftevents
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Energy-Industrial Huddle
-DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/energy-industrial-huddle/
-URL:https://entrepreneurs.utoronto.ca/event/energy-industrial-huddle/
+UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Ft-cairems-2026-national-health-datathon%2F@uoftevents
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:School 2.0 AI Business Innovation Conference & Startup Challenge
+DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/t-cairems-2026-national-health-datathon/
+URL:https://entrepreneurs.utoronto.ca/event/t-cairems-2026-national-health-datathon/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Ffuture.utoronto.ca%2Ffall-campus-day-u-t-st-george@uoftevents
