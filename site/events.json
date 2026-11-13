@@ -1,13 +1,24 @@
 {
-  "updated_at": "2026-11-12T18:58:41.343554+00:00",
+  "updated_at": "2026-11-13T18:34:39.717173+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
     {
-      "title": "Hands-on Workshop: Applying GenAI Tools to Scholarly Writing – Nov. 12, 2026",
-      "date": "November 12, 2026",
-      "url": "https://cris.utoronto.ca/event/hands-on-workshop-applying-genai-tools-to-scholarly-writing-nov-12-2026/",
+      "title": "The Toronto-London Philosophy of Perception Workshop",
+      "date": "November 13 to November 14, 2026",
+      "url": "https://philosophy.utoronto.ca/event/the-toronto-london-philosophy-of-perception-workshop/",
+      "departments": [
+        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "CBRCanada CoP - Community-Campus Partnerships: Student Perspectives - Nov. 13, 2026",
+      "date": "November 13, 2026",
+      "url": "https://cris.utoronto.ca/event/november-community-of-practice-cop-nov-13-2026/",
       "departments": [
         "Centre for Research & Innovation Support"
       ],
@@ -16,44 +27,33 @@
       ]
     },
     {
-      "title": "Info session: Master of Landscape Architecture (MLA)",
-      "date": "November 12, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1794492000/info-session-master-landscape-architecture-mla",
+      "title": "Continental Philosophy Research Group (Dimitris Vardoulakis, Western Sydney University)",
+      "date": "November 13, 2026",
+      "url": "https://philosophy.utoronto.ca/event/continental-philosophy-research-group-dimitris-vardoulakis-western-sydney-university/",
       "departments": [
-        "John H. Daniels Faculty of Architecture, Landscape, and Design"
+        "Department of Philosophy"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "MIA/MGA Dual Degree Admissions Info-session (Hertie, Berlin &Uof T-Munk-MGA)",
-      "date": "November 12, 2026",
-      "url": "https://munkschool.utoronto.ca/event/miamga-dual-degree-admissions-info-session-hertie-berlin-uoft-munk-mga-0",
+      "title": "Ethics and Political Philosophy Interest Group Talk (Selim Berker, Harvard University)",
+      "date": "November 13, 2026",
+      "url": "https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-talk-selim-berker-harvard-university/",
       "departments": [
-        "U of T"
+        "Department of Philosophy"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "CBRCanada - Elene Lam: Recipient of the Emerging Community-Based Researcher Award - Nov. 12, 2026",
-      "date": "November 12, 2026",
-      "url": "https://cris.utoronto.ca/event/november-e-learning-centering-community-in-community-based-research-nov-12-2026/",
+      "title": "Technologies of Power Making and Unmaking of Area Studies in United States",
+      "date": "November 13, 2026",
+      "url": "https://munkschool.utoronto.ca/event/technologies-power-making-and-unmaking-area-studies-united-states",
       "departments": [
-        "Centre for Research & Innovation Support"
-      ],
-      "sources": [
         "U of T"
-      ]
-    },
-    {
-      "title": "ILCA Seminar: Mapping Age Group Boundaries: A Distance-based Approach to Age Identity",
-      "date": "November 12, 2026",
-      "url": "https://socialwork.utoronto.ca/event/ilca-seminar-what-is-successful-aging-2/",
-      "departments": [
-        "Factor-Inwentash Faculty of Social Work"
       ],
       "sources": [
         "U of T"
@@ -302,17 +302,6 @@
       ]
     },
     {
-      "title": "CBRCanada CoP - Community-Campus Partnerships: Student Perspectives - Nov. 13, 2026",
-      "date": "November 13, 2026",
-      "url": "https://cris.utoronto.ca/event/november-community-of-practice-cop-nov-13-2026/",
-      "departments": [
-        "Centre for Research & Innovation Support"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom - Nov. 17, 2026",
       "date": "November 17, 2026",
       "url": "https://cris.utoronto.ca/event/the-art-of-menteeship-a-book-talk-and-conversation-with-dr-maria-lamonaca-wisdom-nov-17-2026/",
@@ -324,9 +313,31 @@
       ]
     },
     {
+      "title": "BOOST! Workshop",
+      "date": "November 25, 2026",
+      "url": "https://cris.utoronto.ca/event/boost-workshop/",
+      "departments": [
+        "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Facilitation for Researchers: How to design conversations that move collaborations forward - Nov. 25, 2026",
       "date": "November 25, 2026",
       "url": "https://cris.utoronto.ca/event/facilitation-for-researchers-how-to-design-conversations-that-move-collaborations-forward-nov-25-2026/",
+      "departments": [
+        "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "CRIS-JHI Developmental Editing and Your Scholarly Book - Nov. 27, 2026",
+      "date": "November 27, 2026",
+      "url": "https://cris.utoronto.ca/event/cris-jhi-developmental-editing-and-your-scholarly-book-nov-27-2026/",
       "departments": [
         "Centre for Research & Innovation Support"
       ],
@@ -379,39 +390,6 @@
       ]
     },
     {
-      "title": "Continental Philosophy Research Group (Dimitris Vardoulakis, Western Sydney University)",
-      "date": "November 13, 2026",
-      "url": "https://philosophy.utoronto.ca/event/continental-philosophy-research-group-dimitris-vardoulakis-western-sydney-university/",
-      "departments": [
-        "Department of Philosophy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "The Toronto-London Philosophy of Perception Workshop",
-      "date": "November 13 to November 14, 2026",
-      "url": "https://philosophy.utoronto.ca/event/the-toronto-london-philosophy-of-perception-workshop/",
-      "departments": [
-        "Department of Philosophy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Ethics and Political Philosophy Interest Group Talk (Selim Berker, Harvard University)",
-      "date": "November 13, 2026",
-      "url": "https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-talk-selim-berker-harvard-university/",
-      "departments": [
-        "Department of Philosophy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "UNESCO World Philosophy Day (L. A. Paul, Yale University)",
       "date": "November 19, 2026",
       "url": "https://philosophy.utoronto.ca/event/unesco-world-philosophy-day-l-a-paul-yale-university/",
@@ -434,9 +412,9 @@
       ]
     },
     {
-      "title": "The Trauma-Pain Connection: Exploring Chronic Pain Through a Trauma-Informed Lens",
+      "title": "FIFSW Postdoc Talks — Invisible Survivors: Addressing Sexual Violence Among Older Refugees, with Dr. Prossy Kiddu Namyalo",
       "date": "November 30, 2026",
-      "url": "https://socialwork.utoronto.ca/event/the-trauma-pain-connection-exploring-chronic-pain-through-a-trauma-informed-lens/",
+      "url": "https://socialwork.utoronto.ca/event/postdoc-talk-invisible-survivors-addressing-sexual-violence-among-older-refugees-with-dr-prossy-kiddu-namyalo/",
       "departments": [
         "Factor-Inwentash Faculty of Social Work"
       ],
@@ -445,9 +423,9 @@
       ]
     },
     {
-      "title": "FIFSW Postdoc Talks — Invisible Survivors: Addressing Sexual Violence Among Older Refugees, with Dr. Prossy Kiddu Namyalo",
+      "title": "The Trauma-Pain Connection: Exploring Chronic Pain Through a Trauma-Informed Lens",
       "date": "November 30, 2026",
-      "url": "https://socialwork.utoronto.ca/event/postdoc-talk-invisible-survivors-addressing-sexual-violence-among-older-refugees-with-dr-prossy-kiddu-namyalo/",
+      "url": "https://socialwork.utoronto.ca/event/the-trauma-pain-connection-exploring-chronic-pain-through-a-trauma-informed-lens/",
       "departments": [
         "Factor-Inwentash Faculty of Social Work"
       ],
@@ -577,28 +555,6 @@
       ]
     },
     {
-      "title": "Thursdays at Noon | John R. Stratton Visitor in Music: A Legacy in Song",
-      "date": "November 12, 2026",
-      "url": "https://music.utoronto.ca/event/2611112-thursdays-noon",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Info Session: University of Toronto - Music Technology & Digital Media Master's Program",
-      "date": "November 12, 2026",
-      "url": "https://music.utoronto.ca/event/info-session-university-toronto-music-technology-digital-media-masters-program",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "UTSO Graduate Conductors",
       "date": "November 13, 2026",
       "url": "https://music.utoronto.ca/event/261113-utso",
@@ -624,6 +580,28 @@
       "title": "Vocal Fête",
       "date": "November 15, 2026",
       "url": "https://music.utoronto.ca/event/261115-vocal-f%C3%AAte",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Noa Sarid, Violin",
+      "date": "November 17, 2026",
+      "url": "https://music.utoronto.ca/event/noa-sarid-violin-0",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Tuesday Voice Series: From Requiem to Light: Remembering Sacred Bonds",
+      "date": "November 17, 2026",
+      "url": "https://music.utoronto.ca/event/261117-tuesday-voice-series",
       "departments": [
         "Faculty of Music"
       ],
@@ -753,6 +731,17 @@
       ]
     },
     {
+      "title": "EYEBALL 2026: an exhibition of Daniels undergraduate students in Visual Studies",
+      "date": "November 16, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1794805200/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies",
+      "departments": [
+        "John H. Daniels Faculty of Architecture, Landscape, and Design"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Info session: Master of Architecture (MArch)",
       "date": "November 16, 2026",
       "url": "https://www.daniels.utoronto.ca/events/1794870000/info-session-master-architecture-march",
@@ -764,9 +753,9 @@
       ]
     },
     {
-      "title": "EYEBALL 2026: an exhibition of Daniels undergraduate students in Visual Studies",
-      "date": "November 16, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1794805200/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies",
+      "title": "Info session: Master of Urban Design (MUD) and Post-Professional (MArch and MLA)",
+      "date": "November 18, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1795032000/info-session-master-urban-design-mud-and-post-professional-march-and-mla",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -797,17 +786,6 @@
       ]
     },
     {
-      "title": "Designing for Integration: Innovations in the New PharmD Curriculum",
-      "date": "December 3, 2026",
-      "url": "https://www.pharmacy.utoronto.ca/events/designing-integration-innovations-new-pharmd-curriculum",
-      "departments": [
-        "Leslie Dan Faculty of Pharmacy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Advancing Molecular Imaging and Radiopharmaceuticals with Insights from Prostate Cancer",
       "date": "December 3, 2026",
       "url": "https://www.pharmacy.utoronto.ca/events/advancing-molecular-imaging-and-radiopharmaceuticals-insights-prostate-cancer",
@@ -819,20 +797,20 @@
       ]
     },
     {
-      "title": "MEd in Language Teaching – TESL Ontario Pathway Launch Event",
-      "date": "November 12, 2026",
-      "url": "https://www.oise.utoronto.ca/ctl/about/events/11-12-26-med-language-teaching-tesl-ontario-pathway-launch-event",
+      "title": "Designing for Integration: Innovations in the New PharmD Curriculum",
+      "date": "December 3, 2026",
+      "url": "https://www.pharmacy.utoronto.ca/events/designing-integration-innovations-new-pharmd-curriculum",
       "departments": [
-        "Ontario Institute for Studies in Education"
+        "Leslie Dan Faculty of Pharmacy"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "LLE MEd: Field in Language Teaching – TESL Ontario Pathway Launch",
-      "date": "November 12, 2026",
-      "url": "https://www.oise.utoronto.ca/ctl/about/events/11-12-26-lle-med-field-language-teaching-tesl-ontario-pathway-launch",
+      "title": "Our Themes and Therapy: Therapist Reflections on their Life and Practise Symposium",
+      "date": "November 13, 2026",
+      "url": "https://www.oise.utoronto.ca/about/events/11-13-26-our-themes-and-therapy-therapist-reflections-their-life-and-practise",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -866,6 +844,17 @@
       "title": "Arab Voices in Academia: Scholarship, Identity & Representation",
       "date": "November 16, 2026",
       "url": "https://www.oise.utoronto.ca/cidec/about/events/11-16-26-arab-voices-academia-scholarship-identity-representation",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Working and Walking in Solidarities",
+      "date": "November 16, 2026",
+      "url": "https://www.oise.utoronto.ca/cbse/events/11-16-26-working-and-walking-solidarities",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -984,9 +973,9 @@
       ]
     },
     {
-      "title": "Sustainable Fashion Series: DIY Reusables Workshop",
+      "title": "Sustainable Fashion Series: DIY Reuseables Workshop",
       "date": "November 16, 2026",
-      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reusables-workshop",
+      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reuseables-workshop",
       "departments": [
         "School of the Environment"
       ],
@@ -995,9 +984,9 @@
       ]
     },
     {
-      "title": "Sustainable Fashion Series: DIY Reuseables Workshop",
+      "title": "Sustainable Fashion Series: DIY Reusables Workshop",
       "date": "November 16, 2026",
-      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reuseables-workshop",
+      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reusables-workshop",
       "departments": [
         "School of the Environment"
       ],
@@ -1105,9 +1094,9 @@
       ]
     },
     {
-      "title": "Moonshot 2026",
-      "date": "November 12, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/moonshot-2026",
+      "title": "Temerty Centre Speaker Series: Dr. Aviv Shachak (Nov. 17)",
+      "date": "November 17, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/temerty-centre-speaker-series-dr-aviv-shachak-nov-17",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1116,9 +1105,9 @@
       ]
     },
     {
-      "title": "Introduction to 3D Design: Fusion360",
+      "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom",
       "date": "November 17, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/introduction-3d-design-fusion360",
+      "url": "https://temertymedicine.utoronto.ca/event/art-menteeship-book-talk-and-conversation-dr-maria-lamonaca-wisdom-0",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1132,28 +1121,6 @@
       "url": "https://www.trinity.utoronto.ca/event/jeremy-begbie-workshop-and-lecture-series-2026/",
       "departments": [
         "Trinity College"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Energy-Industrial Huddle",
-      "date": "November 12, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/energy-industrial-huddle/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Easylens Workshop & Speed Challenge",
-      "date": "November 12, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/easylens-workshop-speed-challenge/",
-      "departments": [
-        "U of T Entrepreneurship"
       ],
       "sources": [
         "U of T"
@@ -1182,9 +1149,31 @@
       ]
     },
     {
+      "title": "Share Your Spark: Dr. Geeta Yadav in conversation with Bonnie Fuller",
+      "date": "November 16, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/share-your-spark-dr-geeta-yadav-in-conversation-with-bonnie-fuller/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "What You Need To Know About IP",
       "date": "November 16, 2026",
       "url": "https://entrepreneurs.utoronto.ca/event/what-you-need-to-know-about-ip/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom",
+      "date": "November 17, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/the-art-of-menteeship-a-book-talk-and-conversation-with-dr-maria-lamonaca-wisdom/",
       "departments": [
         "U of T Entrepreneurship"
       ],
