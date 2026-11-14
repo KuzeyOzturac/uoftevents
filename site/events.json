@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-11-13T18:34:39.717173+00:00",
+  "updated_at": "2026-11-14T17:11:55.745357+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
     {
-      "title": "The Toronto-London Philosophy of Perception Workshop",
-      "date": "November 13 to November 14, 2026",
-      "url": "https://philosophy.utoronto.ca/event/the-toronto-london-philosophy-of-perception-workshop/",
+      "title": "Day with Emmanuel 2026",
+      "date": "November 14, 2026",
+      "url": "https://vicu.utoronto.ca/whats-happening/day-with-emmanuel-2026",
       "departments": [
-        "Department of Philosophy"
+        "Victoria College"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "CBRCanada CoP - Community-Campus Partnerships: Student Perspectives - Nov. 13, 2026",
-      "date": "November 13, 2026",
-      "url": "https://cris.utoronto.ca/event/november-community-of-practice-cop-nov-13-2026/",
+      "title": "School 2.0 AI Business Innovation Conference & Startup Challenge",
+      "date": "November 14, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/t-cairems-2026-national-health-datathon/",
       "departments": [
-        "Centre for Research & Innovation Support"
+        "U of T Entrepreneurship"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Continental Philosophy Research Group (Dimitris Vardoulakis, Western Sydney University)",
-      "date": "November 13, 2026",
-      "url": "https://philosophy.utoronto.ca/event/continental-philosophy-research-group-dimitris-vardoulakis-western-sydney-university/",
+      "title": "Fall Campus Day",
+      "date": "November 14, 2026",
+      "url": "https://kpe.utoronto.ca/sat-11142026-0930/fall-campus-day",
       "departments": [
-        "Department of Philosophy"
+        "Faculty of Kinesiology & Physical Education"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Ethics and Political Philosophy Interest Group Talk (Selim Berker, Harvard University)",
-      "date": "November 13, 2026",
-      "url": "https://philosophy.utoronto.ca/event/ethics-and-political-philosophy-interest-group-talk-selim-berker-harvard-university/",
+      "title": "Fall Campus Day at St. George Campus",
+      "date": "November 14, 2026",
+      "url": "https://future.utoronto.ca/fall-campus-day-u-t-st-george",
       "departments": [
-        "Department of Philosophy"
+        "U of T St. George"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Technologies of Power Making and Unmaking of Area Studies in United States",
-      "date": "November 13, 2026",
-      "url": "https://munkschool.utoronto.ca/event/technologies-power-making-and-unmaking-area-studies-united-states",
+      "title": "EYEBALL 2026: an exhibition of Daniels undergraduate students in Visual Studies",
+      "date": "November 14, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1794632400/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies",
       "departments": [
-        "U of T"
+        "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
       "sources": [
         "U of T"
@@ -84,7 +84,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
       "departments": [
         "Alumni"
       ],
@@ -95,7 +95,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
       "departments": [
         "Alumni"
       ],
@@ -346,6 +346,17 @@
       ]
     },
     {
+      "title": "CRIS-JHI Developmental Editing and Your Scholarly Book - Dec. 2, 2026",
+      "date": "December 2, 2026",
+      "url": "https://cris.utoronto.ca/event/cris-jhi-developmental-editing-and-your-scholarly-book-dec-2-2026/",
+      "departments": [
+        "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "MPH in Black Health Information Sessions",
       "date": "September 24 to December 17, 2026",
       "url": "https://www.dlsph.utoronto.ca/event/mph-in-black-health-information-sessions-4/",
@@ -390,9 +401,9 @@
       ]
     },
     {
-      "title": "UNESCO World Philosophy Day (L. A. Paul, Yale University)",
-      "date": "November 19, 2026",
-      "url": "https://philosophy.utoronto.ca/event/unesco-world-philosophy-day-l-a-paul-yale-university/",
+      "title": "The Toronto-London Philosophy of Perception Workshop",
+      "date": "November 13 to November 14, 2026",
+      "url": "https://philosophy.utoronto.ca/event/the-toronto-london-philosophy-of-perception-workshop/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -412,11 +423,33 @@
       ]
     },
     {
-      "title": "FIFSW Postdoc Talks — Invisible Survivors: Addressing Sexual Violence Among Older Refugees, with Dr. Prossy Kiddu Namyalo",
-      "date": "November 30, 2026",
-      "url": "https://socialwork.utoronto.ca/event/postdoc-talk-invisible-survivors-addressing-sexual-violence-among-older-refugees-with-dr-prossy-kiddu-namyalo/",
+      "title": "UNESCO World Philosophy Day (L. A. Paul, Yale University)",
+      "date": "November 19, 2026",
+      "url": "https://philosophy.utoronto.ca/event/unesco-world-philosophy-day-l-a-paul-yale-university/",
       "departments": [
-        "Factor-Inwentash Faculty of Social Work"
+        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Eastern Study Group of the North American Kant Society",
+      "date": "November 20 to November 21, 2026",
+      "url": "https://philosophy.utoronto.ca/event/eastern-study-group-of-the-north-american-kant-society/",
+      "departments": [
+        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Global Philosophy Research Group (Monica Z. X. Ding, U of T)",
+      "date": "November 27, 2026",
+      "url": "https://philosophy.utoronto.ca/event/global-philosophy-research-group-monica-z-x-ding-u-of-t/",
+      "departments": [
+        "Department of Philosophy"
       ],
       "sources": [
         "U of T"
@@ -426,6 +459,17 @@
       "title": "The Trauma-Pain Connection: Exploring Chronic Pain Through a Trauma-Informed Lens",
       "date": "November 30, 2026",
       "url": "https://socialwork.utoronto.ca/event/the-trauma-pain-connection-exploring-chronic-pain-through-a-trauma-informed-lens/",
+      "departments": [
+        "Factor-Inwentash Faculty of Social Work"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "FIFSW Postdoc Talks — Invisible Survivors: Addressing Sexual Violence Among Older Refugees, with Dr. Prossy Kiddu Namyalo",
+      "date": "November 30, 2026",
+      "url": "https://socialwork.utoronto.ca/event/postdoc-talk-invisible-survivors-addressing-sexual-violence-among-older-refugees-with-dr-prossy-kiddu-namyalo/",
       "departments": [
         "Factor-Inwentash Faculty of Social Work"
       ],
@@ -500,17 +544,6 @@
       ]
     },
     {
-      "title": "Fall Campus Day",
-      "date": "November 14, 2026",
-      "url": "https://kpe.utoronto.ca/sat-11142026-0930/fall-campus-day",
-      "departments": [
-        "Faculty of Kinesiology & Physical Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "High Performance, Hidden Harm: Interdisciplinary Approaches to Understanding and Preventing Abuse within Coaching and Teaching Relationships",
       "date": "November 16, 2026",
       "url": "https://kpe.utoronto.ca/mon-11162026-1730/high-performance-hidden-harm-interdisciplinary-approaches-understanding-and",
@@ -555,17 +588,6 @@
       ]
     },
     {
-      "title": "UTSO Graduate Conductors",
-      "date": "November 13, 2026",
-      "url": "https://music.utoronto.ca/event/261113-utso",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "FMUA Benefit Concert",
       "date": "November 14, 2026",
       "url": "https://music.utoronto.ca/event/261114-fmua-benefit-concert",
@@ -588,6 +610,17 @@
       ]
     },
     {
+      "title": "Tuesday Voice Series: From Requiem to Light: Remembering Sacred Bonds",
+      "date": "November 17, 2026",
+      "url": "https://music.utoronto.ca/event/261117-tuesday-voice-series",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Noa Sarid, Violin",
       "date": "November 17, 2026",
       "url": "https://music.utoronto.ca/event/noa-sarid-violin-0",
@@ -599,9 +632,9 @@
       ]
     },
     {
-      "title": "Tuesday Voice Series: From Requiem to Light: Remembering Sacred Bonds",
-      "date": "November 17, 2026",
-      "url": "https://music.utoronto.ca/event/261117-tuesday-voice-series",
+      "title": "Jazz 12tet and Vocal Jazz Ensemble",
+      "date": "November 18, 2026",
+      "url": "https://music.utoronto.ca/event/261118-jazz-12tet-and-vocal-jazz-ensemble",
       "departments": [
         "Faculty of Music"
       ],
@@ -709,17 +742,6 @@
       ]
     },
     {
-      "title": "EYEBALL 2026: an exhibition of Daniels undergraduate students in Visual Studies",
-      "date": "November 14, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1794632400/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies",
-      "departments": [
-        "John H. Daniels Faculty of Architecture, Landscape, and Design"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Fall Campus Day at the St. George Campus",
       "date": "November 14, 2026",
       "url": "https://www.daniels.utoronto.ca/events/1794666600/fall-campus-day-st-george-campus",
@@ -808,9 +830,9 @@
       ]
     },
     {
-      "title": "Our Themes and Therapy: Therapist Reflections on their Life and Practise Symposium",
-      "date": "November 13, 2026",
-      "url": "https://www.oise.utoronto.ca/about/events/11-13-26-our-themes-and-therapy-therapist-reflections-their-life-and-practise",
+      "title": "Working and Walking in Solidarities",
+      "date": "November 16, 2026",
+      "url": "https://www.oise.utoronto.ca/cbse/events/11-16-26-working-and-walking-solidarities",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -852,9 +874,9 @@
       ]
     },
     {
-      "title": "Working and Walking in Solidarities",
-      "date": "November 16, 2026",
-      "url": "https://www.oise.utoronto.ca/cbse/events/11-16-26-working-and-walking-solidarities",
+      "title": "Reading for All: Research, Practice, and Policy in Conversation",
+      "date": "November 17, 2026",
+      "url": "https://www.oise.utoronto.ca/about/events/11-17-26-reading-all-research-practice-and-policy-conversation",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -973,9 +995,9 @@
       ]
     },
     {
-      "title": "Sustainable Fashion Series: DIY Reuseables Workshop",
+      "title": "Sustainable Fashion Series: DIY Reusables Workshop",
       "date": "November 16, 2026",
-      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reuseables-workshop",
+      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reusables-workshop",
       "departments": [
         "School of the Environment"
       ],
@@ -984,9 +1006,9 @@
       ]
     },
     {
-      "title": "Sustainable Fashion Series: DIY Reusables Workshop",
+      "title": "Sustainable Fashion Series: DIY Reuseables Workshop",
       "date": "November 16, 2026",
-      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reusables-workshop",
+      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reuseables-workshop",
       "departments": [
         "School of the Environment"
       ],
@@ -1094,9 +1116,9 @@
       ]
     },
     {
-      "title": "Temerty Centre Speaker Series: Dr. Aviv Shachak (Nov. 17)",
+      "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom",
       "date": "November 17, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/temerty-centre-speaker-series-dr-aviv-shachak-nov-17",
+      "url": "https://temertymedicine.utoronto.ca/event/art-menteeship-book-talk-and-conversation-dr-maria-lamonaca-wisdom-0",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1105,9 +1127,9 @@
       ]
     },
     {
-      "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom",
+      "title": "Introduction to 3D Design: Fusion360",
       "date": "November 17, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/art-menteeship-book-talk-and-conversation-dr-maria-lamonaca-wisdom-0",
+      "url": "https://temertymedicine.utoronto.ca/event/introduction-3d-design-fusion360",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1130,17 +1152,6 @@
       "title": "Agents in Context Toronto: a MongoDB Hackathon",
       "date": "November 14, 2026",
       "url": "https://entrepreneurs.utoronto.ca/event/agents-in-context-toronto-a-mongodb-hackathon/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "School 2.0 AI Business Innovation Conference & Startup Challenge",
-      "date": "November 14, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/t-cairems-2026-national-health-datathon/",
       "departments": [
         "U of T Entrepreneurship"
       ],
@@ -1193,33 +1204,11 @@
       ]
     },
     {
-      "title": "Fall Campus Day at St. George Campus",
-      "date": "November 14, 2026",
-      "url": "https://future.utoronto.ca/fall-campus-day-u-t-st-george",
-      "departments": [
-        "U of T St. George"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "ConnectU: Connecting Students, Creating Community",
       "date": "September 21 to December 7, 2026",
       "url": "https://www.utsc.utoronto.ca/hwc/connectu-connecting-students-creating-community",
       "departments": [
         "U of T Scarborough"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Day with Emmanuel 2026",
-      "date": "November 14, 2026",
-      "url": "https://vicu.utoronto.ca/whats-happening/day-with-emmanuel-2026",
-      "departments": [
-        "Victoria College"
       ],
       "sources": [
         "U of T"
