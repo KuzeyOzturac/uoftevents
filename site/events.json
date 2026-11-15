@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-11-14T17:11:55.745357+00:00",
+  "updated_at": "2026-11-15T17:48:36.176347+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
     {
-      "title": "Day with Emmanuel 2026",
-      "date": "November 14, 2026",
-      "url": "https://vicu.utoronto.ca/whats-happening/day-with-emmanuel-2026",
+      "title": "Elvira Notari: Beyond Silence",
+      "date": "November 15, 2026",
+      "url": "https://www.humanities.utoronto.ca/events/elvira-notari-beyond-silence",
       "departments": [
-        "Victoria College"
+        "Jackman Humanities Institute"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "School 2.0 AI Business Innovation Conference & Startup Challenge",
-      "date": "November 14, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/t-cairems-2026-national-health-datathon/",
+      "title": "Vocal Fête",
+      "date": "November 15, 2026",
+      "url": "https://music.utoronto.ca/event/261115-vocal-f%C3%AAte",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Share Your Spark: Dr. Geeta Yadav in conversation with Bonnie Fuller",
+      "date": "November 16, 2026",
+      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/share-your-spark-dr-geeta-yadav-conversation-bonnie-fuller",
+      "departments": [
+        "Centre for Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Working and Walking in Solidarities",
+      "date": "November 16, 2026",
+      "url": "https://www.oise.utoronto.ca/cbse/events/11-16-26-working-and-walking-solidarities",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Share Your Spark: Dr. Geeta Yadav in conversation with Bonnie Fuller",
+      "date": "November 16, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/share-your-spark-dr-geeta-yadav-in-conversation-with-bonnie-fuller/",
       "departments": [
         "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Fall Campus Day",
-      "date": "November 14, 2026",
-      "url": "https://kpe.utoronto.ca/sat-11142026-0930/fall-campus-day",
-      "departments": [
-        "Faculty of Kinesiology & Physical Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Fall Campus Day at St. George Campus",
-      "date": "November 14, 2026",
-      "url": "https://future.utoronto.ca/fall-campus-day-u-t-st-george",
-      "departments": [
-        "U of T St. George"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "EYEBALL 2026: an exhibition of Daniels undergraduate students in Visual Studies",
-      "date": "November 14, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1794632400/eyeball-2026-exhibition-daniels-undergraduate-students-visual-studies",
-      "departments": [
-        "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
       "sources": [
         "U of T"
@@ -84,7 +84,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
       "departments": [
         "Alumni"
       ],
@@ -95,7 +95,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
       "departments": [
         "Alumni"
       ],
@@ -247,17 +247,6 @@
       ]
     },
     {
-      "title": "Share Your Spark: Dr. Geeta Yadav in conversation with Bonnie Fuller",
-      "date": "November 16, 2026",
-      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/share-your-spark-dr-geeta-yadav-conversation-bonnie-fuller",
-      "departments": [
-        "Centre for Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Info Session EF Hult Prize 2027 Qualifiers Competition at the University of Toronto",
       "date": "November 19, 2026",
       "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/info-session-ef-hult-prize-2027-qualifiers-competition-university-toronto",
@@ -313,9 +302,9 @@
       ]
     },
     {
-      "title": "BOOST! Workshop",
+      "title": "Facilitation for Researchers: How to design conversations that move collaborations forward - Nov. 25, 2026",
       "date": "November 25, 2026",
-      "url": "https://cris.utoronto.ca/event/boost-workshop/",
+      "url": "https://cris.utoronto.ca/event/facilitation-for-researchers-how-to-design-conversations-that-move-collaborations-forward-nov-25-2026/",
       "departments": [
         "Centre for Research & Innovation Support"
       ],
@@ -324,9 +313,9 @@
       ]
     },
     {
-      "title": "Facilitation for Researchers: How to design conversations that move collaborations forward - Nov. 25, 2026",
+      "title": "BOOST! Workshop",
       "date": "November 25, 2026",
-      "url": "https://cris.utoronto.ca/event/facilitation-for-researchers-how-to-design-conversations-that-move-collaborations-forward-nov-25-2026/",
+      "url": "https://cris.utoronto.ca/event/boost-workshop/",
       "departments": [
         "Centre for Research & Innovation Support"
       ],
@@ -401,17 +390,6 @@
       ]
     },
     {
-      "title": "The Toronto-London Philosophy of Perception Workshop",
-      "date": "November 13 to November 14, 2026",
-      "url": "https://philosophy.utoronto.ca/event/the-toronto-london-philosophy-of-perception-workshop/",
-      "departments": [
-        "Department of Philosophy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "UNESCO World Philosophy Day",
       "date": "November 19, 2026",
       "url": "https://philosophy.utoronto.ca/event/unesco-world-philosophy-day/",
@@ -456,11 +434,11 @@
       ]
     },
     {
-      "title": "The Trauma-Pain Connection: Exploring Chronic Pain Through a Trauma-Informed Lens",
-      "date": "November 30, 2026",
-      "url": "https://socialwork.utoronto.ca/event/the-trauma-pain-connection-exploring-chronic-pain-through-a-trauma-informed-lens/",
+      "title": "Early Modern Philosophy Research Interest Group (Raphaelle Dupont, U of T)",
+      "date": "November 27, 2026",
+      "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-raphaelle-dupont-u-of-t/",
       "departments": [
-        "Factor-Inwentash Faculty of Social Work"
+        "Department of Philosophy"
       ],
       "sources": [
         "U of T"
@@ -470,6 +448,17 @@
       "title": "FIFSW Postdoc Talks — Invisible Survivors: Addressing Sexual Violence Among Older Refugees, with Dr. Prossy Kiddu Namyalo",
       "date": "November 30, 2026",
       "url": "https://socialwork.utoronto.ca/event/postdoc-talk-invisible-survivors-addressing-sexual-violence-among-older-refugees-with-dr-prossy-kiddu-namyalo/",
+      "departments": [
+        "Factor-Inwentash Faculty of Social Work"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "The Trauma-Pain Connection: Exploring Chronic Pain Through a Trauma-Informed Lens",
+      "date": "November 30, 2026",
+      "url": "https://socialwork.utoronto.ca/event/the-trauma-pain-connection-exploring-chronic-pain-through-a-trauma-informed-lens/",
       "departments": [
         "Factor-Inwentash Faculty of Social Work"
       ],
@@ -588,22 +577,11 @@
       ]
     },
     {
-      "title": "FMUA Benefit Concert",
-      "date": "November 14, 2026",
-      "url": "https://music.utoronto.ca/event/261114-fmua-benefit-concert",
+      "title": "How to Use Networking to Learn About Careers in Kinesiology",
+      "date": "November 27, 2026",
+      "url": "https://kpe.utoronto.ca/fri-11272026-1300/how-use-networking-learn-about-careers-kinesiology",
       "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Vocal Fête",
-      "date": "November 15, 2026",
-      "url": "https://music.utoronto.ca/event/261115-vocal-f%C3%AAte",
-      "departments": [
-        "Faculty of Music"
+        "Faculty of Kinesiology & Physical Education"
       ],
       "sources": [
         "U of T"
@@ -624,6 +602,17 @@
       "title": "Noa Sarid, Violin",
       "date": "November 17, 2026",
       "url": "https://music.utoronto.ca/event/noa-sarid-violin-0",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Lobby Concert: Gospel Choir",
+      "date": "November 18, 2026",
+      "url": "https://music.utoronto.ca/event/261118-gospel-choir",
       "departments": [
         "Faculty of Music"
       ],
@@ -698,17 +687,6 @@
       ]
     },
     {
-      "title": "Elvira Notari: Beyond Silence",
-      "date": "November 15, 2026",
-      "url": "https://www.humanities.utoronto.ca/events/elvira-notari-beyond-silence",
-      "departments": [
-        "Jackman Humanities Institute"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Queer & Trans Negativity Working Group: Meeting 3",
       "date": "November 18, 2026",
       "url": "https://www.humanities.utoronto.ca/events/queer-trans-negativity-working-group-meeting-3",
@@ -742,9 +720,9 @@
       ]
     },
     {
-      "title": "Fall Campus Day at the St. George Campus",
-      "date": "November 14, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1794666600/fall-campus-day-st-george-campus",
+      "title": "Info session: Master of Architecture (MArch)",
+      "date": "November 16, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1794870000/info-session-master-architecture-march",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -764,9 +742,9 @@
       ]
     },
     {
-      "title": "Info session: Master of Architecture (MArch)",
-      "date": "November 16, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1794870000/info-session-master-architecture-march",
+      "title": "Info session: Master of Urban Design (MUD) and Post-Professional (MArch and MLA)",
+      "date": "November 18, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1795032000/info-session-master-urban-design-mud-and-post-professional-march-and-mla",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -775,9 +753,20 @@
       ]
     },
     {
-      "title": "Info session: Master of Urban Design (MUD) and Post-Professional (MArch and MLA)",
-      "date": "November 18, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1795032000/info-session-master-urban-design-mud-and-post-professional-march-and-mla",
+      "title": "The Ecology of Colour: An Artistic Journey Through the Spectrum of Light, Across Human and Insect Vision",
+      "date": "November 19, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1795131000/ecology-colour-artistic-journey-through-spectrum-light-across-human-and-insect",
+      "departments": [
+        "John H. Daniels Faculty of Architecture, Landscape, and Design"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Info session: PhD in Architecture, Landscape, and Design",
+      "date": "November 23, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1795442400/info-session-phd-architecture-landscape-and-design",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -824,17 +813,6 @@
       "url": "https://www.pharmacy.utoronto.ca/events/designing-integration-innovations-new-pharmd-curriculum",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Working and Walking in Solidarities",
-      "date": "November 16, 2026",
-      "url": "https://www.oise.utoronto.ca/cbse/events/11-16-26-working-and-walking-solidarities",
-      "departments": [
-        "Ontario Institute for Studies in Education"
       ],
       "sources": [
         "U of T"
@@ -940,9 +918,9 @@
       ]
     },
     {
-      "title": "Fall Campus Day at St. Michael’s College",
-      "date": "November 14, 2026",
-      "url": "https://stmikes.utoronto.ca/event/fall-campus-day-at-st-michaels-college",
+      "title": "Hope in Action: Building Hope: Reimagining Institutions for Human Flourishing (Continuing Education Free Webinar)",
+      "date": "November 18, 2026",
+      "url": "https://stmikes.utoronto.ca/event/hope-in-action-building-hope-reimagining-institutions-for-human-flourishing-continuing-education-free-webinar",
       "departments": [
         "St. Michael’s College"
       ],
@@ -951,9 +929,9 @@
       ]
     },
     {
-      "title": "Hope in Action: Building Hope: Reimagining Institutions for Human Flourishing (Continuing Education Free Webinar)",
-      "date": "November 18, 2026",
-      "url": "https://stmikes.utoronto.ca/event/hope-in-action-building-hope-reimagining-institutions-for-human-flourishing-continuing-education-free-webinar",
+      "title": "Collegium Meeting",
+      "date": "December 9, 2026",
+      "url": "https://stmikes.utoronto.ca/event/collegium-meeting-3",
       "departments": [
         "St. Michael’s College"
       ],
@@ -995,9 +973,9 @@
       ]
     },
     {
-      "title": "Sustainable Fashion Series: DIY Reusables Workshop",
+      "title": "Sustainable Fashion Series: DIY Reuseables Workshop",
       "date": "November 16, 2026",
-      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reusables-workshop",
+      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reuseables-workshop",
       "departments": [
         "School of the Environment"
       ],
@@ -1006,9 +984,9 @@
       ]
     },
     {
-      "title": "Sustainable Fashion Series: DIY Reuseables Workshop",
+      "title": "Sustainable Fashion Series: DIY Reusables Workshop",
       "date": "November 16, 2026",
-      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reuseables-workshop",
+      "url": "https://www.environment.utoronto.ca/events/sustainable-fashion-series-diy-reusables-workshop",
       "departments": [
         "School of the Environment"
       ],
@@ -1116,9 +1094,9 @@
       ]
     },
     {
-      "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom",
+      "title": "Temerty Centre Speaker Series: Dr. Aviv Shachak (Nov. 17)",
       "date": "November 17, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/art-menteeship-book-talk-and-conversation-dr-maria-lamonaca-wisdom-0",
+      "url": "https://temertymedicine.utoronto.ca/event/temerty-centre-speaker-series-dr-aviv-shachak-nov-17",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1127,9 +1105,9 @@
       ]
     },
     {
-      "title": "Introduction to 3D Design: Fusion360",
+      "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom",
       "date": "November 17, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/introduction-3d-design-fusion360",
+      "url": "https://temertymedicine.utoronto.ca/event/art-menteeship-book-talk-and-conversation-dr-maria-lamonaca-wisdom-0",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1143,28 +1121,6 @@
       "url": "https://www.trinity.utoronto.ca/event/jeremy-begbie-workshop-and-lecture-series-2026/",
       "departments": [
         "Trinity College"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Agents in Context Toronto: a MongoDB Hackathon",
-      "date": "November 14, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/agents-in-context-toronto-a-mongodb-hackathon/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Share Your Spark: Dr. Geeta Yadav in conversation with Bonnie Fuller",
-      "date": "November 16, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/share-your-spark-dr-geeta-yadav-in-conversation-with-bonnie-fuller/",
-      "departments": [
-        "U of T Entrepreneurship"
       ],
       "sources": [
         "U of T"
@@ -1185,6 +1141,28 @@
       "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom",
       "date": "November 17, 2026",
       "url": "https://entrepreneurs.utoronto.ca/event/the-art-of-menteeship-a-book-talk-and-conversation-with-dr-maria-lamonaca-wisdom/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom",
+      "date": "November 17, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/the-art-of-menteeship-a-book-talk-and-conversation-with-dr-maria-lamonaca-wisdom-2/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Toronto Coffee Club | Early-Stage B2B Founders & Funders",
+      "date": "November 18, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/toronto-coffee-club-early-stage-b2b-founders-funders/",
       "departments": [
         "U of T Entrepreneurship"
       ],
