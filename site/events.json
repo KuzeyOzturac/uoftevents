@@ -1,31 +1,9 @@
 {
-  "updated_at": "2026-11-15T17:48:36.176347+00:00",
+  "updated_at": "2026-11-16T21:05:40.721326+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
-    {
-      "title": "Elvira Notari: Beyond Silence",
-      "date": "November 15, 2026",
-      "url": "https://www.humanities.utoronto.ca/events/elvira-notari-beyond-silence",
-      "departments": [
-        "Jackman Humanities Institute"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Vocal Fête",
-      "date": "November 15, 2026",
-      "url": "https://music.utoronto.ca/event/261115-vocal-f%C3%AAte",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
     {
       "title": "Share Your Spark: Dr. Geeta Yadav in conversation with Bonnie Fuller",
       "date": "November 16, 2026",
@@ -60,6 +38,28 @@
       ]
     },
     {
+      "title": "Chad Bown on \"How to Win a Trade War\"",
+      "date": "November 16, 2026",
+      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-16-chad-bown/",
+      "departments": [
+        "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "What You Need To Know About IP",
+      "date": "November 16, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/what-you-need-to-know-about-ip/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Public History Lab: Hitler and Stalin Today by Professor Timothy Snyder",
       "date": "July 20 to December 18, 2026",
       "url": "https://alumni.utoronto.ca/events/public-history-lab-hitler-and-stalin-today-professor-timothy-snyder",
@@ -84,7 +84,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
       "departments": [
         "Alumni"
       ],
@@ -95,7 +95,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
       "departments": [
         "Alumni"
       ],
@@ -302,9 +302,9 @@
       ]
     },
     {
-      "title": "Facilitation for Researchers: How to design conversations that move collaborations forward - Nov. 25, 2026",
+      "title": "BOOST! Workshop",
       "date": "November 25, 2026",
-      "url": "https://cris.utoronto.ca/event/facilitation-for-researchers-how-to-design-conversations-that-move-collaborations-forward-nov-25-2026/",
+      "url": "https://cris.utoronto.ca/event/boost-workshop/",
       "departments": [
         "Centre for Research & Innovation Support"
       ],
@@ -313,9 +313,9 @@
       ]
     },
     {
-      "title": "BOOST! Workshop",
+      "title": "Facilitation for Researchers: How to design conversations that move collaborations forward - Nov. 25, 2026",
       "date": "November 25, 2026",
-      "url": "https://cris.utoronto.ca/event/boost-workshop/",
+      "url": "https://cris.utoronto.ca/event/facilitation-for-researchers-how-to-design-conversations-that-move-collaborations-forward-nov-25-2026/",
       "departments": [
         "Centre for Research & Innovation Support"
       ],
@@ -632,6 +632,17 @@
       ]
     },
     {
+      "title": "UofT Opera: Fall River, the legend of Lizzie Borden",
+      "date": "November 19, 2026",
+      "url": "https://music.utoronto.ca/event/261119-fall-river-legend-lizzie-borden",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "MathEd Forum: November 2026",
       "date": "November 28, 2026",
       "url": "http://www.fields.utoronto.ca/activities/26-27/meforum-Nov",
@@ -852,28 +863,6 @@
       ]
     },
     {
-      "title": "Reading for All: Research, Practice, and Policy in Conversation",
-      "date": "November 17, 2026",
-      "url": "https://www.oise.utoronto.ca/about/events/11-17-26-reading-all-research-practice-and-policy-conversation",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Chad Bown on \"How to Win a Trade War\"",
-      "date": "November 16, 2026",
-      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-16-chad-bown/",
-      "departments": [
-        "Rotman School of Management"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Eric So on 'The Collision: What AI Does to Us'",
       "date": "November 17, 2026",
       "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-17---eric-so/",
@@ -1061,17 +1050,6 @@
       ]
     },
     {
-      "title": "AI in Practice for Residents & Fellows Weekend Mini-Course (Final Registration Deadline: Nov.",
-      "date": "October 9 to November 15, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/ai-practice-residents-fellows-weekend-mini-course-final-registration-deadline-nov-15",
-      "departments": [
-        "Temerty Faculty of Medicine"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "IDEAS Foundations of QI: November Online Program",
       "date": "November 5 to November 19, 2026",
       "url": "https://temertymedicine.utoronto.ca/event/ideas-foundations-qi-november-online-program",
@@ -1116,22 +1094,22 @@
       ]
     },
     {
-      "title": "Jeremy Begbie – Workshop and Lecture Series 2026",
+      "title": "Introduction to 3D Design: Fusion360",
       "date": "November 17, 2026",
-      "url": "https://www.trinity.utoronto.ca/event/jeremy-begbie-workshop-and-lecture-series-2026/",
+      "url": "https://temertymedicine.utoronto.ca/event/introduction-3d-design-fusion360",
       "departments": [
-        "Trinity College"
+        "Temerty Faculty of Medicine"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "What You Need To Know About IP",
-      "date": "November 16, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/what-you-need-to-know-about-ip/",
+      "title": "Jeremy Begbie – Workshop and Lecture Series 2026",
+      "date": "November 17, 2026",
+      "url": "https://www.trinity.utoronto.ca/event/jeremy-begbie-workshop-and-lecture-series-2026/",
       "departments": [
-        "U of T Entrepreneurship"
+        "Trinity College"
       ],
       "sources": [
         "U of T"
