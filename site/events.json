@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-11-17T19:54:10.715959+00:00",
+  "updated_at": "2026-11-18T19:25:52.973530+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
     {
-      "title": "ChemE Master of Engineering (MEng) Online Application Support Drop-In",
-      "date": "November 17, 2026",
-      "url": "https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-17/",
+      "title": "Future Student Information Sessions for MScCH Program in Addiction and Mental Health",
+      "date": "November 18 to December 25, 2026",
+      "url": "https://www.dlsph.utoronto.ca/event/future-student-information-sessions-for-mscch-program-in-addiction-and-mental-health/",
       "departments": [
-        "Faculty of Applied Science and Engineering"
+        "U of T"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "2026 CDTPS Graduate Program Open House",
-      "date": "November 17, 2026",
-      "url": "https://www.cdtps.utoronto.ca/events/2026-graduate-program-open-house",
-      "departments": [
-        "Centre for Drama, Theatre and Performance Studies"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Jeremy Begbie – Workshop and Lecture Series 2026",
-      "date": "November 17, 2026",
-      "url": "https://www.trinity.utoronto.ca/event/jeremy-begbie-workshop-and-lecture-series-2026/",
-      "departments": [
-        "Trinity College"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom - Nov. 17, 2026",
-      "date": "November 17, 2026",
-      "url": "https://cris.utoronto.ca/event/the-art-of-menteeship-a-book-talk-and-conversation-with-dr-maria-lamonaca-wisdom-nov-17-2026/",
-      "departments": [
-        "Centre for Research & Innovation Support"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom",
-      "date": "November 17, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/the-art-of-menteeship-a-book-talk-and-conversation-with-dr-maria-lamonaca-wisdom/",
+      "title": "Canadian Disability Tech Summit",
+      "date": "November 18, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/canadian-disability-tech-summit/",
       "departments": [
         "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Environment Seminar Series: The Conservation Answer to Climate Change with Bob Inglis",
+      "date": "November 18, 2026",
+      "url": "https://www.environment.utoronto.ca/events/environment-seminar-series-conservation-answer-climate-change-bob-inglis",
+      "departments": [
+        "School of the Environment"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Queer & Trans Negativity Working Group: Meeting 3",
+      "date": "November 18, 2026",
+      "url": "https://www.humanities.utoronto.ca/events/queer-trans-negativity-working-group-meeting-3",
+      "departments": [
+        "Jackman Humanities Institute"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "SRI Seminar Series: Lydia T. Liu, “Expertise in age of human-AI collaboration”",
+      "date": "November 18, 2026",
+      "url": "https://srinstitute.utoronto.ca/events-archive/seminar-2026-liu",
+      "departments": [
+        "Schwartz Reisman Institute for Technology and Society"
       ],
       "sources": [
         "U of T"
@@ -236,6 +236,17 @@
       ]
     },
     {
+      "title": "Canadian Association for Theatre Research Conference",
+      "date": "May 31 to June 4, 2027",
+      "url": "https://www.cdtps.utoronto.ca/events/2027-catr",
+      "departments": [
+        "Centre for Drama, Theatre and Performance Studies"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Info Session EF Hult Prize 2027 Qualifiers Competition at the University of Toronto",
       "date": "November 19, 2026",
       "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/info-session-ef-hult-prize-2027-qualifiers-competition-university-toronto",
@@ -335,6 +346,17 @@
       ]
     },
     {
+      "title": "Community-Engaged Research from Principles to Practice 2: Understanding Cultural & Population Variation in Research - Dec. 3, 2026",
+      "date": "December 3, 2026",
+      "url": "https://cris.utoronto.ca/event/community-engaged-research-from-principles-to-practice-2-understanding-cultural-population-variation-in-research/",
+      "departments": [
+        "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "MPH in Black Health Information Sessions",
       "date": "September 24 to December 17, 2026",
       "url": "https://www.dlsph.utoronto.ca/event/mph-in-black-health-information-sessions-4/",
@@ -379,9 +401,9 @@
       ]
     },
     {
-      "title": "UNESCO World Philosophy Day",
+      "title": "UNESCO World Philosophy Day (L. A. Paul, Yale University)",
       "date": "November 19, 2026",
-      "url": "https://philosophy.utoronto.ca/event/unesco-world-philosophy-day/",
+      "url": "https://philosophy.utoronto.ca/event/unesco-world-philosophy-day-l-a-paul-yale-university/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -390,9 +412,9 @@
       ]
     },
     {
-      "title": "UNESCO World Philosophy Day (L. A. Paul, Yale University)",
+      "title": "UNESCO World Philosophy Day",
       "date": "November 19, 2026",
-      "url": "https://philosophy.utoronto.ca/event/unesco-world-philosophy-day-l-a-paul-yale-university/",
+      "url": "https://philosophy.utoronto.ca/event/unesco-world-philosophy-day/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -511,9 +533,31 @@
       ]
     },
     {
+      "title": "ChemE Master of Engineering (MEng) Online Application Support Drop-In",
+      "date": "December 8, 2026",
+      "url": "https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-12-08/",
+      "departments": [
+        "Faculty of Applied Science and Engineering"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "MoveU Skate Series",
       "date": "November 19, 2026",
       "url": "https://kpe.utoronto.ca/thu-11192026-1915/moveu-skate-series",
+      "departments": [
+        "Faculty of Kinesiology & Physical Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "KINections Beyond KPE: Intro to Grad School & Applying to Professional Programs",
+      "date": "November 19, 2026",
+      "url": "https://kpe.utoronto.ca/thu-11192026-1700/kinections-beyond-kpe-intro-grad-school-applying-professional-programs",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
       ],
@@ -555,39 +599,6 @@
       ]
     },
     {
-      "title": "How to Use Networking to Learn About Careers in Kinesiology",
-      "date": "November 27, 2026",
-      "url": "https://kpe.utoronto.ca/fri-11272026-1300/how-use-networking-learn-about-careers-kinesiology",
-      "departments": [
-        "Faculty of Kinesiology & Physical Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Tuesday Voice Series: From Requiem to Light: Remembering Sacred Bonds",
-      "date": "November 17, 2026",
-      "url": "https://music.utoronto.ca/event/261117-tuesday-voice-series",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Noa Sarid, Violin",
-      "date": "November 17, 2026",
-      "url": "https://music.utoronto.ca/event/noa-sarid-violin-0",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Jazz 12tet and Vocal Jazz Ensemble",
       "date": "November 18, 2026",
       "url": "https://music.utoronto.ca/event/261118-jazz-12tet-and-vocal-jazz-ensemble",
@@ -613,6 +624,28 @@
       "title": "Thursdays at Noon: Laureates - Innovators",
       "date": "November 19, 2026",
       "url": "https://music.utoronto.ca/event/261119-thursdays-noon",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "UofT Opera: Fall River, the legend of Lizzie Borden",
+      "date": "November 19, 2026",
+      "url": "https://music.utoronto.ca/event/261119-fall-river-legend-lizzie-borden",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Lobby Concert: West African Drumming and Dancing Ensemble",
+      "date": "November 20, 2026",
+      "url": "https://music.utoronto.ca/event/261120-west-african-drumming-and-dancing",
       "departments": [
         "Faculty of Music"
       ],
@@ -676,17 +709,6 @@
       ]
     },
     {
-      "title": "Queer & Trans Negativity Working Group: Meeting 3",
-      "date": "November 18, 2026",
-      "url": "https://www.humanities.utoronto.ca/events/queer-trans-negativity-working-group-meeting-3",
-      "departments": [
-        "Jackman Humanities Institute"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Dead Book Clubs",
       "date": "November 27, 2026",
       "url": "https://www.humanities.utoronto.ca/events/dead-book-clubs",
@@ -731,6 +753,17 @@
       ]
     },
     {
+      "title": "Info session: Master of Landscape Architecture (MLA)",
+      "date": "November 19, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1795096800/info-session-master-landscape-architecture-mla",
+      "departments": [
+        "John H. Daniels Faculty of Architecture, Landscape, and Design"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Info session: PhD in Architecture, Landscape, and Design",
       "date": "November 23, 2026",
       "url": "https://www.daniels.utoronto.ca/events/1795442400/info-session-phd-architecture-landscape-and-design",
@@ -745,17 +778,6 @@
       "title": "Graduate Open House",
       "date": "November 28, 2026",
       "url": "https://www.daniels.utoronto.ca/events/1795881600/graduate-open-house",
-      "departments": [
-        "John H. Daniels Faculty of Architecture, Landscape, and Design"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "fORUM: Rouzbeh Akhbari with Shahram Khosravi",
-      "date": "December 8, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1796772600/forum-rouzbeh-akhbari-shahram-khosravi",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -786,9 +808,9 @@
       ]
     },
     {
-      "title": "Advancing Molecular Imaging and Radiopharmaceuticals with Insights from Prostate Cancer",
+      "title": "Designing for Integration: Innovations in the New PharmD Curriculum",
       "date": "December 3, 2026",
-      "url": "https://www.pharmacy.utoronto.ca/events/advancing-molecular-imaging-and-radiopharmaceuticals-insights-prostate-cancer",
+      "url": "https://www.pharmacy.utoronto.ca/events/designing-integration-innovations-new-pharmd-curriculum",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
       ],
@@ -797,9 +819,9 @@
       ]
     },
     {
-      "title": "Designing for Integration: Innovations in the New PharmD Curriculum",
+      "title": "Advancing Molecular Imaging and Radiopharmaceuticals with Insights from Prostate Cancer",
       "date": "December 3, 2026",
-      "url": "https://www.pharmacy.utoronto.ca/events/designing-integration-innovations-new-pharmd-curriculum",
+      "url": "https://www.pharmacy.utoronto.ca/events/advancing-molecular-imaging-and-radiopharmaceuticals-insights-prostate-cancer",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
       ],
@@ -819,31 +841,20 @@
       ]
     },
     {
-      "title": "Reading for All: Research, Practice, and Policy in Conversation",
-      "date": "November 17, 2026",
-      "url": "https://www.oise.utoronto.ca/about/events/11-17-26-reading-all-research-practice-and-policy-conversation",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Working and Walking in Solidarities",
-      "date": "November 17, 2026",
-      "url": "https://www.oise.utoronto.ca/cbse/events/11-16-26-working-and-walking-solidarities",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Indigenous Land Education and Black Geographies",
       "date": "November 23, 2026",
       "url": "https://www.instagram.com/p/DfAjs-rDhtP/?utm_source=ig_web_copy_link&srtk=NTc4MTIwNjQ2YQ%3D%3D",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Conférence du CREFO",
+      "date": "November 24, 2026",
+      "url": "https://www.oise.utoronto.ca/fr/crefo/evenements/11-24-26-conference-du-crefo",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -874,11 +885,11 @@
       ]
     },
     {
-      "title": "Eric So on 'The Collision: What AI Does to Us'",
-      "date": "November 17, 2026",
-      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-17---eric-so/",
+      "title": "Beyond the Lunchbox: Food as Climate Education",
+      "date": "November 24, 2026",
+      "url": "https://www.oise.utoronto.ca/scan/events/11-24-26-beyond-lunchbox-food-climate-education",
       "departments": [
-        "Rotman School of Management"
+        "Ontario Institute for Studies in Education"
       ],
       "sources": [
         "U of T"
@@ -921,6 +932,17 @@
       "title": "Rotman Documentary Insights presents \"Setting the Tempo: Building Canada's First WNBA Franchise\"",
       "date": "December 9, 2026",
       "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/december-2026/dec-9-rotman-doc-insights-setting-the-tempo/",
+      "departments": [
+        "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "2027 Economic Outlook Roundtable: Insights on the Year Ahead",
+      "date": "January 12, 2027",
+      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2027/january-2027/jan-12---2027-economic-outlook-roundtable-insights-on-the-year-ahead/",
       "departments": [
         "Rotman School of Management"
       ],
@@ -984,17 +1006,6 @@
       ]
     },
     {
-      "title": "Environment Seminar Series: The Conservation Answer to Climate Change with Bob Inglis",
-      "date": "November 18, 2026",
-      "url": "https://www.environment.utoronto.ca/events/environment-seminar-series-conservation-answer-climate-change-bob-inglis",
-      "departments": [
-        "School of the Environment"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Environment and Health Seminar Series: Exposure to air pollution and brain health: A study of adults li...",
       "date": "February 4, 2027",
       "url": "https://www.environment.utoronto.ca/events/environment-and-health-seminar-series-exposure-air-pollution-and-brain-health-study-adults",
@@ -1022,17 +1033,6 @@
       "url": "https://www.environment.utoronto.ca/events/environment-seminar-series-only-flag-worth-flying-direct-action-and-enforcement-international",
       "departments": [
         "School of the Environment"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "SRI Seminar Series: Lydia T. Liu, “Expertise in age of human-AI collaboration”",
-      "date": "November 18, 2026",
-      "url": "https://srinstitute.utoronto.ca/events-archive/seminar-2026-liu",
-      "departments": [
-        "Schwartz Reisman Institute for Technology and Society"
       ],
       "sources": [
         "U of T"
@@ -1083,9 +1083,9 @@
       ]
     },
     {
-      "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom",
-      "date": "November 17, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/art-menteeship-book-talk-and-conversation-dr-maria-lamonaca-wisdom-0",
+      "title": "Bringing our Ancestors Home: First Nation, Inuit and Métis-led Rematriation Now!",
+      "date": "November 19, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/bringing-our-ancestors-home-first-nation-inuit-and-metis-led-rematriation-now",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1094,9 +1094,9 @@
       ]
     },
     {
-      "title": "Introduction to 3D Design: Fusion360",
-      "date": "November 17, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/introduction-3d-design-fusion360",
+      "title": "M2M Fall Symposium",
+      "date": "November 20, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/m2m-fall-symposium-2026",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1105,9 +1105,9 @@
       ]
     },
     {
-      "title": "Temerty Centre Speaker Series: Dr. Aviv Shachak (Nov. 17)",
-      "date": "November 17, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/temerty-centre-speaker-series-dr-aviv-shachak-nov-17",
+      "title": "2026 Introduction to AI for Residents & Fellows (Fall)",
+      "date": "November 21, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/2026-introduction-ai-residents-fellows-fall",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1116,11 +1116,11 @@
       ]
     },
     {
-      "title": "The Art of “Menteeship”: A Book Talk and Conversation with Dr. Maria LaMonaca Wisdom",
-      "date": "November 17, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/the-art-of-menteeship-a-book-talk-and-conversation-with-dr-maria-lamonaca-wisdom-2/",
+      "title": "Jeremy Begbie – Workshop and Lecture Series 2026",
+      "date": "November 18, 2026",
+      "url": "https://www.trinity.utoronto.ca/event/jeremy-begbie-workshop-and-lecture-series-2026/",
       "departments": [
-        "U of T Entrepreneurship"
+        "Trinity College"
       ],
       "sources": [
         "U of T"
@@ -1138,9 +1138,9 @@
       ]
     },
     {
-      "title": "Canadian Disability Tech Summit",
-      "date": "November 18, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/canadian-disability-tech-summit/",
+      "title": "Info Session EF Hult Prize 2027 Qualifiers Competition at the U of T",
+      "date": "November 19, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/info-session-ef-hult-prize-2027-qualifiers-competition-at-the-u-of-t/",
       "departments": [
         "U of T Entrepreneurship"
       ],
@@ -1149,9 +1149,20 @@
       ]
     },
     {
-      "title": "Info Session EF Hult Prize 2027 Qualifiers Competition at the U of T",
-      "date": "November 19, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/info-session-ef-hult-prize-2027-qualifiers-competition-at-the-u-of-t/",
+      "title": "Finding Product-Market Fit",
+      "date": "November 24, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/finding-product-market-fit/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Building Trust: Privacy and Data Governance in AI",
+      "date": "November 25, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/building-trust-privacy-and-data-governance-in-ai/",
       "departments": [
         "U of T Entrepreneurship"
       ],
