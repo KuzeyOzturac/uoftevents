@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-20T19:08:33.804536+00:00",
+  "updated_at": "2026-11-21T18:02:58.027316+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
     {
-      "title": "Eastern Study Group of the North American Kant Society",
-      "date": "November 20 to November 21, 2026",
-      "url": "https://philosophy.utoronto.ca/event/eastern-study-group-of-the-north-american-kant-society/",
+      "title": "2026 Introduction to AI for Residents & Fellows (Fall)",
+      "date": "November 21, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/2026-introduction-ai-residents-fellows-fall",
       "departments": [
-        "Department of Philosophy"
+        "Temerty Faculty of Medicine"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "U of T alumni at GameTime Social",
-      "date": "November 20, 2026",
-      "url": "https://www.engineering.utoronto.ca/event/u-of-t-alumni-at-gametime-social/",
+      "title": "UofT Opera: Fall River, the legend of Lizzie Borden",
+      "date": "November 21, 2026",
+      "url": "https://music.utoronto.ca/event/261121-fall-river-legend-lizzie-borden",
       "departments": [
-        "Faculty of Applied Science and Engineering"
+        "Faculty of Music"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "BMO Lab Fall 2026 Lectures: TreaAndrea Russworm",
-      "date": "November 20, 2026",
-      "url": "https://www.cdtps.utoronto.ca/events/bmo-lab-fall-2026-lectures-treaandrea-russworm",
+      "title": "Tenor-Bass Choral Festival",
+      "date": "November 21, 2026",
+      "url": "https://music.utoronto.ca/event/261121-tenor-bass-choral-festival",
       "departments": [
-        "Centre for Drama, Theatre and Performance Studies"
+        "Faculty of Music"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "“From Snake Charmers to Technologists” – Computing and Caste Modernity in India",
-      "date": "November 20, 2026",
-      "url": "https://munkschool.utoronto.ca/event/snake-charmers-technologists-computing-and-caste-modernity-india",
+      "title": "Student Family Fun Night Out: Varsity Basketball and Pizza Event",
+      "date": "November 21, 2026",
+      "url": "https://familycare.utoronto.ca/our-events/",
       "departments": [
         "U of T"
       ],
@@ -49,11 +49,11 @@
       ]
     },
     {
-      "title": "Public Health Sciences Research Symposium",
-      "date": "November 20, 2026",
-      "url": "https://www.dlsph.utoronto.ca/event/public-health-sciences-research-symposium/",
+      "title": "UofT Opera: Fall River, the legend of Lizzie Borden *NEW START TIME*",
+      "date": "November 22, 2026",
+      "url": "https://music.utoronto.ca/event/261122-fall-river-legend-lizzie-borden",
       "departments": [
-        "U of T"
+        "Faculty of Music"
       ],
       "sources": [
         "U of T"
@@ -84,7 +84,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
       "departments": [
         "Alumni"
       ],
@@ -95,7 +95,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
       "departments": [
         "Alumni"
       ],
@@ -368,6 +368,17 @@
       ]
     },
     {
+      "title": "Eastern Study Group of the North American Kant Society",
+      "date": "November 20 to November 21, 2026",
+      "url": "https://philosophy.utoronto.ca/event/eastern-study-group-of-the-north-american-kant-society/",
+      "departments": [
+        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Early Modern Philosophy Research Interest Group (Raphaelle Dupont, U of T)",
       "date": "November 27, 2026",
       "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-raphaelle-dupont-u-of-t/",
@@ -412,9 +423,9 @@
       ]
     },
     {
-      "title": "The Trauma-Pain Connection: Exploring Chronic Pain Through a Trauma-Informed Lens",
+      "title": "FIFSW Postdoc Talks — Invisible Survivors: Addressing Sexual Violence Among Older Refugees, with Dr. Prossy Kiddu Namyalo",
       "date": "November 30, 2026",
-      "url": "https://socialwork.utoronto.ca/event/the-trauma-pain-connection-exploring-chronic-pain-through-a-trauma-informed-lens/",
+      "url": "https://socialwork.utoronto.ca/event/postdoc-talk-invisible-survivors-addressing-sexual-violence-among-older-refugees-with-dr-prossy-kiddu-namyalo/",
       "departments": [
         "Factor-Inwentash Faculty of Social Work"
       ],
@@ -423,9 +434,9 @@
       ]
     },
     {
-      "title": "FIFSW Postdoc Talks — Invisible Survivors: Addressing Sexual Violence Among Older Refugees, with Dr. Prossy Kiddu Namyalo",
+      "title": "The Trauma-Pain Connection: Exploring Chronic Pain Through a Trauma-Informed Lens",
       "date": "November 30, 2026",
-      "url": "https://socialwork.utoronto.ca/event/postdoc-talk-invisible-survivors-addressing-sexual-violence-among-older-refugees-with-dr-prossy-kiddu-namyalo/",
+      "url": "https://socialwork.utoronto.ca/event/the-trauma-pain-connection-exploring-chronic-pain-through-a-trauma-informed-lens/",
       "departments": [
         "Factor-Inwentash Faculty of Social Work"
       ],
@@ -489,11 +500,11 @@
       ]
     },
     {
-      "title": "KPE 401 Info Session: International Development Through Sport",
-      "date": "November 20, 2026",
-      "url": "https://kpe.utoronto.ca/fri-11202026-2300/kpe-401-info-session-international-development-through-sport",
+      "title": "ChemE Master of Engineering (MEng) Online Application Support Drop-In",
+      "date": "December 15, 2026",
+      "url": "https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-12-15/",
       "departments": [
-        "Faculty of Kinesiology & Physical Education"
+        "Faculty of Applied Science and Engineering"
       ],
       "sources": [
         "U of T"
@@ -503,17 +514,6 @@
       "title": "She Moves: Goldring Open House",
       "date": "November 26, 2026",
       "url": "https://kpe.utoronto.ca/thu-11262026-1600/she-moves-goldring-open-house",
-      "departments": [
-        "Faculty of Kinesiology & Physical Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Experiential Learning Info Session",
-      "date": "November 27, 2026",
-      "url": "https://kpe.utoronto.ca/fri-11272026-1100/experiential-learning-info-session",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
       ],
@@ -533,6 +533,17 @@
       ]
     },
     {
+      "title": "Experiential Learning Info Session",
+      "date": "November 27, 2026",
+      "url": "https://kpe.utoronto.ca/fri-11272026-1100/experiential-learning-info-session",
+      "departments": [
+        "Faculty of Kinesiology & Physical Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Betting Their Futures: Gambling Harm and the Integrity of Canadian University Sport",
       "date": "December 8, 2026",
       "url": "https://kpe.utoronto.ca/tue-12082026-1800/betting-their-futures-gambling-harm-and-integrity-canadian-university-sport",
@@ -544,9 +555,9 @@
       ]
     },
     {
-      "title": "Masterclass: Sam Loeck, double bass",
-      "date": "November 20, 2026",
-      "url": "https://music.utoronto.ca/event/261120-masterclass-sam-loeck",
+      "title": "University of Toronto Percussion Ensemble Presents: Early Pioneers",
+      "date": "November 23, 2026",
+      "url": "https://music.utoronto.ca/event/261123-percussion-ensemble",
       "departments": [
         "Faculty of Music"
       ],
@@ -555,42 +566,9 @@
       ]
     },
     {
-      "title": "UofT Opera: Fall River, the legend of Lizzie Borden",
-      "date": "November 20, 2026",
-      "url": "https://music.utoronto.ca/event/261120-fall-river-legend-lizzie-borden",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Lobby Concert: West African Drumming and Dancing Ensemble",
-      "date": "November 20, 2026",
-      "url": "https://music.utoronto.ca/event/261120-west-african-drumming-and-dancing",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Tenor-Bass Choral Festival",
-      "date": "November 21, 2026",
-      "url": "https://music.utoronto.ca/event/261121-tenor-bass-choral-festival",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "UofT Opera: Fall River, the legend of Lizzie Borden",
-      "date": "November 21, 2026",
-      "url": "https://music.utoronto.ca/event/261121-fall-river-legend-lizzie-borden",
+      "title": "Adrian Ross, Organ",
+      "date": "November 24, 2026",
+      "url": "https://music.utoronto.ca/event/adrian-ross-organ",
       "departments": [
         "Faculty of Music"
       ],
@@ -698,6 +676,17 @@
       ]
     },
     {
+      "title": "Q&A for Master of Landscape Architecture (MLA) applicants",
+      "date": "November 24, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1795561200/qa-master-landscape-architecture-mla-applicants",
+      "departments": [
+        "John H. Daniels Faculty of Architecture, Landscape, and Design"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Graduate Open House",
       "date": "November 28, 2026",
       "url": "https://www.daniels.utoronto.ca/events/1795881600/graduate-open-house",
@@ -731,9 +720,9 @@
       ]
     },
     {
-      "title": "Advancing Molecular Imaging and Radiopharmaceuticals with Insights from Prostate Cancer",
+      "title": "Designing for Integration: Innovations in the New PharmD Curriculum",
       "date": "December 3, 2026",
-      "url": "https://www.pharmacy.utoronto.ca/events/advancing-molecular-imaging-and-radiopharmaceuticals-insights-prostate-cancer",
+      "url": "https://www.pharmacy.utoronto.ca/events/designing-integration-innovations-new-pharmd-curriculum",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
       ],
@@ -742,9 +731,9 @@
       ]
     },
     {
-      "title": "Designing for Integration: Innovations in the New PharmD Curriculum",
+      "title": "Advancing Molecular Imaging and Radiopharmaceuticals with Insights from Prostate Cancer",
       "date": "December 3, 2026",
-      "url": "https://www.pharmacy.utoronto.ca/events/designing-integration-innovations-new-pharmd-curriculum",
+      "url": "https://www.pharmacy.utoronto.ca/events/advancing-molecular-imaging-and-radiopharmaceuticals-insights-prostate-cancer",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
       ],
@@ -775,28 +764,6 @@
       ]
     },
     {
-      "title": "EQUAL AI Forum for K-12 Education: Learning and Teaching with AI",
-      "date": "November 24, 2026",
-      "url": "https://www.oise.utoronto.ca/about/events/11-24-26-equal-ai-forum-k-12-education-learning-and-teaching-ai",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Conférence du CREFO",
-      "date": "November 24, 2026",
-      "url": "https://www.oise.utoronto.ca/fr/crefo/evenements/11-24-26-conference-du-crefo",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "InspirEd Talk: Connecting Theory to Practice",
       "date": "November 24, 2026",
       "url": "https://www.oise.utoronto.ca/about/events/11-24-26-inspired-talk-connecting-theory-practice",
@@ -811,6 +778,28 @@
       "title": "Everybody's Child Is Yours: Early Learning and a Strong Economy",
       "date": "November 24, 2026",
       "url": "https://www.eventbrite.ca/e/everybodys-child-is-yours-early-learning-and-a-strong-economy-tickets-2002463520294?aff=ebdssbehomepeforyou",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Beyond the Lunchbox: Food as Climate Education",
+      "date": "November 24, 2026",
+      "url": "https://www.oise.utoronto.ca/scan/events/11-24-26-beyond-lunchbox-food-climate-education",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "EQUAL AI Forum for K-12 Education: Learning and Teaching with AI",
+      "date": "November 24, 2026",
+      "url": "https://www.oise.utoronto.ca/about/events/11-24-26-equal-ai-forum-k-12-education-learning-and-teaching-ai",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -874,9 +863,9 @@
       ]
     },
     {
-      "title": "Collegium Meeting",
+      "title": "SMC Christmas Market",
       "date": "December 9, 2026",
-      "url": "https://stmikes.utoronto.ca/event/collegium-meeting-3",
+      "url": "https://stmikes.utoronto.ca/event/smc-christmas-market",
       "departments": [
         "St. Michael’s College"
       ],
@@ -885,9 +874,9 @@
       ]
     },
     {
-      "title": "SMC Christmas Market",
+      "title": "Collegium Meeting",
       "date": "December 9, 2026",
-      "url": "https://stmikes.utoronto.ca/event/smc-christmas-market",
+      "url": "https://stmikes.utoronto.ca/event/collegium-meeting-3",
       "departments": [
         "St. Michael’s College"
       ],
@@ -984,28 +973,6 @@
       ]
     },
     {
-      "title": "M2M Fall Symposium",
-      "date": "November 20, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/m2m-fall-symposium-2026",
-      "departments": [
-        "Temerty Faculty of Medicine"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "2026 Introduction to AI for Residents & Fellows (Fall)",
-      "date": "November 21, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/2026-introduction-ai-residents-fellows-fall",
-      "departments": [
-        "Temerty Faculty of Medicine"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "MITO2026 International Conference",
       "date": "November 30 to December 1, 2026",
       "url": "https://temertymedicine.utoronto.ca/event/mito2026-international-conference",
@@ -1017,20 +984,86 @@
       ]
     },
     {
-      "title": "Finding Product-Market Fit",
-      "date": "November 24, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/finding-product-market-fit/",
+      "title": "The Art of Intercultural Education - Dr. Cindy M2M Fall 2026 Introduction to AI for Residents & Fellows AI in Practice for Medical Residents & Fellows Mini-Course AI in Practice for Residents & Fellows Weekend Mini-Course (Early-Bird Deadline: Oc...",
+      "date": "December 3, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/temerty-centre-speaker-series-dr-amir-rahmani-dr-stephen-schueller-dec-3",
       "departments": [
-        "U of T Entrepreneurship"
+        "Temerty Faculty of Medicine"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Building Trust: Privacy and Data Governance in AI",
-      "date": "November 25, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/building-trust-privacy-and-data-governance-in-ai/",
+      "title": "Bill Graham Centre | Canada and the Vietnam War: 1963-1968 (opens in new tab)",
+      "date": "November 23, 2026",
+      "url": "https://billgrahamcentre.utoronto.ca/events/canada-the-vietnam-war-the-first-five-years-1963-1968",
+      "departments": [
+        "Trinity College"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Diplomacy Around the World: A Conversation with Ambassador Tamara Mawhinney",
+      "date": "November 24, 2026",
+      "url": "https://www.trinity.utoronto.ca/event/diplomacy-around-the-world-tamara-mawhinney/",
+      "departments": [
+        "Trinity College"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Canadian Peacekeeping: National identity and International Service with Prof. Walter Dorn (opens in new tab)",
+      "date": "November 26, 2026",
+      "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEBGddLDQ5D9Js3KZ7H7VIiJUOVpZTFhYRjg0UjZRSDEzTFM3UVBDWDhUUS4u",
+      "departments": [
+        "Trinity College"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Friends of the Library Drop-In Appreciation Event for Book Sale Volunteers",
+      "date": "November 26, 2026",
+      "url": "https://www.trinity.utoronto.ca/event/friends-of-the-library-drop-in-appreciation-event-for-book-sale-volunteers/",
+      "departments": [
+        "Trinity College"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Margaret MacMillan Trinity One Program: Virtual Information Session for Prospective Students (opens in new tab)",
+      "date": "November 28, 2026",
+      "url": "https://forms.gle/B4KDtHtWx9xDtuTp8",
+      "departments": [
+        "Trinity College"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "We're hiring! University College 2027-2028 Residence and Off Campus Student Staff Applications",
+      "date": "December 1, 2026",
+      "url": "https://www.uc.utoronto.ca/student-staff-hiring-2027/28",
+      "departments": [
+        "University College"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Finding Product-Market Fit",
+      "date": "November 24, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/finding-product-market-fit/",
       "departments": [
         "U of T Entrepreneurship"
       ],
@@ -1064,6 +1097,17 @@
       "title": "CRAFT Industry Open House",
       "date": "November 25, 2026",
       "url": "https://entrepreneurs.utoronto.ca/event/craft-industry-open-house/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Building Trust: Privacy and Data Governance in AI",
+      "date": "November 25, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/building-trust-privacy-and-data-governance-in-ai/",
       "departments": [
         "U of T Entrepreneurship"
       ],
