@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-11-21T18:02:58.027316+00:00",
+  "updated_at": "2026-11-22T18:33:57.120288+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
-    {
-      "title": "2026 Introduction to AI for Residents & Fellows (Fall)",
-      "date": "November 21, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/2026-introduction-ai-residents-fellows-fall",
-      "departments": [
-        "Temerty Faculty of Medicine"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "UofT Opera: Fall River, the legend of Lizzie Borden",
-      "date": "November 21, 2026",
-      "url": "https://music.utoronto.ca/event/261121-fall-river-legend-lizzie-borden",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Tenor-Bass Choral Festival",
-      "date": "November 21, 2026",
-      "url": "https://music.utoronto.ca/event/261121-tenor-bass-choral-festival",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Student Family Fun Night Out: Varsity Basketball and Pizza Event",
-      "date": "November 21, 2026",
-      "url": "https://familycare.utoronto.ca/our-events/",
-      "departments": [
-        "U of T"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
     {
       "title": "UofT Opera: Fall River, the legend of Lizzie Borden *NEW START TIME*",
       "date": "November 22, 2026",
       "url": "https://music.utoronto.ca/event/261122-fall-river-legend-lizzie-borden",
       "departments": [
         "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Indigenous Land Education and Black Geographies",
+      "date": "November 23, 2026",
+      "url": "https://www.instagram.com/p/DfAjs-rDhtP/?utm_source=ig_web_copy_link&srtk=NTc4MTIwNjQ2YQ%3D%3D",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Frédéric Dalsace on \"Clean Winners\"",
+      "date": "November 23, 2026",
+      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-23---frederic-dalsace/",
+      "departments": [
+        "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Info session: PhD in Architecture, Landscape, and Design",
+      "date": "November 23, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1795442400/info-session-phd-architecture-landscape-and-design",
+      "departments": [
+        "John H. Daniels Faculty of Architecture, Landscape, and Design"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Black Canadian History, Education, and Identity Guest Speaker Discussion – OISE",
+      "date": "November 23, 2026",
+      "url": "https://brn.utoronto.ca/event/black-canadian-history-education-and-identity-guest-speaker-discussion-oise/",
+      "departments": [
+        "Black Research Network"
       ],
       "sources": [
         "U of T"
@@ -84,7 +84,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
       "departments": [
         "Alumni"
       ],
@@ -95,7 +95,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
       "departments": [
         "Alumni"
       ],
@@ -109,17 +109,6 @@
       "url": "https://alumni.utoronto.ca/events/fall-engineering-outreach-programs",
       "departments": [
         "Alumni"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Black Canadian History, Education, and Identity Guest Speaker Discussion – OISE",
-      "date": "November 23, 2026",
-      "url": "https://brn.utoronto.ca/event/black-canadian-history-education-and-identity-guest-speaker-discussion-oise/",
-      "departments": [
-        "Black Research Network"
       ],
       "sources": [
         "U of T"
@@ -368,9 +357,9 @@
       ]
     },
     {
-      "title": "Eastern Study Group of the North American Kant Society",
-      "date": "November 20 to November 21, 2026",
-      "url": "https://philosophy.utoronto.ca/event/eastern-study-group-of-the-north-american-kant-society/",
+      "title": "Global Philosophy Research Group (Monica Z. X. Ding, U of T)",
+      "date": "November 27, 2026",
+      "url": "https://philosophy.utoronto.ca/event/global-philosophy-research-group-monica-z-x-ding-u-of-t/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -382,17 +371,6 @@
       "title": "Early Modern Philosophy Research Interest Group (Raphaelle Dupont, U of T)",
       "date": "November 27, 2026",
       "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-raphaelle-dupont-u-of-t/",
-      "departments": [
-        "Department of Philosophy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Global Philosophy Research Group (Monica Z. X. Ding, U of T)",
-      "date": "November 27, 2026",
-      "url": "https://philosophy.utoronto.ca/event/global-philosophy-research-group-monica-z-x-ding-u-of-t/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -415,6 +393,17 @@
       "title": "Kant & Post-Kantian German Philosophy Group Talk (Giuliano Infantino)",
       "date": "December 4, 2026",
       "url": "https://philosophy.utoronto.ca/event/kant-post-kantian-german-philosophy-group-talk-giuliano-infantino/",
+      "departments": [
+        "Department of Philosophy"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Logic and Philosophy of Science Group (Gordon Belot, Michigan)",
+      "date": "December 8, 2026",
+      "url": "https://philosophy.utoronto.ca/event/logic-and-philosophy-of-science-group-gordon-belot-michigan/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -522,9 +511,9 @@
       ]
     },
     {
-      "title": "How to Use Networking to Learn About Careers in Kinesiology",
+      "title": "Experiential Learning Info Session",
       "date": "November 27, 2026",
-      "url": "https://kpe.utoronto.ca/fri-11272026-1300/how-use-networking-learn-about-careers-kinesiology",
+      "url": "https://kpe.utoronto.ca/fri-11272026-1100/experiential-learning-info-session",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
       ],
@@ -533,9 +522,9 @@
       ]
     },
     {
-      "title": "Experiential Learning Info Session",
+      "title": "How to Use Networking to Learn About Careers in Kinesiology",
       "date": "November 27, 2026",
-      "url": "https://kpe.utoronto.ca/fri-11272026-1100/experiential-learning-info-session",
+      "url": "https://kpe.utoronto.ca/fri-11272026-1300/how-use-networking-learn-about-careers-kinesiology",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
       ],
@@ -569,6 +558,28 @@
       "title": "Adrian Ross, Organ",
       "date": "November 24, 2026",
       "url": "https://music.utoronto.ca/event/adrian-ross-organ",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Student Composers Concert",
+      "date": "November 24, 2026",
+      "url": "https://music.utoronto.ca/event/261124-student-composers",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Tuesday Voice Series: 1st Year Undergraduate Singers in Performance",
+      "date": "November 24, 2026",
+      "url": "https://music.utoronto.ca/event/261124-tuesday-voice-series",
       "departments": [
         "Faculty of Music"
       ],
@@ -648,17 +659,6 @@
       "url": "https://www.humanities.utoronto.ca/events/over-and-over-again-jhi-2026-27-art-exhibition",
       "departments": [
         "Jackman Humanities Institute"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Info session: PhD in Architecture, Landscape, and Design",
-      "date": "November 23, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1795442400/info-session-phd-architecture-landscape-and-design",
-      "departments": [
-        "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
       "sources": [
         "U of T"
@@ -753,17 +753,6 @@
       ]
     },
     {
-      "title": "Indigenous Land Education and Black Geographies",
-      "date": "November 23, 2026",
-      "url": "https://www.instagram.com/p/DfAjs-rDhtP/?utm_source=ig_web_copy_link&srtk=NTc4MTIwNjQ2YQ%3D%3D",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "InspirEd Talk: Connecting Theory to Practice",
       "date": "November 24, 2026",
       "url": "https://www.oise.utoronto.ca/about/events/11-24-26-inspired-talk-connecting-theory-practice",
@@ -802,17 +791,6 @@
       "url": "https://www.oise.utoronto.ca/about/events/11-24-26-equal-ai-forum-k-12-education-learning-and-teaching-ai",
       "departments": [
         "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Frédéric Dalsace on \"Clean Winners\"",
-      "date": "November 23, 2026",
-      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-23---frederic-dalsace/",
-      "departments": [
-        "Rotman School of Management"
       ],
       "sources": [
         "U of T"
@@ -863,9 +841,9 @@
       ]
     },
     {
-      "title": "SMC Christmas Market",
+      "title": "Collegium Meeting",
       "date": "December 9, 2026",
-      "url": "https://stmikes.utoronto.ca/event/smc-christmas-market",
+      "url": "https://stmikes.utoronto.ca/event/collegium-meeting-3",
       "departments": [
         "St. Michael’s College"
       ],
@@ -874,9 +852,9 @@
       ]
     },
     {
-      "title": "Collegium Meeting",
+      "title": "SMC Christmas Market",
       "date": "December 9, 2026",
-      "url": "https://stmikes.utoronto.ca/event/collegium-meeting-3",
+      "url": "https://stmikes.utoronto.ca/event/smc-christmas-market",
       "departments": [
         "St. Michael’s College"
       ],
@@ -1072,28 +1050,6 @@
       ]
     },
     {
-      "title": "Prototype Playground",
-      "date": "November 25, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/prototype-playground/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "AI Funding for 2027: Canada & US",
-      "date": "November 25, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/ai-funding-for-2027-canada-us/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "CRAFT Industry Open House",
       "date": "November 25, 2026",
       "url": "https://entrepreneurs.utoronto.ca/event/craft-industry-open-house/",
@@ -1108,6 +1064,28 @@
       "title": "Building Trust: Privacy and Data Governance in AI",
       "date": "November 25, 2026",
       "url": "https://entrepreneurs.utoronto.ca/event/building-trust-privacy-and-data-governance-in-ai/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Prototype Playground",
+      "date": "November 25, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/prototype-playground/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "AI Funding for 2027: Canada & US",
+      "date": "November 25, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/ai-funding-for-2027-canada-us/",
       "departments": [
         "U of T Entrepreneurship"
       ],
