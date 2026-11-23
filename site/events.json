@@ -1,20 +1,9 @@
 {
-  "updated_at": "2026-11-22T18:33:57.120288+00:00",
+  "updated_at": "2026-11-23T22:43:01.448782+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
-    {
-      "title": "UofT Opera: Fall River, the legend of Lizzie Borden *NEW START TIME*",
-      "date": "November 22, 2026",
-      "url": "https://music.utoronto.ca/event/261122-fall-river-legend-lizzie-borden",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
     {
       "title": "Indigenous Land Education and Black Geographies",
       "date": "November 23, 2026",
@@ -54,6 +43,17 @@
       "url": "https://brn.utoronto.ca/event/black-canadian-history-education-and-identity-guest-speaker-discussion-oise/",
       "departments": [
         "Black Research Network"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "University of Toronto Percussion Ensemble Presents: Early Pioneers",
+      "date": "November 23, 2026",
+      "url": "https://music.utoronto.ca/event/261123-percussion-ensemble",
+      "departments": [
+        "Faculty of Music"
       ],
       "sources": [
         "U of T"
@@ -357,9 +357,9 @@
       ]
     },
     {
-      "title": "Global Philosophy Research Group (Monica Z. X. Ding, U of T)",
+      "title": "Early Modern Philosophy Research Interest Group (Raphaelle Dupont, U of T)",
       "date": "November 27, 2026",
-      "url": "https://philosophy.utoronto.ca/event/global-philosophy-research-group-monica-z-x-ding-u-of-t/",
+      "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-raphaelle-dupont-u-of-t/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -368,9 +368,9 @@
       ]
     },
     {
-      "title": "Early Modern Philosophy Research Interest Group (Raphaelle Dupont, U of T)",
+      "title": "Global Philosophy Research Group (Monica Z. X. Ding, U of T)",
       "date": "November 27, 2026",
-      "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-raphaelle-dupont-u-of-t/",
+      "url": "https://philosophy.utoronto.ca/event/global-philosophy-research-group-monica-z-x-ding-u-of-t/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -511,9 +511,9 @@
       ]
     },
     {
-      "title": "Experiential Learning Info Session",
+      "title": "How to Use Networking to Learn About Careers in Kinesiology",
       "date": "November 27, 2026",
-      "url": "https://kpe.utoronto.ca/fri-11272026-1100/experiential-learning-info-session",
+      "url": "https://kpe.utoronto.ca/fri-11272026-1300/how-use-networking-learn-about-careers-kinesiology",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
       ],
@@ -522,9 +522,9 @@
       ]
     },
     {
-      "title": "How to Use Networking to Learn About Careers in Kinesiology",
+      "title": "Experiential Learning Info Session",
       "date": "November 27, 2026",
-      "url": "https://kpe.utoronto.ca/fri-11272026-1300/how-use-networking-learn-about-careers-kinesiology",
+      "url": "https://kpe.utoronto.ca/fri-11272026-1100/experiential-learning-info-session",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
       ],
@@ -538,17 +538,6 @@
       "url": "https://kpe.utoronto.ca/tue-12082026-1800/betting-their-futures-gambling-harm-and-integrity-canadian-university-sport",
       "departments": [
         "Faculty of Kinesiology & Physical Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "University of Toronto Percussion Ensemble Presents: Early Pioneers",
-      "date": "November 23, 2026",
-      "url": "https://music.utoronto.ca/event/261123-percussion-ensemble",
-      "departments": [
-        "Faculty of Music"
       ],
       "sources": [
         "U of T"
@@ -580,6 +569,17 @@
       "title": "Tuesday Voice Series: 1st Year Undergraduate Singers in Performance",
       "date": "November 24, 2026",
       "url": "https://music.utoronto.ca/event/261124-tuesday-voice-series",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "RPO Grad Workshop #5 - CGRS M Peer Review",
+      "date": "November 25, 2026",
+      "url": "https://music.utoronto.ca/event/rpo-grad-workshop-5-cgrs-m-peer-review",
       "departments": [
         "Faculty of Music"
       ],
@@ -753,28 +753,6 @@
       ]
     },
     {
-      "title": "InspirEd Talk: Connecting Theory to Practice",
-      "date": "November 24, 2026",
-      "url": "https://www.oise.utoronto.ca/about/events/11-24-26-inspired-talk-connecting-theory-practice",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Everybody's Child Is Yours: Early Learning and a Strong Economy",
-      "date": "November 24, 2026",
-      "url": "https://www.eventbrite.ca/e/everybodys-child-is-yours-early-learning-and-a-strong-economy-tickets-2002463520294?aff=ebdssbehomepeforyou",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Beyond the Lunchbox: Food as Climate Education",
       "date": "November 24, 2026",
       "url": "https://www.oise.utoronto.ca/scan/events/11-24-26-beyond-lunchbox-food-climate-education",
@@ -789,6 +767,28 @@
       "title": "EQUAL AI Forum for K-12 Education: Learning and Teaching with AI",
       "date": "November 24, 2026",
       "url": "https://www.oise.utoronto.ca/about/events/11-24-26-equal-ai-forum-k-12-education-learning-and-teaching-ai",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Conférence du CREFO",
+      "date": "November 24, 2026",
+      "url": "https://www.oise.utoronto.ca/fr/crefo/evenements/11-24-26-conference-du-crefo",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "InspirEd Talk: Connecting Theory to Practice",
+      "date": "November 24, 2026",
+      "url": "https://www.oise.utoronto.ca/about/events/11-24-26-inspired-talk-connecting-theory-practice",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -841,9 +841,9 @@
       ]
     },
     {
-      "title": "Collegium Meeting",
+      "title": "SMC Christmas Market",
       "date": "December 9, 2026",
-      "url": "https://stmikes.utoronto.ca/event/collegium-meeting-3",
+      "url": "https://stmikes.utoronto.ca/event/smc-christmas-market",
       "departments": [
         "St. Michael’s College"
       ],
@@ -852,9 +852,9 @@
       ]
     },
     {
-      "title": "SMC Christmas Market",
+      "title": "Collegium Meeting",
       "date": "December 9, 2026",
-      "url": "https://stmikes.utoronto.ca/event/smc-christmas-market",
+      "url": "https://stmikes.utoronto.ca/event/collegium-meeting-3",
       "departments": [
         "St. Michael’s College"
       ],
@@ -962,9 +962,20 @@
       ]
     },
     {
-      "title": "The Art of Intercultural Education - Dr. Cindy M2M Fall 2026 Introduction to AI for Residents & Fellows AI in Practice for Medical Residents & Fellows Mini-Course AI in Practice for Residents & Fellows Weekend Mini-Course (Early-Bird Deadline: Oc...",
+      "title": "Temerty Centre Speaker Series: Dr. Amir Rahmani & Dr. Stephen Schueller (Dec. 3)",
       "date": "December 3, 2026",
       "url": "https://temertymedicine.utoronto.ca/event/temerty-centre-speaker-series-dr-amir-rahmani-dr-stephen-schueller-dec-3",
+      "departments": [
+        "Temerty Faculty of Medicine"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Deadline to submit detailed appraisal section of Royal Society of Canada nominations to RIHSE for editorial support",
+      "date": "December 4, 2026",
+      "url": "https://temertymedicine.utoronto.ca/event/deadline-submit-detailed-appraisal-section-royal-society-canada-nominations-rihse-editorial",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -995,9 +1006,9 @@
       ]
     },
     {
-      "title": "Canadian Peacekeeping: National identity and International Service with Prof. Walter Dorn (opens in new tab)",
+      "title": "Friends of the Library Drop-In Appreciation Event for Book Sale Volunteers",
       "date": "November 26, 2026",
-      "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEBGddLDQ5D9Js3KZ7H7VIiJUOVpZTFhYRjg0UjZRSDEzTFM3UVBDWDhUUS4u",
+      "url": "https://www.trinity.utoronto.ca/event/friends-of-the-library-drop-in-appreciation-event-for-book-sale-volunteers/",
       "departments": [
         "Trinity College"
       ],
@@ -1006,9 +1017,9 @@
       ]
     },
     {
-      "title": "Friends of the Library Drop-In Appreciation Event for Book Sale Volunteers",
+      "title": "Canadian Peacekeeping: National identity and International Service with Prof. Walter Dorn (opens in new tab)",
       "date": "November 26, 2026",
-      "url": "https://www.trinity.utoronto.ca/event/friends-of-the-library-drop-in-appreciation-event-for-book-sale-volunteers/",
+      "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEBGddLDQ5D9Js3KZ7H7VIiJUOVpZTFhYRjg0UjZRSDEzTFM3UVBDWDhUUS4u",
       "departments": [
         "Trinity College"
       ],
