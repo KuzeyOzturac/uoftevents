@@ -1,13 +1,46 @@
 {
-  "updated_at": "2026-11-23T22:43:01.448782+00:00",
+  "updated_at": "2026-11-24T21:20:46.671926+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
     {
-      "title": "Indigenous Land Education and Black Geographies",
-      "date": "November 23, 2026",
-      "url": "https://www.instagram.com/p/DfAjs-rDhtP/?utm_source=ig_web_copy_link&srtk=NTc4MTIwNjQ2YQ%3D%3D",
+      "title": "ChemE Master of Engineering (MEng) Online Application Support Drop-In",
+      "date": "November 24, 2026",
+      "url": "https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-24/",
+      "departments": [
+        "Faculty of Applied Science and Engineering"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "The Famine That Wasn't Forgotten: 90 Years of Transnational Holodomor Memory Activism",
+      "date": "November 24, 2026",
+      "url": "https://munkschool.utoronto.ca/event/famine-wasnt-forgotten-90-years-transnational-holodomor-memory-activism",
+      "departments": [
+        "U of T"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Finding Product-Market Fit",
+      "date": "November 24, 2026",
+      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/finding-product-market-fit",
+      "departments": [
+        "Centre for Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "EQUAL AI Forum for K-12 Education: Learning and Teaching with AI",
+      "date": "November 24, 2026",
+      "url": "https://www.oise.utoronto.ca/about/events/11-24-26-equal-ai-forum-k-12-education-learning-and-teaching-ai",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -16,44 +49,11 @@
       ]
     },
     {
-      "title": "Frédéric Dalsace on \"Clean Winners\"",
-      "date": "November 23, 2026",
-      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/nov-23---frederic-dalsace/",
+      "title": "Finding Product-Market Fit",
+      "date": "November 24, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/finding-product-market-fit/",
       "departments": [
-        "Rotman School of Management"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Info session: PhD in Architecture, Landscape, and Design",
-      "date": "November 23, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1795442400/info-session-phd-architecture-landscape-and-design",
-      "departments": [
-        "John H. Daniels Faculty of Architecture, Landscape, and Design"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Black Canadian History, Education, and Identity Guest Speaker Discussion – OISE",
-      "date": "November 23, 2026",
-      "url": "https://brn.utoronto.ca/event/black-canadian-history-education-and-identity-guest-speaker-discussion-oise/",
-      "departments": [
-        "Black Research Network"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "University of Toronto Percussion Ensemble Presents: Early Pioneers",
-      "date": "November 23, 2026",
-      "url": "https://music.utoronto.ca/event/261123-percussion-ensemble",
-      "departments": [
-        "Faculty of Music"
+        "U of T Entrepreneurship"
       ],
       "sources": [
         "U of T"
@@ -84,7 +84,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
       "departments": [
         "Alumni"
       ],
@@ -95,7 +95,7 @@
     {
       "title": "U of T Alumni Virtual Book Club — The Lion Women of Tehran",
       "date": "October 9 to December 11, 2026",
-      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran",
+      "url": "https://alumni.utoronto.ca/events/u-t-alumni-virtual-book-club-lion-women-tehran-0",
       "departments": [
         "Alumni"
       ],
@@ -208,17 +208,6 @@
       "url": "https://www.cdtps.utoronto.ca/events/2027-catr",
       "departments": [
         "Centre for Drama, Theatre and Performance Studies"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Finding Product-Market Fit",
-      "date": "November 24, 2026",
-      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/finding-product-market-fit",
-      "departments": [
-        "Centre for Entrepreneurship"
       ],
       "sources": [
         "U of T"
@@ -357,9 +346,9 @@
       ]
     },
     {
-      "title": "Early Modern Philosophy Research Interest Group (Raphaelle Dupont, U of T)",
+      "title": "Global Philosophy Research Group (Monica Z. X. Ding, U of T)",
       "date": "November 27, 2026",
-      "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-raphaelle-dupont-u-of-t/",
+      "url": "https://philosophy.utoronto.ca/event/global-philosophy-research-group-monica-z-x-ding-u-of-t/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -368,9 +357,9 @@
       ]
     },
     {
-      "title": "Global Philosophy Research Group (Monica Z. X. Ding, U of T)",
+      "title": "Early Modern Philosophy Research Interest Group (Raphaelle Dupont, U of T)",
       "date": "November 27, 2026",
-      "url": "https://philosophy.utoronto.ca/event/global-philosophy-research-group-monica-z-x-ding-u-of-t/",
+      "url": "https://philosophy.utoronto.ca/event/early-modern-philosophy-research-interest-group-raphaelle-dupont-u-of-t/",
       "departments": [
         "Department of Philosophy"
       ],
@@ -439,17 +428,6 @@
       "url": "https://socialwork.utoronto.ca/event/ilca-seminar-what-is-successful-aging-2-2/",
       "departments": [
         "Factor-Inwentash Faculty of Social Work"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "ChemE Master of Engineering (MEng) Online Application Support Drop-In",
-      "date": "November 24, 2026",
-      "url": "https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-11-24/",
-      "departments": [
-        "Faculty of Applied Science and Engineering"
       ],
       "sources": [
         "U of T"
@@ -577,9 +555,20 @@
       ]
     },
     {
-      "title": "RPO Grad Workshop #5 - CGRS M Peer Review",
+      "title": "Claudia Krawchuk Masterclass Series: Illia Ovcharenko, piano",
       "date": "November 25, 2026",
-      "url": "https://music.utoronto.ca/event/rpo-grad-workshop-5-cgrs-m-peer-review",
+      "url": "https://music.utoronto.ca/event/261125-masterclass-illia-ovcharenko",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "U of T Jazz Orchestra",
+      "date": "November 25, 2026",
+      "url": "https://music.utoronto.ca/event/261125-utjo",
       "departments": [
         "Faculty of Music"
       ],
@@ -665,9 +654,9 @@
       ]
     },
     {
-      "title": "Q&A: Master of Landscape Architecture (MLA)",
+      "title": "Q&A for Master of Landscape Architecture (MLA) applicants",
       "date": "November 24, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1795561200/qa-master-landscape-architecture-mla",
+      "url": "https://www.daniels.utoronto.ca/events/1795561200/qa-master-landscape-architecture-mla-applicants",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -676,9 +665,9 @@
       ]
     },
     {
-      "title": "Q&A for Master of Landscape Architecture (MLA) applicants",
+      "title": "Q&A: Master of Landscape Architecture (MLA)",
       "date": "November 24, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1795561200/qa-master-landscape-architecture-mla-applicants",
+      "url": "https://www.daniels.utoronto.ca/events/1795561200/qa-master-landscape-architecture-mla",
       "departments": [
         "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
@@ -764,17 +753,6 @@
       ]
     },
     {
-      "title": "EQUAL AI Forum for K-12 Education: Learning and Teaching with AI",
-      "date": "November 24, 2026",
-      "url": "https://www.oise.utoronto.ca/about/events/11-24-26-equal-ai-forum-k-12-education-learning-and-teaching-ai",
-      "departments": [
-        "Ontario Institute for Studies in Education"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Conférence du CREFO",
       "date": "November 24, 2026",
       "url": "https://www.oise.utoronto.ca/fr/crefo/evenements/11-24-26-conference-du-crefo",
@@ -789,6 +767,17 @@
       "title": "InspirEd Talk: Connecting Theory to Practice",
       "date": "November 24, 2026",
       "url": "https://www.oise.utoronto.ca/about/events/11-24-26-inspired-talk-connecting-theory-practice",
+      "departments": [
+        "Ontario Institute for Studies in Education"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Everybody's Child Is Yours: Early Learning and a Strong Economy",
+      "date": "November 24, 2026",
+      "url": "https://www.eventbrite.ca/e/everybodys-child-is-yours-early-learning-and-a-strong-economy-tickets-2002463520294?aff=ebdssbehomepeforyou",
       "departments": [
         "Ontario Institute for Studies in Education"
       ],
@@ -835,6 +824,28 @@
       "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2027/january-2027/jan-12---2027-economic-outlook-roundtable-insights-on-the-year-ahead/",
       "departments": [
         "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Patricia Faison Hewlin on 'Staying True to You: Balancing Authenticity and Belonging\"",
+      "date": "January 19, 2027",
+      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2027/january-2027/jan-19---patricia-faison-hewlin/",
+      "departments": [
+        "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "St. Michael’s Schola Cantorum Concert",
+      "date": "December 7, 2026",
+      "url": "https://stmikes.utoronto.ca/event/st-michaels-schola-cantorum-concert",
+      "departments": [
+        "St. Michael’s College"
       ],
       "sources": [
         "U of T"
@@ -984,17 +995,6 @@
       ]
     },
     {
-      "title": "Bill Graham Centre | Canada and the Vietnam War: 1963-1968 (opens in new tab)",
-      "date": "November 23, 2026",
-      "url": "https://billgrahamcentre.utoronto.ca/events/canada-the-vietnam-war-the-first-five-years-1963-1968",
-      "departments": [
-        "Trinity College"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Diplomacy Around the World: A Conversation with Ambassador Tamara Mawhinney",
       "date": "November 24, 2026",
       "url": "https://www.trinity.utoronto.ca/event/diplomacy-around-the-world-tamara-mawhinney/",
@@ -1039,33 +1039,22 @@
       ]
     },
     {
+      "title": "Lecture | Canada-European Cooperation for a Better World: Opportunities and Obstacles with Professor Jan Wouters (opens in new tab)",
+      "date": "November 30, 2026",
+      "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEBGddLDQ5D9Js3KZ7H7VIiJUODVPUllKRlE4UlNKMUtBREUwTzUzR1dGVC4u",
+      "departments": [
+        "Trinity College"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "We're hiring! University College 2027-2028 Residence and Off Campus Student Staff Applications",
       "date": "December 1, 2026",
       "url": "https://www.uc.utoronto.ca/student-staff-hiring-2027/28",
       "departments": [
         "University College"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Finding Product-Market Fit",
-      "date": "November 24, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/finding-product-market-fit/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "CRAFT Industry Open House",
-      "date": "November 25, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/craft-industry-open-house/",
-      "departments": [
-        "U of T Entrepreneurship"
       ],
       "sources": [
         "U of T"
@@ -1105,9 +1094,31 @@
       ]
     },
     {
+      "title": "CRAFT Industry Open House",
+      "date": "November 25, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/craft-industry-open-house/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Annual Food and Toy Drive",
       "date": "November 11 to November 25, 2026",
       "url": "https://www.studentlife.utoronto.ca/program/annual-food-and-toy-drive/",
+      "departments": [
+        "U of T St. George"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Nobel Week at U of T",
+      "date": "December 7 to December 10, 2026",
+      "url": "https://www.utoronto.ca/utogether/nobel-week-u-of-t-2026",
       "departments": [
         "U of T St. George"
       ],
