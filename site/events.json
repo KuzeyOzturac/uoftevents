@@ -1,46 +1,35 @@
 {
-  "updated_at": "2026-11-25T20:29:50.710039+00:00",
+  "updated_at": "2026-11-26T20:14:25.688009+00:00",
   "sources": [
     "https://www.utoronto.ca/events"
   ],
   "events": [
     {
-      "title": "BOOST! Workshop",
-      "date": "November 25, 2026",
-      "url": "https://cris.utoronto.ca/event/boost-workshop/",
+      "title": "Entrepreneur in Residence at the Toronto Reference Library",
+      "date": "November 26, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/entrepreneur-in-residence-at-the-toronto-reference-library/",
       "departments": [
-        "Centre for Research & Innovation Support"
+        "U of T Entrepreneurship"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "Facilitation for Researchers: How to design conversations that move collaborations forward - Nov. 25, 2026",
-      "date": "November 25, 2026",
-      "url": "https://cris.utoronto.ca/event/facilitation-for-researchers-how-to-design-conversations-that-move-collaborations-forward-nov-25-2026/",
+      "title": "Virtual Open House: PharmD for Pharmacists Program",
+      "date": "November 26, 2026",
+      "url": "https://www.pharmacy.utoronto.ca/events/virtual-open-house-pharmd-pharmacists-program",
       "departments": [
-        "Centre for Research & Innovation Support"
+        "Leslie Dan Faculty of Pharmacy"
       ],
       "sources": [
         "U of T"
       ]
     },
     {
-      "title": "VWA | The Art of Spanish Perfume (and One “Wild” Woman)",
-      "date": "November 25, 2026",
-      "url": "https://vicu.utoronto.ca/whats-happening/vwa-the-art-of-spanish-perfume-and-one-wild-woman",
-      "departments": [
-        "Victoria College"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "MGA & MPP Online Black Student & Alumni Panel for Black Prospectivestudents",
-      "date": "November 25, 2026",
-      "url": "https://munkschool.utoronto.ca/event/mga-mpp-online-black-student-alumni-panel-black-prospective-students",
+      "title": "Online JD-MPP & JD-MGA Student & Alumni Panel for first year Uof T, Law students(1Ls)",
+      "date": "November 26, 2026",
+      "url": "https://munkschool.utoronto.ca/event/online-jd-mpp-jd-mga-student-alumni-panel-first-year-uoft-law-students-1ls",
       "departments": [
         "U of T"
       ],
@@ -49,11 +38,22 @@
       ]
     },
     {
-      "title": "Stef Hutka on \"What Your Machines Should Do\"",
-      "date": "November 25, 2026",
-      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/november-25stef-hutka/",
+      "title": "Disruptors & Dilemmas — Surviving the smoke: The new reality of wildfires",
+      "date": "November 26, 2026",
+      "url": "https://www.engineering.utoronto.ca/event/surviving-the-smoke-the-new-reality-of-wildfires/",
       "departments": [
-        "Rotman School of Management"
+        "Faculty of Applied Science and Engineering"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "CIDEC Seminar and Film Screening: Moolam by Sangita Iyer",
+      "date": "November 26, 2026",
+      "url": "https://www.oise.utoronto.ca/cidec/about/events/11-26-26-cidec-seminar-and-film-screening-moolam-sangita-iyer",
+      "departments": [
+        "Ontario Institute for Studies in Education"
       ],
       "sources": [
         "U of T"
@@ -214,17 +214,6 @@
       ]
     },
     {
-      "title": "Prototype Playground",
-      "date": "November 25, 2026",
-      "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/prototype-playground",
-      "departments": [
-        "Centre for Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Info Session Lau Commercialization Catalyst Prize for Computing and Engineering Innovation",
       "date": "November 26, 2026",
       "url": "https://www.entrepreneurship.artsci.utoronto.ca/events/info-session-lau-commercialization-catalyst-prize-computing-and-engineering-innovation-0",
@@ -272,6 +261,28 @@
       "title": "Community-Engaged Research from Principles to Practice 2: Understanding Cultural & Population Variation in Research - Dec. 3, 2026",
       "date": "December 3, 2026",
       "url": "https://cris.utoronto.ca/event/community-engaged-research-from-principles-to-practice-2-understanding-cultural-population-variation-in-research/",
+      "departments": [
+        "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "CBRCanada - Renaud Goyer: Recipient of the Francophone Emerging Community-Based Researcher Award - Dec 3, 2026",
+      "date": "December 3, 2026",
+      "url": "https://cris.utoronto.ca/event/december-e-learning-centering-community-in-community-based-research-dec-3-2026/",
+      "departments": [
+        "Centre for Research & Innovation Support"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Drawing across the Disciplines: Fieldwork Workshop - Dec. 4, 2026",
+      "date": "December 4, 2026",
+      "url": "https://cris.utoronto.ca/event/drawing-across-the-disciplines-fieldwork-workshop-dec-4-2026/",
       "departments": [
         "Centre for Research & Innovation Support"
       ],
@@ -412,17 +423,6 @@
       ]
     },
     {
-      "title": "Disruptors & Dilemmas — Surviving the smoke: The new reality of wildfires",
-      "date": "November 26, 2026",
-      "url": "https://www.engineering.utoronto.ca/event/surviving-the-smoke-the-new-reality-of-wildfires/",
-      "departments": [
-        "Faculty of Applied Science and Engineering"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "ChemE Master of Engineering (MEng) Online Application Support Drop-In",
       "date": "December 1, 2026",
       "url": "https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-12-01/",
@@ -467,17 +467,6 @@
       ]
     },
     {
-      "title": "Seismographs of the Cold War: diaries in a transnational literary field, 1945-1975",
-      "date": "November 25, 2026",
-      "url": "https://www.artsci.utoronto.ca/events/seismographs-cold-war-diaries-transnational-literary-field-1945-1975",
-      "departments": [
-        "Faculty of Arts & Science"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "2026 Directors' Showcase",
       "date": "November 27, 2026",
       "url": "https://www.artsci.utoronto.ca/events/2026-directors-showcase",
@@ -492,6 +481,17 @@
       "title": "Seminar Series: African Pharmakon: The Asylum as Shrine from Slavery to the Return",
       "date": "December 1, 2026",
       "url": "https://www.artsci.utoronto.ca/events/seminar-series-african-pharmakon-asylum-shrine-slavery-return",
+      "departments": [
+        "Faculty of Arts & Science"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Computer Science Project Showcase",
+      "date": "December 9, 2026",
+      "url": "https://www.artsci.utoronto.ca/events/computer-science-project-showcase",
       "departments": [
         "Faculty of Arts & Science"
       ],
@@ -544,42 +544,9 @@
       ]
     },
     {
-      "title": "RPO Grad Workshop #5 - CGRS M Peer Review",
-      "date": "November 25, 2026",
-      "url": "https://music.utoronto.ca/event/rpo-grad-workshop-5-cgrs-m-peer-review",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Claudia Krawchuk Masterclass Series: Illia Ovcharenko, piano",
-      "date": "November 25, 2026",
-      "url": "https://music.utoronto.ca/event/261125-masterclass-illia-ovcharenko",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "U of T Jazz Orchestra",
-      "date": "November 25, 2026",
-      "url": "https://music.utoronto.ca/event/261125-utjo",
-      "departments": [
-        "Faculty of Music"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Claudia Krawchuk Masterclass Series: Illia Ovcharenko, piano",
-      "date": "November 25, 2026",
-      "url": "https://music.utoronto.ca/event/261125-masterclass-illia-ovcharenko-2",
+      "title": "Collegium Musicium",
+      "date": "November 26, 2026",
+      "url": "https://music.utoronto.ca/event/261126-collegium-musicium",
       "departments": [
         "Faculty of Music"
       ],
@@ -591,6 +558,39 @@
       "title": "Neville Austin Colloquium Series: Carmel Raz (Cornell University)",
       "date": "November 26, 2026",
       "url": "https://music.utoronto.ca/event/261126-colloquium-carmel-raz",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Masterclass: Jim Thompson, trumpet",
+      "date": "November 27, 2026",
+      "url": "https://music.utoronto.ca/event/261127-masterclass-jim-thompson",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "LIEDERABEND, curated by Russell Braun and Carolyn Maule",
+      "date": "November 27, 2026",
+      "url": "https://music.utoronto.ca/event/261127-liederabend",
+      "departments": [
+        "Faculty of Music"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Lobby Concert : Euphonium and Tuba Studio",
+      "date": "November 27, 2026",
+      "url": "https://music.utoronto.ca/event/261127-lobby-concert-euphonium-tuba",
       "departments": [
         "Faculty of Music"
       ],
@@ -654,6 +654,61 @@
       ]
     },
     {
+      "title": "Tin Embossing: Ornaments",
+      "date": "November 26, 2026",
+      "url": "https://harthouse.ca/events/tin-embossing-ornaments/",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Opening Reception: Hart House Student Art Committee Talking Walls Exhibition",
+      "date": "November 26, 2026",
+      "url": "https://harthouse.ca/events/opening-reception-hhsac-talking-walls-exhibition/2026/11/26/",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Clue",
+      "date": "November 26, 2026",
+      "url": "https://harthouse.ca/theatre/show/clue/2026/11/26/",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Clue",
+      "date": "November 27, 2026",
+      "url": "https://harthouse.ca/theatre/show/clue/2026/11/27/",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Lifelong Learners",
+      "date": "November 27, 2026",
+      "url": "https://harthouse.ca/events/lifelong-learners/2026/11/27/",
+      "departments": [
+        "Hart House"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "Dead Book Clubs",
       "date": "November 27, 2026",
       "url": "https://www.humanities.utoronto.ca/events/dead-book-clubs",
@@ -687,17 +742,6 @@
       ]
     },
     {
-      "title": "fORUM: Rouzbeh Akhbari with Shahram Khosravi",
-      "date": "December 8, 2026",
-      "url": "https://www.daniels.utoronto.ca/events/1796772600/forum-rouzbeh-akhbari-shahram-khosravi",
-      "departments": [
-        "John H. Daniels Faculty of Architecture, Landscape, and Design"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
       "title": "Architectural Studies (BAAS) Info Session",
       "date": "December 8, 2026",
       "url": "https://www.daniels.utoronto.ca/events/1796767200/architectural-studies-baas-info-session",
@@ -709,11 +753,11 @@
       ]
     },
     {
-      "title": "Virtual Open House: PharmD for Pharmacists Program",
-      "date": "November 26, 2026",
-      "url": "https://www.pharmacy.utoronto.ca/events/virtual-open-house-pharmd-pharmacists-program",
+      "title": "fORUM: Rouzbeh Akhbari with Shahram Khosravi",
+      "date": "December 8, 2026",
+      "url": "https://www.daniels.utoronto.ca/events/1796772600/forum-rouzbeh-akhbari-shahram-khosravi",
       "departments": [
-        "Leslie Dan Faculty of Pharmacy"
+        "John H. Daniels Faculty of Architecture, Landscape, and Design"
       ],
       "sources": [
         "U of T"
@@ -747,17 +791,6 @@
       "url": "https://www.pharmacy.utoronto.ca/events/stimuli-sensitive-hydrogels-glucose-sensing-and-rhythmic-hormone-delivery",
       "departments": [
         "Leslie Dan Faculty of Pharmacy"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "CIDEC Seminar and Film Screening: Moolam by Sangita Iyer",
-      "date": "November 26, 2026",
-      "url": "https://www.oise.utoronto.ca/cidec/about/events/11-26-26-cidec-seminar-and-film-screening-moolam-sangita-iyer",
-      "departments": [
-        "Ontario Institute for Studies in Education"
       ],
       "sources": [
         "U of T"
@@ -852,6 +885,17 @@
       ]
     },
     {
+      "title": "Jeffrey Cole on the Disrupters Reshaping Business and Society",
+      "date": "January 28, 2027",
+      "url": "https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2027/january-2027/january-28jeffrey-cole/",
+      "departments": [
+        "Rotman School of Management"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
       "title": "St. Michael’s Schola Cantorum Concert",
       "date": "December 7, 2026",
       "url": "https://stmikes.utoronto.ca/event/st-michaels-schola-cantorum-concert",
@@ -863,9 +907,9 @@
       ]
     },
     {
-      "title": "Collegium Meeting",
+      "title": "SMC Christmas Market",
       "date": "December 9, 2026",
-      "url": "https://stmikes.utoronto.ca/event/collegium-meeting-3",
+      "url": "https://stmikes.utoronto.ca/event/smc-christmas-market",
       "departments": [
         "St. Michael’s College"
       ],
@@ -874,9 +918,9 @@
       ]
     },
     {
-      "title": "SMC Christmas Market",
+      "title": "Collegium Meeting",
       "date": "December 9, 2026",
-      "url": "https://stmikes.utoronto.ca/event/smc-christmas-market",
+      "url": "https://stmikes.utoronto.ca/event/collegium-meeting-3",
       "departments": [
         "St. Michael’s College"
       ],
@@ -995,9 +1039,9 @@
       ]
     },
     {
-      "title": "Community-Engaged Research from Principles to Practice 2: Understanding Cultural & Population Variation in Research",
+      "title": "Temerty Centre Speaker Series: Dr. Amir Rahmani & Dr. Stephen Schueller (Dec. 3)",
       "date": "December 3, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/community-engaged-research-principles-practice-2-understanding-cultural-population-variation",
+      "url": "https://temertymedicine.utoronto.ca/event/temerty-centre-speaker-series-dr-amir-rahmani-dr-stephen-schueller-dec-3",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1006,9 +1050,9 @@
       ]
     },
     {
-      "title": "Temerty Centre Speaker Series: Dr. Amir Rahmani & Dr. Stephen Schueller (Dec. 3)",
+      "title": "Community-Engaged Research from Principles to Practice 2: Understanding Cultural & Population Variation in Research",
       "date": "December 3, 2026",
-      "url": "https://temertymedicine.utoronto.ca/event/temerty-centre-speaker-series-dr-amir-rahmani-dr-stephen-schueller-dec-3",
+      "url": "https://temertymedicine.utoronto.ca/event/community-engaged-research-principles-practice-2-understanding-cultural-population-variation",
       "departments": [
         "Temerty Faculty of Medicine"
       ],
@@ -1094,53 +1138,9 @@
       ]
     },
     {
-      "title": "CRAFT Industry Open House",
-      "date": "November 25, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/craft-industry-open-house/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Prototype Playground",
-      "date": "November 25, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/prototype-playground/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "AI Funding for 2027: Canada & US",
-      "date": "November 25, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/ai-funding-for-2027-canada-us/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Building Trust: Privacy and Data Governance in AI",
-      "date": "November 25, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/building-trust-privacy-and-data-governance-in-ai/",
-      "departments": [
-        "U of T Entrepreneurship"
-      ],
-      "sources": [
-        "U of T"
-      ]
-    },
-    {
-      "title": "Entrepreneur in Residence at the Toronto Reference Library",
+      "title": "Info Session Lau Commercialization Catalyst Prize for Computing and Engineering Innovation",
       "date": "November 26, 2026",
-      "url": "https://entrepreneurs.utoronto.ca/event/entrepreneur-in-residence-at-the-toronto-reference-library/",
+      "url": "https://entrepreneurs.utoronto.ca/event/info-session-lau-commercialization-catalyst-prize-for-computing-and-engineering-innovation/",
       "departments": [
         "U of T Entrepreneurship"
       ],
@@ -1149,11 +1149,33 @@
       ]
     },
     {
-      "title": "Annual Food and Toy Drive",
-      "date": "November 11 to November 25, 2026",
-      "url": "https://www.studentlife.utoronto.ca/program/annual-food-and-toy-drive/",
+      "title": "MaRS Mornings: Designing for access: Women's health equity",
+      "date": "November 26, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/mars-mornings-designing-for-access-womens-health-equity/",
       "departments": [
-        "U of T St. George"
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "Ecosystem Connects: AI and Beyond - Kick-off to the TPL AI Summit",
+      "date": "November 27, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/ecosystem-connects-ai-and-beyond-kick-off-to-the-tpl-ai-summit/",
+      "departments": [
+        "U of T Entrepreneurship"
+      ],
+      "sources": [
+        "U of T"
+      ]
+    },
+    {
+      "title": "LIMITLESS AI: A Hands-On AI Working Session for Business Leaders",
+      "date": "November 27, 2026",
+      "url": "https://entrepreneurs.utoronto.ca/event/limitless-ai-a-hands-on-ai-working-session-for-business-leaders/",
+      "departments": [
+        "U of T Entrepreneurship"
       ],
       "sources": [
         "U of T"

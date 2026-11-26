@@ -3,44 +3,44 @@ VERSION:2.0
 PRODID:-//UofT Event Scout//EN
 X-WR-CALNAME:U of T Events
 BEGIN:VEVENT
-UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Fboost-workshop%2F@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:BOOST! Workshop
-DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/boost-workshop/
-URL:https://cris.utoronto.ca/event/boost-workshop/
+UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fentrepreneur-in-residence-at-the-toronto-reference-library%2F@uoftevents
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Entrepreneur in Residence at the Toronto Reference Library
+DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/entrepreneur-in-residence-at-the-toronto-reference-library/
+URL:https://entrepreneurs.utoronto.ca/event/entrepreneur-in-residence-at-the-toronto-reference-library/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Ffacilitation-for-researchers-how-to-design-conversations-that-move-collaborations-forward-nov-25-2026%2F@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Facilitation for Researchers: How to design conversations that move collaborations forward - Nov. 25\, 2026
-DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/facilitation-for-researchers-how-to-design-conversations-that-move-collaborations-forward-nov-25-2026/
-URL:https://cris.utoronto.ca/event/facilitation-for-researchers-how-to-design-conversations-that-move-collaborations-forward-nov-25-2026/
+UID:https%3A%2F%2Fwww.pharmacy.utoronto.ca%2Fevents%2Fvirtual-open-house-pharmd-pharmacists-program@uoftevents
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Virtual Open House: PharmD for Pharmacists Program
+DESCRIPTION:Verify time\, location\, and registration: https://www.pharmacy.utoronto.ca/events/virtual-open-house-pharmd-pharmacists-program
+URL:https://www.pharmacy.utoronto.ca/events/virtual-open-house-pharmd-pharmacists-program
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fvicu.utoronto.ca%2Fwhats-happening%2Fvwa-the-art-of-spanish-perfume-and-one-wild-woman@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:VWA | The Art of Spanish Perfume (and One “Wild” Woman)
-DESCRIPTION:Verify time\, location\, and registration: https://vicu.utoronto.ca/whats-happening/vwa-the-art-of-spanish-perfume-and-one-wild-woman
-URL:https://vicu.utoronto.ca/whats-happening/vwa-the-art-of-spanish-perfume-and-one-wild-woman
+UID:https%3A%2F%2Fmunkschool.utoronto.ca%2Fevent%2Fonline-jd-mpp-jd-mga-student-alumni-panel-first-year-uoft-law-students-1ls@uoftevents
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Online JD-MPP & JD-MGA Student & Alumni Panel for first year Uof T\, Law students(1Ls)
+DESCRIPTION:Verify time\, location\, and registration: https://munkschool.utoronto.ca/event/online-jd-mpp-jd-mga-student-alumni-panel-first-year-uoft-law-students-1ls
+URL:https://munkschool.utoronto.ca/event/online-jd-mpp-jd-mga-student-alumni-panel-first-year-uoft-law-students-1ls
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fmunkschool.utoronto.ca%2Fevent%2Fmga-mpp-online-black-student-alumni-panel-black-prospective-students@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:MGA & MPP Online Black Student & Alumni Panel for Black Prospectivestudents
-DESCRIPTION:Verify time\, location\, and registration: https://munkschool.utoronto.ca/event/mga-mpp-online-black-student-alumni-panel-black-prospective-students
-URL:https://munkschool.utoronto.ca/event/mga-mpp-online-black-student-alumni-panel-black-prospective-students
+UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Fsurviving-the-smoke-the-new-reality-of-wildfires%2F@uoftevents
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Disruptors & Dilemmas — Surviving the smoke: The new reality of wildfires
+DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/surviving-the-smoke-the-new-reality-of-wildfires/
+URL:https://www.engineering.utoronto.ca/event/surviving-the-smoke-the-new-reality-of-wildfires/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.rotman.utoronto.ca%2Fnews-events-and-ideas%2Fpublic-events%2Fevents-listings%2F2026%2Fnovember-2026%2Fnovember-25stef-hutka%2F@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Stef Hutka on "What Your Machines Should Do"
-DESCRIPTION:Verify time\, location\, and registration: https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/november-25stef-hutka/
-URL:https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2026/november-2026/november-25stef-hutka/
+UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fcidec%2Fabout%2Fevents%2F11-26-26-cidec-seminar-and-film-screening-moolam-sangita-iyer@uoftevents
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:CIDEC Seminar and Film Screening: Moolam by Sangita Iyer
+DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/cidec/about/events/11-26-26-cidec-seminar-and-film-screening-moolam-sangita-iyer
+URL:https://www.oise.utoronto.ca/cidec/about/events/11-26-26-cidec-seminar-and-film-screening-moolam-sangita-iyer
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Falumni.utoronto.ca%2Fevents%2Fpublic-history-lab-hitler-and-stalin-today-professor-timothy-snyder@uoftevents
@@ -155,14 +155,6 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.cdtps.utoront
 URL:https://www.cdtps.utoronto.ca/events/2027-catr
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.entrepreneurship.artsci.utoronto.ca%2Fevents%2Fprototype-playground@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Prototype Playground
-DESCRIPTION:Verify time\, location\, and registration: https://www.entrepreneurship.artsci.utoronto.ca/events/prototype-playground
-URL:https://www.entrepreneurship.artsci.utoronto.ca/events/prototype-playground
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.entrepreneurship.artsci.utoronto.ca%2Fevents%2Finfo-session-lau-commercialization-catalyst-prize-computing-and-engineering-innovation-0@uoftevents
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
@@ -201,6 +193,22 @@ DTEND;VALUE=DATE:20261204
 SUMMARY:Community-Engaged Research from Principles to Practice 2: Understanding Cultural & Population Variation in Research - Dec. 3\, 2026
 DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/community-engaged-research-from-principles-to-practice-2-understanding-cultural-population-variation-in-research/
 URL:https://cris.utoronto.ca/event/community-engaged-research-from-principles-to-practice-2-understanding-cultural-population-variation-in-research/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Fdecember-e-learning-centering-community-in-community-based-research-dec-3-2026%2F@uoftevents
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:CBRCanada - Renaud Goyer: Recipient of the Francophone Emerging Community-Based Researcher Award - Dec 3\, 2026
+DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/december-e-learning-centering-community-in-community-based-research-dec-3-2026/
+URL:https://cris.utoronto.ca/event/december-e-learning-centering-community-in-community-based-research-dec-3-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fcris.utoronto.ca%2Fevent%2Fdrawing-across-the-disciplines-fieldwork-workshop-dec-4-2026%2F@uoftevents
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Drawing across the Disciplines: Fieldwork Workshop - Dec. 4\, 2026
+DESCRIPTION:Verify time\, location\, and registration: https://cris.utoronto.ca/event/drawing-across-the-disciplines-fieldwork-workshop-dec-4-2026/
+URL:https://cris.utoronto.ca/event/drawing-across-the-disciplines-fieldwork-workshop-dec-4-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.dlsph.utoronto.ca%2Fevent%2Fmph-in-black-health-information-sessions-4%2F@uoftevents
@@ -299,14 +307,6 @@ DESCRIPTION:Verify time\, location\, and registration: https://socialwork.utoron
 URL:https://socialwork.utoronto.ca/event/ilca-seminar-what-is-successful-aging-2-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Fsurviving-the-smoke-the-new-reality-of-wildfires%2F@uoftevents
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Disruptors & Dilemmas — Surviving the smoke: The new reality of wildfires
-DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.utoronto.ca/event/surviving-the-smoke-the-new-reality-of-wildfires/
-URL:https://www.engineering.utoronto.ca/event/surviving-the-smoke-the-new-reality-of-wildfires/
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.engineering.utoronto.ca%2Fevent%2Fcheme-master-of-engineering-meng-online-application-support-drop-in%2F2026-12-01%2F@uoftevents
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
@@ -339,14 +339,6 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.engineering.u
 URL:https://www.engineering.utoronto.ca/event/cheme-master-of-engineering-meng-online-application-support-drop-in/2026-12-22/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.artsci.utoronto.ca%2Fevents%2Fseismographs-cold-war-diaries-transnational-literary-field-1945-1975@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Seismographs of the Cold War: diaries in a transnational literary field\, 1945-1975
-DESCRIPTION:Verify time\, location\, and registration: https://www.artsci.utoronto.ca/events/seismographs-cold-war-diaries-transnational-literary-field-1945-1975
-URL:https://www.artsci.utoronto.ca/events/seismographs-cold-war-diaries-transnational-literary-field-1945-1975
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.artsci.utoronto.ca%2Fevents%2F2026-directors-showcase@uoftevents
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
@@ -361,6 +353,14 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Seminar Series: African Pharmakon: The Asylum as Shrine from Slavery to the Return
 DESCRIPTION:Verify time\, location\, and registration: https://www.artsci.utoronto.ca/events/seminar-series-african-pharmakon-asylum-shrine-slavery-return
 URL:https://www.artsci.utoronto.ca/events/seminar-series-african-pharmakon-asylum-shrine-slavery-return
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.artsci.utoronto.ca%2Fevents%2Fcomputer-science-project-showcase@uoftevents
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Computer Science Project Showcase
+DESCRIPTION:Verify time\, location\, and registration: https://www.artsci.utoronto.ca/events/computer-science-project-showcase
+URL:https://www.artsci.utoronto.ca/events/computer-science-project-showcase
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fkpe.utoronto.ca%2Fthu-11262026-1600%2Fshe-moves-goldring-open-house@uoftevents
@@ -395,36 +395,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://kpe.utoronto.ca/t
 URL:https://kpe.utoronto.ca/tue-12082026-1800/betting-their-futures-gambling-harm-and-integrity-canadian-university-sport
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2Frpo-grad-workshop-5-cgrs-m-peer-review@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:RPO Grad Workshop #5 - CGRS M Peer Review
-DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/rpo-grad-workshop-5-cgrs-m-peer-review
-URL:https://music.utoronto.ca/event/rpo-grad-workshop-5-cgrs-m-peer-review
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2F261125-masterclass-illia-ovcharenko@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Claudia Krawchuk Masterclass Series: Illia Ovcharenko\, piano
-DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/261125-masterclass-illia-ovcharenko
-URL:https://music.utoronto.ca/event/261125-masterclass-illia-ovcharenko
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2F261125-utjo@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:U of T Jazz Orchestra
-DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/261125-utjo
-URL:https://music.utoronto.ca/event/261125-utjo
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2F261125-masterclass-illia-ovcharenko-2@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Claudia Krawchuk Masterclass Series: Illia Ovcharenko\, piano
-DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/261125-masterclass-illia-ovcharenko-2
-URL:https://music.utoronto.ca/event/261125-masterclass-illia-ovcharenko-2
+UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2F261126-collegium-musicium@uoftevents
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Collegium Musicium
+DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/261126-collegium-musicium
+URL:https://music.utoronto.ca/event/261126-collegium-musicium
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2F261126-colloquium-carmel-raz@uoftevents
@@ -433,6 +409,30 @@ DTEND;VALUE=DATE:20261127
 SUMMARY:Neville Austin Colloquium Series: Carmel Raz (Cornell University)
 DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/261126-colloquium-carmel-raz
 URL:https://music.utoronto.ca/event/261126-colloquium-carmel-raz
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2F261127-masterclass-jim-thompson@uoftevents
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Masterclass: Jim Thompson\, trumpet
+DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/261127-masterclass-jim-thompson
+URL:https://music.utoronto.ca/event/261127-masterclass-jim-thompson
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2F261127-liederabend@uoftevents
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:LIEDERABEND\, curated by Russell Braun and Carolyn Maule
+DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/261127-liederabend
+URL:https://music.utoronto.ca/event/261127-liederabend
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fmusic.utoronto.ca%2Fevent%2F261127-lobby-concert-euphonium-tuba@uoftevents
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Lobby Concert : Euphonium and Tuba Studio
+DESCRIPTION:Verify time\, location\, and registration: https://music.utoronto.ca/event/261127-lobby-concert-euphonium-tuba
+URL:https://music.utoronto.ca/event/261127-lobby-concert-euphonium-tuba
 END:VEVENT
 BEGIN:VEVENT
 UID:http%3A%2F%2Fwww.fields.utoronto.ca%2Factivities%2F26-27%2Fmeforum-Nov@uoftevents
@@ -475,6 +475,46 @@ DESCRIPTION:Verify time\, location\, and registration: http://www.fields.utoront
 URL:http://www.fields.utoronto.ca/activities/26-27/crossroads
 END:VEVENT
 BEGIN:VEVENT
+UID:https%3A%2F%2Fharthouse.ca%2Fevents%2Ftin-embossing-ornaments%2F@uoftevents
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Tin Embossing: Ornaments
+DESCRIPTION:Verify time\, location\, and registration: https://harthouse.ca/events/tin-embossing-ornaments/
+URL:https://harthouse.ca/events/tin-embossing-ornaments/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fharthouse.ca%2Fevents%2Fopening-reception-hhsac-talking-walls-exhibition%2F2026%2F11%2F26%2F@uoftevents
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Opening Reception: Hart House Student Art Committee Talking Walls Exhibition
+DESCRIPTION:Verify time\, location\, and registration: https://harthouse.ca/events/opening-reception-hhsac-talking-walls-exhibition/2026/11/26/
+URL:https://harthouse.ca/events/opening-reception-hhsac-talking-walls-exhibition/2026/11/26/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fharthouse.ca%2Ftheatre%2Fshow%2Fclue%2F2026%2F11%2F26%2F@uoftevents
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Clue
+DESCRIPTION:Verify time\, location\, and registration: https://harthouse.ca/theatre/show/clue/2026/11/26/
+URL:https://harthouse.ca/theatre/show/clue/2026/11/26/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fharthouse.ca%2Ftheatre%2Fshow%2Fclue%2F2026%2F11%2F27%2F@uoftevents
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Clue
+DESCRIPTION:Verify time\, location\, and registration: https://harthouse.ca/theatre/show/clue/2026/11/27/
+URL:https://harthouse.ca/theatre/show/clue/2026/11/27/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fharthouse.ca%2Fevents%2Flifelong-learners%2F2026%2F11%2F27%2F@uoftevents
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Lifelong Learners
+DESCRIPTION:Verify time\, location\, and registration: https://harthouse.ca/events/lifelong-learners/2026/11/27/
+URL:https://harthouse.ca/events/lifelong-learners/2026/11/27/
+END:VEVENT
+BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.humanities.utoronto.ca%2Fevents%2Fdead-book-clubs@uoftevents
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
@@ -499,14 +539,6 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoro
 URL:https://www.daniels.utoronto.ca/events/1795881600/graduate-open-house
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.daniels.utoronto.ca%2Fevents%2F1796772600%2Fforum-rouzbeh-akhbari-shahram-khosravi@uoftevents
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:fORUM: Rouzbeh Akhbari with Shahram Khosravi
-DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoronto.ca/events/1796772600/forum-rouzbeh-akhbari-shahram-khosravi
-URL:https://www.daniels.utoronto.ca/events/1796772600/forum-rouzbeh-akhbari-shahram-khosravi
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.daniels.utoronto.ca%2Fevents%2F1796767200%2Farchitectural-studies-baas-info-session@uoftevents
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
@@ -515,12 +547,12 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoro
 URL:https://www.daniels.utoronto.ca/events/1796767200/architectural-studies-baas-info-session
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.pharmacy.utoronto.ca%2Fevents%2Fvirtual-open-house-pharmd-pharmacists-program@uoftevents
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Virtual Open House: PharmD for Pharmacists Program
-DESCRIPTION:Verify time\, location\, and registration: https://www.pharmacy.utoronto.ca/events/virtual-open-house-pharmd-pharmacists-program
-URL:https://www.pharmacy.utoronto.ca/events/virtual-open-house-pharmd-pharmacists-program
+UID:https%3A%2F%2Fwww.daniels.utoronto.ca%2Fevents%2F1796772600%2Fforum-rouzbeh-akhbari-shahram-khosravi@uoftevents
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:fORUM: Rouzbeh Akhbari with Shahram Khosravi
+DESCRIPTION:Verify time\, location\, and registration: https://www.daniels.utoronto.ca/events/1796772600/forum-rouzbeh-akhbari-shahram-khosravi
+URL:https://www.daniels.utoronto.ca/events/1796772600/forum-rouzbeh-akhbari-shahram-khosravi
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.pharmacy.utoronto.ca%2Fevents%2Fdesigning-integration-innovations-new-pharmd-curriculum@uoftevents
@@ -545,14 +577,6 @@ DTEND;VALUE=DATE:20261212
 SUMMARY:Stimuli-Sensitive Hydrogels for Glucose Sensing and Rhythmic Hormone Delivery
 DESCRIPTION:Verify time\, location\, and registration: https://www.pharmacy.utoronto.ca/events/stimuli-sensitive-hydrogels-glucose-sensing-and-rhythmic-hormone-delivery
 URL:https://www.pharmacy.utoronto.ca/events/stimuli-sensitive-hydrogels-glucose-sensing-and-rhythmic-hormone-delivery
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.oise.utoronto.ca%2Fcidec%2Fabout%2Fevents%2F11-26-26-cidec-seminar-and-film-screening-moolam-sangita-iyer@uoftevents
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:CIDEC Seminar and Film Screening: Moolam by Sangita Iyer
-DESCRIPTION:Verify time\, location\, and registration: https://www.oise.utoronto.ca/cidec/about/events/11-26-26-cidec-seminar-and-film-screening-moolam-sangita-iyer
-URL:https://www.oise.utoronto.ca/cidec/about/events/11-26-26-cidec-seminar-and-film-screening-moolam-sangita-iyer
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSdKW471QEBahNS5nu5EHPQvdtUzNgbQD6wZ-eYrr5F5d942BA%2Fviewform@uoftevents
@@ -619,6 +643,14 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.rotman.utoron
 URL:https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2027/january-2027/jan-19---patricia-faison-hewlin/
 END:VEVENT
 BEGIN:VEVENT
+UID:https%3A%2F%2Fwww.rotman.utoronto.ca%2Fnews-events-and-ideas%2Fpublic-events%2Fevents-listings%2F2027%2Fjanuary-2027%2Fjanuary-28jeffrey-cole%2F@uoftevents
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Jeffrey Cole on the Disrupters Reshaping Business and Society
+DESCRIPTION:Verify time\, location\, and registration: https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2027/january-2027/january-28jeffrey-cole/
+URL:https://www.rotman.utoronto.ca/news-events-and-ideas/public-events/events-listings/2027/january-2027/january-28jeffrey-cole/
+END:VEVENT
+BEGIN:VEVENT
 UID:https%3A%2F%2Fstmikes.utoronto.ca%2Fevent%2Fst-michaels-schola-cantorum-concert@uoftevents
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
@@ -627,20 +659,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://stmikes.utoronto.
 URL:https://stmikes.utoronto.ca/event/st-michaels-schola-cantorum-concert
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fstmikes.utoronto.ca%2Fevent%2Fcollegium-meeting-3@uoftevents
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:Collegium Meeting
-DESCRIPTION:Verify time\, location\, and registration: https://stmikes.utoronto.ca/event/collegium-meeting-3
-URL:https://stmikes.utoronto.ca/event/collegium-meeting-3
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Fstmikes.utoronto.ca%2Fevent%2Fsmc-christmas-market@uoftevents
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:SMC Christmas Market
 DESCRIPTION:Verify time\, location\, and registration: https://stmikes.utoronto.ca/event/smc-christmas-market
 URL:https://stmikes.utoronto.ca/event/smc-christmas-market
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fstmikes.utoronto.ca%2Fevent%2Fcollegium-meeting-3@uoftevents
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Collegium Meeting
+DESCRIPTION:Verify time\, location\, and registration: https://stmikes.utoronto.ca/event/collegium-meeting-3
+URL:https://stmikes.utoronto.ca/event/collegium-meeting-3
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fschoolofcities.utoronto.ca%2Fevent%2Fknowledge-cafe-mobilizing-justice-addressing-transport-poverty-in-canada%2F@uoftevents
@@ -723,20 +755,20 @@ DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.u
 URL:https://temertymedicine.utoronto.ca/event/mito2026-international-conference
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Fcommunity-engaged-research-principles-practice-2-understanding-cultural-population-variation@uoftevents
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:Community-Engaged Research from Principles to Practice 2: Understanding Cultural & Population Variation in Research
-DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.utoronto.ca/event/community-engaged-research-principles-practice-2-understanding-cultural-population-variation
-URL:https://temertymedicine.utoronto.ca/event/community-engaged-research-principles-practice-2-understanding-cultural-population-variation
-END:VEVENT
-BEGIN:VEVENT
 UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Ftemerty-centre-speaker-series-dr-amir-rahmani-dr-stephen-schueller-dec-3@uoftevents
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Temerty Centre Speaker Series: Dr. Amir Rahmani & Dr. Stephen Schueller (Dec. 3)
 DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.utoronto.ca/event/temerty-centre-speaker-series-dr-amir-rahmani-dr-stephen-schueller-dec-3
 URL:https://temertymedicine.utoronto.ca/event/temerty-centre-speaker-series-dr-amir-rahmani-dr-stephen-schueller-dec-3
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Fcommunity-engaged-research-principles-practice-2-understanding-cultural-population-variation@uoftevents
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Community-Engaged Research from Principles to Practice 2: Understanding Cultural & Population Variation in Research
+DESCRIPTION:Verify time\, location\, and registration: https://temertymedicine.utoronto.ca/event/community-engaged-research-principles-practice-2-understanding-cultural-population-variation
+URL:https://temertymedicine.utoronto.ca/event/community-engaged-research-principles-practice-2-understanding-cultural-population-variation
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Ftemertymedicine.utoronto.ca%2Fevent%2Fdeadline-submit-detailed-appraisal-section-royal-society-canada-nominations-rihse-editorial@uoftevents
@@ -795,52 +827,36 @@ DESCRIPTION:Verify time\, location\, and registration: https://www.uc.utoronto.c
 URL:https://www.uc.utoronto.ca/student-staff-hiring-2027/28
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fcraft-industry-open-house%2F@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:CRAFT Industry Open House
-DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/craft-industry-open-house/
-URL:https://entrepreneurs.utoronto.ca/event/craft-industry-open-house/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fprototype-playground%2F@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Prototype Playground
-DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/prototype-playground/
-URL:https://entrepreneurs.utoronto.ca/event/prototype-playground/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fai-funding-for-2027-canada-us%2F@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:AI Funding for 2027: Canada & US
-DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/ai-funding-for-2027-canada-us/
-URL:https://entrepreneurs.utoronto.ca/event/ai-funding-for-2027-canada-us/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fbuilding-trust-privacy-and-data-governance-in-ai%2F@uoftevents
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Building Trust: Privacy and Data Governance in AI
-DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/building-trust-privacy-and-data-governance-in-ai/
-URL:https://entrepreneurs.utoronto.ca/event/building-trust-privacy-and-data-governance-in-ai/
-END:VEVENT
-BEGIN:VEVENT
-UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fentrepreneur-in-residence-at-the-toronto-reference-library%2F@uoftevents
+UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Finfo-session-lau-commercialization-catalyst-prize-for-computing-and-engineering-innovation%2F@uoftevents
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Entrepreneur in Residence at the Toronto Reference Library
-DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/entrepreneur-in-residence-at-the-toronto-reference-library/
-URL:https://entrepreneurs.utoronto.ca/event/entrepreneur-in-residence-at-the-toronto-reference-library/
+SUMMARY:Info Session Lau Commercialization Catalyst Prize for Computing and Engineering Innovation
+DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/info-session-lau-commercialization-catalyst-prize-for-computing-and-engineering-innovation/
+URL:https://entrepreneurs.utoronto.ca/event/info-session-lau-commercialization-catalyst-prize-for-computing-and-engineering-innovation/
 END:VEVENT
 BEGIN:VEVENT
-UID:https%3A%2F%2Fwww.studentlife.utoronto.ca%2Fprogram%2Fannual-food-and-toy-drive%2F@uoftevents
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Annual Food and Toy Drive
-DESCRIPTION:Verify time\, location\, and registration: https://www.studentlife.utoronto.ca/program/annual-food-and-toy-drive/
-URL:https://www.studentlife.utoronto.ca/program/annual-food-and-toy-drive/
+UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fmars-mornings-designing-for-access-womens-health-equity%2F@uoftevents
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:MaRS Mornings: Designing for access: Women's health equity
+DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/mars-mornings-designing-for-access-womens-health-equity/
+URL:https://entrepreneurs.utoronto.ca/event/mars-mornings-designing-for-access-womens-health-equity/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Fecosystem-connects-ai-and-beyond-kick-off-to-the-tpl-ai-summit%2F@uoftevents
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Ecosystem Connects: AI and Beyond - Kick-off to the TPL AI Summit
+DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/ecosystem-connects-ai-and-beyond-kick-off-to-the-tpl-ai-summit/
+URL:https://entrepreneurs.utoronto.ca/event/ecosystem-connects-ai-and-beyond-kick-off-to-the-tpl-ai-summit/
+END:VEVENT
+BEGIN:VEVENT
+UID:https%3A%2F%2Fentrepreneurs.utoronto.ca%2Fevent%2Flimitless-ai-a-hands-on-ai-working-session-for-business-leaders%2F@uoftevents
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:LIMITLESS AI: A Hands-On AI Working Session for Business Leaders
+DESCRIPTION:Verify time\, location\, and registration: https://entrepreneurs.utoronto.ca/event/limitless-ai-a-hands-on-ai-working-session-for-business-leaders/
+URL:https://entrepreneurs.utoronto.ca/event/limitless-ai-a-hands-on-ai-working-session-for-business-leaders/
 END:VEVENT
 BEGIN:VEVENT
 UID:https%3A%2F%2Fwww.utoronto.ca%2Futogether%2Fnobel-week-u-of-t-2026@uoftevents
